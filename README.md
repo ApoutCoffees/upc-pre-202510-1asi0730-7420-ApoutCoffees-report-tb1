@@ -283,6 +283,13 @@ Esto demuestra que existe una alta demanda insatisfecha, y una oportunidad clara
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
+
+Nuestro producto de software tiene como objetivo conectar eficazmente mediante un entorno digital a empresas cafeteras con consumidores de café. Ofreciendo funcionalidades innovadoras como entregas en forma de cajas misteriosas y contando con métricas de consumo para ayudar a las marcas con el análisis del mercado.
+
+La problemática principalmente radica en que las marcas o empresas cafeteras peruanas (especialmente las más pequeñas) no poseen mucha visibilidad en el mercado y por consiguiente no logran llegar llegar al público objetivo. Esto genera que no consigan los ingresos esperados y sus negocios no logren conseguir el éxito empresarial.
+
+¿Cómo podemos ayudar a las empresas cafeteras a lograr ganar visibilidad en el mercado del café para que puedan mejorar sus ingresos y sus productos puedan llegar a ser reconocidos por el consumidor objetivo?
+
 ### 1.2.2.2. Lean UX Assumptions
 ##### 1.2.2.2.1. Assumptions Worksheet 
 ##### 1.2.2.2.2. Business Outcomes 
