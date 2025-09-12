@@ -414,6 +414,9 @@ La aplicación debe verse atractiva para el cliente, transmitiendo un ambiente r
     **Sabremos que es cierto cuando** veamos un incremento del 40% de usuarios que se registran en periodos de publicación de comerciales
 
 #### 1.2.2.4. Lean UX Canvas
+
+![](img/lean-ux-canvas.png)
+
 ## 1.3. Segmentos Objetivo
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores 
