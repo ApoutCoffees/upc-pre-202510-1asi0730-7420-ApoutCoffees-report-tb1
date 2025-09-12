@@ -139,10 +139,148 @@
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
-### 1.1.1. Descripción de la Startup 
+
+### 1.1.1. Descripción de la Startup
+
+Nuestra startup, Smiling Cups, es una aplicación web que conecta a amantes del café con cafeterías locales, ofreciendo un servicio de suscripciones digitales, con beneficios y promociones para los compradores, y herramientas digitales para las cafeterías para obtener métricas de consumo, llegar a más clientes y lanzar promociones. De este modo, Smiling Cups, además de dar alcance a emprendimientos cafeteros, crea una comunidad digital en torno a la experiencia cafetera, aportando valor tanto a consumidores como a los negocios.
+
+Misión: Por un lado, ofrecemos a los amantes del café un servicio digital accesible y escalable para explorar su gusto por el café mediante beneficios exclusivos a través de un modelo de suscripciones. Por otro lado, brindamos a los negocios herramientas tecnológicas para expandir su público y fidelizar a sus clientes.
+
+Visión: Nuestra visión es convertirnos en la plataforma líder en experiencias digitales de café, conectando a amantes del café con cafeterías a través de un ecosistema innovador que promueva la comunidad cafetera.
+
 ### 1.1.2. Perfiles de integrantes del equipo 
+
+| Integrante                       | Código     | Carrera / Información                                                                 |
+|----------------------------------|------------|----------------------------------------------------------------------------------------|
+| Aquino Solorzano, Daniel Jonatan | u202217678 | Ingeniería de Software. Responsable y puntual. Conocimientos en C++ y Java.            |
+| Ojanama Abanto, Johnny Alexander | u20231f412 | —                                                                                      |
+| Paredes Chavez, Carlos Augusto   | u202321613 | —                                                                                      |
+| Pastor Napa, Juan Carlos         | u202217288 | Ingenieria de Software. Creativo. Conocimientos en C++, redes, electronica y tecnico.  |
+| Pelaez Vargas, Giuliano Angel    | u20221e121 | —                                                                                      |
+
 ## 1.2. Solution Profile 
+
+ApoutCoffees es una plataforma en línea enfocada en la venta de cajas de misterio de café de alta calidad, que incluye cafés elegidos de pequeños proyectos peruanos.
+
+ Su objetivo es enlazar a los consumidores con vivencias singulares de cata, proporcionando una compra digital fácil y atractiva, a la vez que otorga visibilidad y mayores beneficios a los productores locales. 
+
+La app ofrece la opción de seleccionar entre tres clases de cajas misteriosas, cada una con un rango de precios diferente, presentadas en porciones individuales y con tarjetas informativas sobre el origen, perfiles de sabor y el proyecto detrás de cada café.
+
+ De este modo, los consumidores encuentran nuevas opciones sin dificultades, mientras que los productores de café tienen acceso a un canal de venta en línea que aumenta su difusión del consumo local de café peruano.
+
 ### 1.2.1. Antecedentes y Problemática
+
+Para entender mejor las necesidades de nuestros usuarios, hemos investigado sus antecedentes históricos y el problema utilizando la técnica de las 5W’s y 2H’s. Esta técnica es un método de análisis que ayuda a centrarse en las causas de un problema. Nuestro estudio se fundamenta en los antecedentes que han experimentado nuestros usuarios. A continuación, presentamos la información recopilada a través de esta técnica.  
+
+
+### **What?**  
+**¿Cuál es la dificultad?**  
+El problema central que enfrentamos es la dificultad que tienen los consumidores para obtener cafés peruanos de pequeños agricultores de manera práctica, atractiva y contemporánea. A pesar de que Perú es conocido por la excelencia de su café, gran parte de la producción de pequeñas empresas no alcanza al consumidor final debido a la ausencia de canales de distribución innovadores. Esto restringe la visibilidad de los productores y quita a los consumidores experiencias variadas y de calidad.  
+
+**¿Qué tipo de vínculo existe con la persona mencionada?**  
+Los consumidores se ven directamente impactados al contar con escasas alternativas para encontrar cafés nuevos y diversos. Simultáneamente, los pequeños productores de café y los emprendimientos se enfrentan a dificultades en la comercialización y a la limitada accesibilidad a un mercado más extenso.  
+
+
+### **When**  
+**¿Cuándo ocurre el inconveniente?**  
+- En el proceso de adquisición, al buscar cafés especiales, los consumidores se topan con opciones restringidas en supermercados o grandes cadenas.  
+- En ocasiones de obsequio o de compra personal, cuando buscan una experiencia de alta calidad, pero no hallan opciones creativas ni asequibles.  
+
+**¿Cuándo emplea el cliente el producto?**  
+Los usuarios emplearán la aplicación web para elegir una de las 3 cajas misteriosas ofrecidas de acuerdo a su presupuesto (básica, premium o exclusiva). Emplearán el servicio tanto para uso personal como para obsequios o suscripciones mensuales.  
+
+
+### **Where**  
+**¿En qué lugar se encuentra el cliente al utilizar el producto?**  
+El cliente ingresa desde su hogar, oficina o cualquier sitio con internet, a través de la aplicación web.  
+
+**¿De dónde proviene el inconveniente?**  
+La dificultad se presenta en la escasa participación de pequeños productores en el ámbito digital y en la carencia de plataformas que hagan de la adquisición de café una experiencia interesante y adaptada a cada cliente.  
+
+
+### **What?**  
+**¿Cuál es el problema?**  
+El principal problema que abordamos es la dificultad de los consumidores para acceder a cafés peruanos de pequeños productores en un formato práctico, atractivo y moderno. Aunque Perú es reconocido por la calidad de su café, gran parte de la producción de emprendimientos locales no logra llegar al consumidor final debido a la falta de canales de distribución innovadores. Esto limita la visibilidad de los productores y priva a los consumidores de experiencias diversas y de calidad.  
+
+**¿Cuál es la relación con la persona en cuestión?**  
+Los consumidores son directamente afectados al tener pocas opciones para descubrir cafés nuevos y diferenciados. A la vez, los pequeños caficultores y emprendimientos enfrentan problemas de comercialización y falta de llegada a un mercado más amplio.  
+
+
+### **When**  
+**¿Cuándo sucede el problema?**  
+- Durante el proceso de compra, cuando los consumidores buscan cafés especiales pero se encuentran con opciones limitadas en supermercados o cadenas grandes.  
+- En momentos de regalo o consumo personal, cuando desean una experiencia premium, pero no encuentran propuestas innovadoras ni accesibles.  
+
+**¿Cuándo utiliza el cliente el producto?**  
+Los clientes usarán la aplicación web para seleccionar una de las 3 mystery boxes disponibles según su presupuesto (básica, premium o exclusiva). Utilizarán el servicio tanto para consumo personal como para regalos o suscripciones mensuales.  
+
+
+### **Where**  
+**¿Dónde está el cliente cuando usa el producto?**  
+El cliente accede desde su casa, oficina o cualquier lugar con internet, mediante la aplicación web.  
+
+**¿Dónde surge el problema?**  
+El problema surge en la limitada presencia de pequeños productores en el mercado digital y en la falta de plataformas que conviertan la compra de café en una experiencia atractiva y personalizada.  
+
+
+### **Why**  
+**¿Cuál es la causa principal del problema?**  
+- Escasa digitalización en el sector cafetalero.  
+- Dependencia de intermediarios que reducen el margen de ganancia de pequeños productores.  
+- Falta de formatos innovadores de consumo (más allá de la bolsa tradicional de café).  
+- Creciente demanda por experiencias de compra modernas que mezclen conveniencia digital con productos artesanales.  
+
+
+### **How?**  
+**¿Cómo podemos abordar el problema?**  
+**ApoutCofees** ofrece una plataforma web intuitiva que permite elegir entre tres planes de mystery boxes de café peruano. Las cajas incluyen cafés fraccionados, cartas informativas sobre el productor y notas de cata, creando una experiencia premium y educativa.  
+
+**¿Cómo es percibido el problema por el usuario?**  
+El consumidor percibe la compra de café como algo rutinario, poco atractivo y limitado a opciones genéricas. La falta de acceso a cafés diferenciados se siente como una barrera para explorar la riqueza del café peruano.  
+
+
+### **Who**  
+**¿Quiénes están involucrados?**  
+- Pequeños productores de café peruano.  
+- Consumidores interesados en experiencias premium, regalos o productos diferenciados.  
+- Jóvenes profesionales y entusiastas del café.  
+
+**¿A quiénes le sucede el problema?**  
+A consumidores que buscan calidad y novedad en el café, y a productores que no logran colocar sus productos en mercados más amplios.  
+
+**¿Quién lo utilizará?**  
+El servicio será usado por consumidores nacionales e internacionales que deseen experimentar con cafés peruanos mediante un formato moderno, además de empresas que requieran regalos corporativos.  
+
+
+### **How (2)**  
+**¿Cómo ocurre el problema?**  
+El problema ocurre porque la cadena de comercialización del café no prioriza a pequeños productores ni genera experiencias diferenciales para el consumidor final.  
+
+**¿En qué condiciones los clientes usan nuestro producto?**  
+- En compras digitales rápidas.  
+- Al buscar un regalo premium.  
+- Al desear probar nuevas variedades de café sin tener que comprar bolsas enteras.  
+
+**¿Cómo nos conocieron los compradores?**  
+- Redes sociales (Instagram, TikTok).  
+- Marketing digital especializado en experiencias gourmet.  
+- Recomendaciones boca a boca.  
+
+**¿Cómo prefieren los clientes acceder al contenido?**  
+A través de una aplicación web clara, con opciones simples de elección (tres cajas), información sobre cafés y posibilidad de suscripción.  
+
+**¿Qué llevó a la persona a llegar a esta situación?**  
+La necesidad de experiencias de consumo más innovadoras, la falta de acceso a cafés de pequeños emprendimientos, y el deseo de apoyar el comercio justo mientras disfrutan de un producto premium.  
+
+
+### **How Much**  
+- El mercado mundial de café mueve más de USD 200 mil millones anuales.  
+- Perú es el noveno exportador mundial de café, con 223 mil toneladas exportadas en 2023 (SUNAT – Junta Nacional del Café).  
+- Más del 90 % de los productores peruanos son pequeños caficultores, con limitadas herramientas de comercialización digital.  
+- El consumo interno en Perú ha crecido un 25 % en los últimos 5 años, especialmente en el segmento de cafés especiales (Cámara Peruana del Café y Cacao).  
+
+Esto demuestra que existe una alta demanda insatisfecha, y una oportunidad clara para **ApoutCofees** de conectar digitalmente a pequeños productores con consumidores nacionales e internacionales.  
+
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statements
 ### 1.2.2.2. Lean UX Assumptions
