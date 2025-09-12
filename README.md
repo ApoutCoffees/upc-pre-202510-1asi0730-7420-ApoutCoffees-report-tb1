@@ -365,6 +365,17 @@ La aplicación debe verse atractiva para el cliente, transmitiendo un ambiente r
     -   Sentirse cómodos de trabajar en torno de un ambiente digital que facilita muchas funcionalidades.
 
 ##### 1.2.2.2.5. Features
+
+- Cajas misteriosas con artículos relacionados al café
+- Catálogos de cafés con descripción de cada uno
+- Sistema de compendio de cafés coleccionados 
+- Sistema de logros y gamificación para el usuario consumidor
+- Sección informativa sobre marcas de café y productores
+- Métricas sobre datos de consumo para cada empresa cafetera 
+- Sección de reseñas y comentarios para cada café y caj misteriosa
+- Sección de perfil personal de usuario para ver información personal y sobre estadísticas de su cuenta
+- Historial de cajas misteriosas y cafés consumidos por los usuarios consumidores
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 ##### 1.2.2.3.1. Hipótesis de Usuario
 ##### 1.2.2.3.2. Hipótesis de Negocio
