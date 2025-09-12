@@ -331,8 +331,39 @@ El producto se usa cuando los consumidores tienen la intención de comprar café
 La aplicación debe verse atractiva para el cliente, transmitiendo un ambiente relacionado a la razón del negocio que es el café. Debe comportarse de forma amigable e intuitiva con el usuario, demostrando que es fácil de usar y entender
 
 ##### 1.2.2.2.2. Business Outcomes 
-##### 1.2.2.2.3. User 
+
+- Incrementar los ingresos mensuales del producto mediante planes de suscripción premium a nuestros usuarios por funcionalidades agregadas y mejoradas
+
+- Expandir las conexiones y convenios con empresas cafeteras del país para que tengamos al rededor de 50 marcas para el primer año
+
+- Incrementar la visibilidad y reconocimiento del negocio en la mayor parte del país mediante estrategias de Marketing para seguir impulsando el crecimiento de nuestra empresa
+
+- Incrementar el porcentaje del número de registros mensuales a la aplicación web
+- Reducir el porcentaje de usuarios que dejan de usar la aplicación escuchando sus quejas y feedback que dejen en la sección de reseñas del producto 
+
 ##### 1.2.2.2.4. User Outcomes 
+
+-   **Público Consumidor**
+    
+    -   Descubrir nuevos tipos de café de forma creativa y entretenida
+        
+    -   Disfrutar de la incertidumbre sobre los artículos que le tocarán al momento de comprar las cajas misteriosas
+        
+    -   Estar seguro que recibe un servicio de calidad con cafés de buena marca
+        
+    -   Ahorrar tiempo al poder comprar cafés de forma remota desde cualquier lugar en el que se encuentre
+        
+        
+-   **Empresa cafetera**:
+    
+    -   Llegar a conectar con un mayor número de clientes sin necesidad de recurrir a grandes inversiones en Marketing.
+        
+    -   Obtener métricas sobre datos de consumo que le ayudan a mejorar su negocio
+             
+    -   Aumentar la visibilidad de su marca gracias a un entorno digital, práctico y eficaz.
+        
+    -   Sentirse cómodos de trabajar en torno de un ambiente digital que facilita muchas funcionalidades.
+
 ##### 1.2.2.2.5. Features
 #### 1.2.2.3. Lean UX Hypothesis Statements
 ##### 1.2.2.3.1. Hipótesis de Usuario
