@@ -378,7 +378,41 @@ La aplicación debe verse atractiva para el cliente, transmitiendo un ambiente r
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 ##### 1.2.2.3.1. Hipótesis de Usuario
+
+-   **Creemos que** los consumidores valorarán descubrir cafés nuevos de forma entretenida y fácil.  
+    **Sabremos que es cierto cuando** veamos que al menos un 10% de las reseñas positivas de la aplicación son sobre la funcionalidad de las cajas misteriosas
+    
+    
+-   **Creemos que** los usuarios se sentirán interesados sobre los datos del café. que reciben en las cajas misteriosas  
+	**Sabremos que es cierto cuando** veamos que al menos un 15% de las reseñas positivas de la aplicación son sobre los añadidos de estos datos en las cajas misteriosas
+    
+    
+-   **Creemos que** los clientes prefieren comprar café de forma digital y remota.  
+    **Sabremos que es cierto cuando** veamos que aumentan en 60% la cantidad de ventas fuera de horario comercial presencial de las empresas
+        
+-   **Creemos que** los usuarios valoran la rapidez en la entrega.  
+    **Sabremos que es cierto cuando** el 75% califique 4 o 5 estrellas en tiempos de entrega.
+    
+-   **Creemos que** los clientes quieren sentirse parte de una comunidad cafetera.  
+    **Sabremos que es cierto cuando** un 30% de los usuarios publiquen en las reseñas de las aplicación que desean un entorno social y comunitario dentro de la app
+
 ##### 1.2.2.3.2. Hipótesis de Negocio
+
+-   **Creemos que** ofrecer suscripciones en la aplicación generará buenos ingresos recurrentes.  
+    **Sabremos que es cierto cuando** después de 6 hayamos aumentado los ingresos en un 60%
+    
+    
+-   **Creemos que** incluir cafeteras conocidas atraerá más usuarios.  
+    **Sabremos que es cierto cuando** veamos un crecimiento del 30% en usuarios registrados.  
+   
+    
+-   **Creemos que** ofrecer promociones de envíos gratuitos a suscriptores aumentará la cantidad de usuarios que se registran.  
+    **Sabremos que es cierto cuando** veamos un aumento del 10% en usuarios que se registran en periodos de promociones especiales
+    
+    
+-   **Creemos que** la aplicación ganará reconocimiento gracias a las estrategias de Marketing en redes sociales
+    **Sabremos que es cierto cuando** veamos un incremento del 40% de usuarios que se registran en periodos de publicación de comerciales
+
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos Objetivo
 # Capítulo II: Requirements Elicitation & Analysis
