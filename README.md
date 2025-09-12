@@ -290,8 +290,46 @@ La problemática principalmente radica en que las marcas o empresas cafeteras pe
 
 ¿Cómo podemos ayudar a las empresas cafeteras a lograr ganar visibilidad en el mercado del café para que puedan mejorar sus ingresos y sus productos puedan llegar a ser reconocidos por el consumidor objetivo?
 
-### 1.2.2.2. Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions
+
+- Las empresas cafeteras necesitan una herramienta digital que logre dar visibilidad a sus productos
+- Estas marcas buscan que sus productos no solo se vendan bien sino que también logren transmitir y generar reconocimiento para los responsables de la producción de ese café
+- Las funcionalidades creativas de la aplicación lograrán incrementar su popularidad en el mercado del café
+- Los consumidores se verán atraídos por la aplicación web gracias a sus funcionalidades como las cajas misteriosas.
+
 ##### 1.2.2.2.1. Assumptions Worksheet 
+
+**¿Quién es el usuario?**
+- Empresas cafeteras peruanas que necesiten ganar visibilidad en el mercado para que sus productos lleguen mayor público
+- Consumidores cotidianos de café que se vean atraídos por una aplicación que venda café de forma creativa e innovadora.
+  
+**¿Dónde encaja el producto en su vida?**
+En la etapa de comercialización digital de café hacia el publico consumidor objetivo y al momento de realizar una búsqueda de posibles cafés para el consumo mismo del cliente de estas empresas
+  
+**¿Qué problemas tiene y cómo se resuelven?**
+Las marcan cafeteras presentan el problema de no lograr darle la mayor visibilidad posible a sus productos debido a una falta de adaptación al mercado contemporáneo y la forma en que intentan resolver estos problemas es recurrir a mayor inversión en estrategias de Marketing y publicidad
+  
+**¿Cuándo y cómo se usa el producto?**
+El producto se usa cuando los consumidores tienen la intención de comprar café mediante cajas misteriosas que ofrecen una experiencia atractiva para el usuario, por otro lado las marcas usarán el producto cuando necesiten saber sobre métricas y datos de consumo de sus clientes mediante las funcionalidades que ofrece la aplicación. 
+  
+**¿Qué características son importantes?**
+  
+-   Cajas misteriosas personalizables
+    
+-   Métodos de suscripción para funcionalidades extras y mejoradas
+    
+-  Catálogos de cafés y cajas misteriosas
+    
+-   Sección de comentarios y reseñas sobre cada café y caja misteriosa
+    
+-   Sección informativa sobre productores y marcas cafeteras
+    
+-   Métricas sobre datos de consumo de los clientes para cada empresa
+
+**¿Cómo debe verse nuestro producto y cómo comportarse?**
+
+La aplicación debe verse atractiva para el cliente, transmitiendo un ambiente relacionado a la razón del negocio que es el café. Debe comportarse de forma amigable e intuitiva con el usuario, demostrando que es fácil de usar y entender
+
 ##### 1.2.2.2.2. Business Outcomes 
 ##### 1.2.2.2.3. User 
 ##### 1.2.2.2.4. User Outcomes 
