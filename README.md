@@ -154,7 +154,7 @@ Visión: Nuestra visión es convertirnos en la plataforma líder en experiencias
 |----------------------------------|------------|----------------------------------------------------------------------------------------|
 | Aquino Solorzano, Daniel Jonatan | u202217678 | Ingeniería de Software. Responsable y puntual. Conocimientos en C++ y Java.            |
 | Ojanama Abanto, Johnny Alexander | u20231f412 | —                                                                                      |
-| Paredes Chavez, Carlos Augusto   | u202321613 | —                                                                                      |
+| Paredes Chavez, Carlos Augusto   | u202321613 | Ingeniería de Software. Proactivo. Conocimientos en C++ y C#.                          |
 | Pastor Napa, Juan Carlos         | u202217288 | Ingenieria de Software. Creativo. Conocimientos en C++, redes, electronica y tecnico.  |
 | Pelaez Vargas, Giuliano Angel    | u20221e121 | —                                                                                      |
 
