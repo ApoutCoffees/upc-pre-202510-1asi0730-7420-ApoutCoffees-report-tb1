@@ -407,6 +407,37 @@ La aplicación debe verse atractiva para el cliente, transmitiendo un ambiente r
 		-   Brinda los medios por los que los diversos emprendimientos cafeteros pueden darse a conocer a un público más amplio.
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores 
+
+Se identificaron hasta la fecha a 3 principales competidores para la aplicación web de nuestro startup, centrado en el mercado digital del café.
+
+**Coffee Hunters Perú**
+-   **Descripción:** Es una comercializadora de cafés de especialidad que tiene como objetivo de negocio viajar a  diversas fincas de los productores cafeteros peruanos para encontrar cafés de alta calidad y comercializar estos de una manera justa con los caficultores.
+-   **Ventajas:**
+	-   Dar acceso a cafés con trazabilidad completa
+	- Presentaciones a pequeña escala de sus productos para probar diversos orígenes a menor precio
+-   **Desventajas:**
+	-   Falta de estabilidad de los sabores a largo plazo
+	-  Volatilidad de la fermentación experimental
+	
+**Café Compadre**
+-   **Descripción:** Marca de café de especialidad peruana que se distingue por su proceso con energía solar y su compromiso con los agricultores locales.
+-   **Ventajas:**
+	-   Compromiso con el café de especialidad
+	-   Enfoque en la sostenibilidad socio-ambiental
+-   **Desventajas:**
+	-   Productos sean menos accesibles o más caros
+	-   Problemas de disponibilidad en comparación con marcas más grandes
+
+**Tunki Coffee**
+-   **Descripción:** Cooperativa con años de producción de café, dedicada a café especial, orgánico y de calidad.
+-   **Ventajas**
+	-   Reconocimiento en el mercado por la calidad de su café
+	-  Ofrece distintos formatos para sus productos
+-   **Desventajas**
+	- Mucha diversificación por el canal digital
+	- Precios de cafés más altos en función de la especialidad de estos
+
+
 ### 2.1.1 Análisis Competitivo
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
