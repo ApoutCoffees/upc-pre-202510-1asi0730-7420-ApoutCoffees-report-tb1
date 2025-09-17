@@ -410,7 +410,35 @@ La aplicación debe verse atractiva para el cliente, transmitiendo un ambiente r
 ### 2.1.1 Análisis Competitivo
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
+
+---
+
 ### 2.2.1. Diseño de entrevistas
+
+**Perfil:** Consumidores urbanos jóvenes y entusiastas del café.  
+**Necesidades:** Encontrar novedad y experienias variadas en un producto conocido, el café.
+
+**Preguntas de entrevista:**
+-   ¿Qué tipo de café sueles consumir y dónde lo compras normalmente?  
+-   ¿Has probado alguna vez cafés de origen peruano de pequeños productores?  
+-   ¿Qué te parecería recibir una "Mystery Box" con cafés seleccionados y fichas informativas de cada uno?  
+-   ¿Qué factores te motivarían a tener una suscripción a un servicio mensual de café?  
+-   ¿Qué tan importante es para ti conocer la historia detrás del producto que consumes?  
+-   ¿Qué elementos visuales o de diseño te llaman la atención de una aplicativo de café?  
+-   ¿Usarías esta app como opción de regalo? ¿Qué te gustaría que incluya para que sea especial?
+
+ **Perfil:** Marcas cafeteras peruanas de limitado acceso digital.  
+**Necesidades:** Obtener visibilidad y aumentar su alcance al público cafetero.
+
+**Preguntas de entrevista:**
+-   ¿Qué canales usas actualmente para vender tus productos?  
+-   ¿Has probado utilizar las redes sociales para vender el café? ¿Qué funcionó y qué no?  
+-   ¿Qué te parecería formar parte de una plataforma que promocione tus productos a través de mystery Boxes junto a otros productores?  
+-   ¿Qué información te gustaría que los consumidores conozcan sobre tu marca y tu café?  
+-   ¿Qué tipo de apoyo necesitarías para participar en una plataforma digital como SmilingCups? 
+-   ¿Cómo mides actualmente el impacto o éxito de tus ventas? ¿Te interesaría acceder a métricas de consumo?  
+-   ¿Qué esperas de una alianza con una plataforma como esta? ¿Qué beneficios te parecerían justos?
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ## 2.3 Needfinding
