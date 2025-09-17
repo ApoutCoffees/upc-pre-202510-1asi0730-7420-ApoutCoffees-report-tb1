@@ -389,6 +389,22 @@ La aplicación debe verse atractiva para el cliente, transmitiendo un ambiente r
 ![](img/lean-ux-canvas.png)
 
 ## 1.3. Segmentos Objetivo
+- Segmento 1: Consumidores urbanos jóvenes y entusiastas del café
+	-Perfil: Estudiantes o profesionales, edades entre 20-40 años, familiarizados con compras digitales.
+	-   Necesidades:
+		-   Encontrar calidad, novedad y conexión con el origen del producto.
+		-   Hallar experiencias distintas con un producto familiar.
+	-   Como ayuda SmilingCups:
+		-   Ofrece opciones de café variadas a través de la experiencia de las "Mystery Boxes".
+    
+		-   Otorga visibilidad a emprendimientos de café con propuestas atractivas para un público casual.
+-   Segmento 2: Marcas cafeteras peruanas de limitado acceso digital
+	-   Perfil: Emprendimientos, microempresas cafeteras del Perú.
+	-   Necesidades:
+		-   Obtener mayor visibilidad y alcance al público cafetero.
+		-   Llevar a conocer popularmente diversas propuestas con el café peruano.
+	-   Como ayuda SmilingCups:
+		-   Brinda los medios por los que los diversos emprendimientos cafeteros pueden darse a conocer a un público más amplio.
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores 
 ### 2.1.1 Análisis Competitivo
