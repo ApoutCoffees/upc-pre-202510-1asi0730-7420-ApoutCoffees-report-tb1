@@ -197,48 +197,6 @@ El cliente ingresa desde su hogar, oficina o cualquier sitio con internet, a tra
 **¿De dónde proviene el inconveniente?**  
 La dificultad se presenta en la escasa participación de pequeños productores en el ámbito digital y en la carencia de plataformas que hagan de la adquisición de café una experiencia interesante y adaptada a cada cliente.  
 
-
-### **What?**  
-**¿Cuál es el problema?**  
-El principal problema que abordamos es la dificultad de los consumidores para acceder a cafés peruanos de pequeños productores en un formato práctico, atractivo y moderno. Aunque Perú es reconocido por la calidad de su café, gran parte de la producción de emprendimientos locales no logra llegar al consumidor final debido a la falta de canales de distribución innovadores. Esto limita la visibilidad de los productores y priva a los consumidores de experiencias diversas y de calidad.  
-
-**¿Cuál es la relación con la persona en cuestión?**  
-Los consumidores son directamente afectados al tener pocas opciones para descubrir cafés nuevos y diferenciados. A la vez, los pequeños caficultores y emprendimientos enfrentan problemas de comercialización y falta de llegada a un mercado más amplio.  
-
-
-### **When**  
-**¿Cuándo sucede el problema?**  
-- Durante el proceso de compra, cuando los consumidores buscan cafés especiales pero se encuentran con opciones limitadas en supermercados o cadenas grandes.  
-- En momentos de regalo o consumo personal, cuando desean una experiencia premium, pero no encuentran propuestas innovadoras ni accesibles.  
-
-**¿Cuándo utiliza el cliente el producto?**  
-Los clientes usarán la aplicación web para seleccionar una de las 3 mystery boxes disponibles según su presupuesto (básica, premium o exclusiva). Utilizarán el servicio tanto para consumo personal como para regalos o suscripciones mensuales.  
-
-
-### **Where**  
-**¿Dónde está el cliente cuando usa el producto?**  
-El cliente accede desde su casa, oficina o cualquier lugar con internet, mediante la aplicación web.  
-
-**¿Dónde surge el problema?**  
-El problema surge en la limitada presencia de pequeños productores en el mercado digital y en la falta de plataformas que conviertan la compra de café en una experiencia atractiva y personalizada.  
-
-
-### **Why**  
-**¿Cuál es la causa principal del problema?**  
-- Escasa digitalización en el sector cafetalero.  
-- Dependencia de intermediarios que reducen el margen de ganancia de pequeños productores.  
-- Falta de formatos innovadores de consumo (más allá de la bolsa tradicional de café).  
-- Creciente demanda por experiencias de compra modernas que mezclen conveniencia digital con productos artesanales.  
-
-
-### **How?**  
-**¿Cómo podemos abordar el problema?**  
-**ApoutCofees** ofrece una plataforma web intuitiva que permite elegir entre tres planes de mystery boxes de café peruano. Las cajas incluyen cafés fraccionados, cartas informativas sobre el productor y notas de cata, creando una experiencia premium y educativa.  
-
-**¿Cómo es percibido el problema por el usuario?**  
-El consumidor percibe la compra de café como algo rutinario, poco atractivo y limitado a opciones genéricas. La falta de acceso a cafés diferenciados se siente como una barrera para explorar la riqueza del café peruano.  
-
-
 ### **Who**  
 **¿Quiénes están involucrados?**  
 - Pequeños productores de café peruano.  
@@ -251,10 +209,23 @@ A consumidores que buscan calidad y novedad en el café, y a productores que no 
 **¿Quién lo utilizará?**  
 El servicio será usado por consumidores nacionales e internacionales que deseen experimentar con cafés peruanos mediante un formato moderno, además de empresas que requieran regalos corporativos.  
 
+### **Why**  
+**¿Cuál es la causa principal del problema?**  
+- Escasa digitalización en el sector cafetalero.  
+- Dependencia de intermediarios que reducen el margen de ganancia de pequeños productores.  
+- Falta de formatos innovadores de consumo (más allá de la bolsa tradicional de café).  
+- Creciente demanda por experiencias de compra modernas que mezclen conveniencia digital con productos artesanales.  
 
-### **How (2)**  
+
+### **How?**  
 **¿Cómo ocurre el problema?**  
 El problema ocurre porque la cadena de comercialización del café no prioriza a pequeños productores ni genera experiencias diferenciales para el consumidor final.  
+
+**¿Cómo es percibido el problema por el usuario?**  
+El consumidor percibe la compra de café como algo rutinario, poco atractivo y limitado a opciones genéricas. La falta de acceso a cafés diferenciados se siente como una barrera para explorar la riqueza del café peruano.  
+
+**¿Cómo podemos abordar el problema?**  
+**ApoutCofees** ofrece una plataforma web intuitiva que permite elegir entre tres planes de mystery boxes de café peruano. Las cajas incluyen cafés fraccionados, cartas informativas sobre el productor y notas de cata, creando una experiencia premium y educativa.  
 
 **¿En qué condiciones los clientes usan nuestro producto?**  
 - En compras digitales rápidas.  
