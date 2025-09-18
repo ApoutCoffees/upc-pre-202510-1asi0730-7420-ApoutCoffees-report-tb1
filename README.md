@@ -469,6 +469,14 @@ El analisis permitio identificar similitudes y diferencias entre Smiling Cups y 
 	  
 - 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+-   **Diferenciación de producto:** Mystery box interactivas, algo que los competidores no ofrecen.
+    
+-   **Estrategia de precio:** Planes de suscripción flexibles y promociones exclusivas para fidelizar usuarios.
+    
+-   **Táctica digital:** Campañas en Instagram y TikTok para atraer a un público joven urbano.
+        
+
 ## 2.2. Entrevistas
 
 ---
@@ -508,6 +516,24 @@ El analisis permitio identificar similitudes y diferencias entre Smiling Cups y 
 ### 2.3.4. Empathy Mapping
 ## 2.3. Big Picture Event Storming
 ## 2.4. Ubiquitous Language
+
+Para mantener consistencia en el desarrollo y comunicación del proyecto, se definieron los siguientes términos comunes dentro del equipo:
+
+-   **Mystery Box:** Caja de suscripción con cafés seleccionados al azar de pequeños productores peruanos.
+    
+-   **Productores:** Cafeterías locales o microempresas proveedoras de café.
+    
+-   **Consumidores:** Usuarios que adquieren las mystery boxes mediante la plataforma web.
+    
+-   **Suscripción:** Modelo de pago recurrente mensual que da acceso a beneficios adicionales.
+    
+-   **Ficha de Café:** Documento digital o físico con la información de origen, notas de cata y productor.
+    
+-   **Dashboard de métricas:** Panel digital que muestra a los productores información sobre ventas, reseñas y comportamiento de consumidores.
+    
+-   **Gamificación:** Elementos lúdicos como logros, insignias y colecciones de cafés para aumentar la retención del usuario.
+
+  
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
@@ -519,9 +545,67 @@ El analisis permitio identificar similitudes y diferencias entre Smiling Cups y 
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+SmilingCups organiza su información aplicando sistemas de organización visual y esquemas de categorización:
+
+**A) Organización visual del contenido**
+
+-   **Jerárquica:** Menú superior con secciones principales (Inicio,  Comunidad, Suscripciones, Mi Cuenta).
+    
+-   **Secuencial:** Procesos guiados paso a paso como el registro de usuarios, compra de cajas y configuración de suscripción.
+    
+-   **Matriz:** Sección de exploración de cafés y productores, filtrada por origen, tipo de tueste, o precio.
+    
+**B) Esquemas de categorización del contenido**
+
+-   **Alfabético:** Listados de productores o cafés en catálogo.
+    
+-   **Cronológico:** Historial de compras y reseñas.
+    
+-   **Por tópicos:** Clasificación por tipo de café (espresso, filtrado, cold brew).
+    
+-   **Por audiencia:** División de vistas:
+    
+    -   Consumidores (mystery boxes, catálogo, comunidad).
+        
+    -   Productores (dashboard de métricas, gestión de cafés).
+ 
+      
 ### 4.2.2. Labeling Systems
+
+SmilingCups se plantea para ser claro, conciso y evitar ambigüedades:
+
+-   **Inicio:** Página de bienvenida.
+    
+-   **Mystery Box:** Acceso directo a los planes de cajas misteriosas.
+    
+-   **Explorar:** Catálogo de cafés y productores.
+    
+-   **Comunidad:** Espacio de interacción, reseñas y foros.
+    
+-   **Mi Cuenta:** Perfil personal del usuario (historial y  configuraciones).
+    
+-   **Dashboard:** Herramienta exclusiva para productores con métricas de consumo.
+
+  
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching System
+
+El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a cafés, productores y reseñas, evitando que los usuarios se pierdan entre el volumen de información.
+
+-   **Barra de búsqueda principal:** Disponible en el header de la aplicación.
+    
+-   **Filtros de búsqueda:**
+    
+    -   Por tipo de café (espresso, americano, filtrado).
+        
+    -   Por precio (básico, premium, exclusivo).
+        
+    -   Por productor (nombre de la marca o región).
+        
+    -   Por popularidad o valoración de usuarios.
+ 
+    
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
