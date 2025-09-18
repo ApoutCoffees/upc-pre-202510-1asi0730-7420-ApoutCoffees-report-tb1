@@ -439,6 +439,35 @@ Se identificaron hasta la fecha a 3 principales competidores para la aplicación
 
 
 ### 2.1.1 Análisis Competitivo
+
+El analisis permitio identificar similitudes y diferencias entre Smiling Cups y los principales actores del mercado.
+
+-   **Coffee Hunters Perú**
+    
+    -   **Fortalezas:** Tiene trazabilidad de cafés, ofrece pruebas de pequeños lotes.
+        
+    -   **Debilidades:** Variedad poco estable y limitada fidelización de clientes.
+        
+    -   **Oportunidad para SmilingCups:** Mejorar la experiencia digital, ofreciendo consistencia en la entrega de cafés y gamificación para aumentar la lealtad de los usuarios.
+        
+-   **Café Compadre**
+    
+    -   **Fortalezas:** Imagen sólida de sostenibilidad y calidad premium.
+        
+    -   **Debilidades:** Precio alto y disponibilidad reducida.
+        
+    -   **Oportunidad para SmilingCups:** Competir con precios accesibles mediante suscripciones, reforzando también un discurso sostenible pero con una experiencia más cercana al usuario digital.
+        
+-   **Tunki Coffee**
+    
+    -   **Fortalezas:** Marca reconocida, café especial con certificaciones.
+        
+    -   **Debilidades:** Canales digitales limitados y precios elevados.
+        
+    -   **Oportunidad para SmilingCups:** Destacar con un modelo digital-first, creando comunidad cafetera y visibilizando pequeños productores que aún no tienen reconocimiento internacional.
+
+	  
+- 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 
