@@ -648,6 +648,28 @@ El control del código fuente se gestiona en **GitHub**, bajo un flujo de trabaj
   - **feature/:** Ramas específicas para cada User Story o Task.
     
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Para mantener un código consistente y legible, se adoptaron las siguientes guías de estilo y convenciones:  
+
+- **Frontend (Vue.js):**  
+  - Uso de la guía oficial de estilo de Vue.js.  
+  - Componentes nombrados en PascalCase (UserProfile.vue).  
+  - Variables y funciones en camelCase.  
+  - Archivos .vue organizados en carpetas components/, views/, store/.  
+
+- **Backend (Node.js ):**  
+  - Estructura MVC (Model, View, Controller).  
+  - Rutas en minúsculas con guiones (/api/user-profile).  
+  - Variables en inglés, con nombres claros y descriptivos.  
+
+- **General:**  
+  - Commits con mensajes siguiendo convención:  
+    - feat: para nuevas funcionalidades.  
+    - fix: para correcciones de errores.  
+    - docs: para cambios en documentación.  
+    - refactor: para mejoras sin cambiar funcionalidad.  
+    - test: para agregar o modificar pruebas.
+
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
