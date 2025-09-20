@@ -68,6 +68,77 @@ Se identificaron hasta la fecha a 3 principales competidores para la aplicación
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ## 2.3. Big Picture Event Storming
+
+En esta sección nos enfocamos en modelar los flujos de actividad que pudieran darse dentro de nuestra aplicación, denotando elementos claves que no ayudarán a tener un mejor panorama del diseño a nivel generar de la esta aplicación Web. Se debe de tomar en cuenta que esta fase se puede interpretar como un bosquejo de lo que vendría a ser la siguiente fase del Event Storming, la cual se verá más adelante. Nos enfocaremos en mostrar eventos del dominio pero a una escala general, para de esa forma recién profundizar estos elementos en la siguiente fase. 
+
+Para comenzar, se describen los elementos que serán vistos en el Big Picture Event Storming, donde se decribe a manera de leyenda cual es la función de cada uno de estos elementos y como están modelados dentro de los flujos de eventos.
+
+-   **Evento:**  Representados mediante un post-it naranja, representan un evento de dominio y están en verbo pasado, sirven para identificar de forma precisa que evento ocurrió dentro de la aplicación. 
+    
+-   **Actor:**  Representados mediante un post-it amarillo, son los que modelan a aquellos actores que están involucrados en el flujo de los eventos del dominio. Tener en cuenta que contamos con dos tipos de actores, los User , para identificar a cualquier persona que interactua con la plataforma, y el System, que simboliza a la aplicación en si y se refiere a que el sistema se va a encargar de la activación de los eventos relacionados a este.
+    
+-   **Vista:**  Representadas mediante un post-it verde, vendrían a ser las interfaces de gráficas que conectan a nuestros usuarios con la aplicación Web.
+
+A continuación se muestran las capturas del Big Picture Event Storming, donde clasificamos los flujos de eventos de acuerdo a los Bounded Context a los que podrían pertenecer.
+
+- **Punto de quiebre:** Representadas mediante un post-it rosa, vendrían a ser las inconsistencias y dudas que quedan abiertas al momento de diseñar el event storming. Deben solventarse para las futuras versiones.
+
+- **Sistemas Externos:** Representadas mediante un post-it rojo, representan a los sistemas que nos ayudan en procesos complejos que no convendría diseñarlos desde cero para no "reinventar la rueda". Estos sistemas son muy útiles en procesos clásicos como mensajería y métodos de pago.
+
+<br>
+
+**Bounded Context Marketplace**
+
+![](img/bp-event-storming/marketplace/marketplace-1.png)
+
+En este bounded context se aprecian flujos de eventos que denotan funcionalidades como el filtrado de resultados que se pueden mostrar en la marketplace, métodos de ordenamiento según el usuario o de forma automática y por último el proceso de añador una previsualización de las mistery boxes para que solo se trabaje con un concepto abstraido de estas que le sirvan al Bounded Context.
+
+<br>
+
+**Bounded Context Mistery Box**
+
+![](img/bp-event-storming/mistery-box/mistery-box-1.png)
+
+Aquí se puede ver por un lado el flujo para poder realizar la compra de una mistery box, donde se calcula el precio total teniendo en cuenta descuentos que el usuario puede tener de su suscripción. Además, se ven flujos para la visualización de contenido relacionado a mistery boxes y la creación de estas.
+	
+<br>
+
+**Bounded Context Profile**
+
+![](img/bp-event-storming/profile/profile-1.png)
+
+En esta captura se ven flujos de eventos que denotan funcionalidades de visualización de contenido dentro del perfil del usuario, como las sugerencias, el historial de mistery boxes comprados, entre otros. Además, se puede ver un punto de quiebre, debido a que se debe aclarar bien el significado de "preference" para que no sea ambiguo.
+
+![](img/bp-event-storming/profile/profile-2.png)
+
+Aquí  vemos procesos para la actualización de datos del perfil del usuario la funcionalidad de mostrar métricas de consumo de su cuenta.
+
+<br>
+
+**Bounded Context IAM**
+
+![](img/bp-event-storming/iam/iam-1.png)
+
+Se pueden ver procesos genéricos para el registro y tipos de login que puede realizar el usuario, donde se contacta con sistemas externos para la autenticación del correo del usuario.
+
+<br>
+
+**Bounded Context Notification**
+
+![](img/bp-event-storming/notification/notification-1.png)	
+
+Vemos procesos generales para las notificaciones que se puedan generar dentro de la aplicación, algunas de estas también desembocan en la utilización de SendGrid como sistema externo de mensajeria.
+
+<br>
+
+**Bounded Context Subscription**
+
+![](img/bp-event-storming/subscription/subscription-1.png)	
+
+Vemos dos procesos para funcionalidades relacionadas a la suscripción del usuario, donde se utilizan métodos de un sistema externo, en este caso Stripe, para gestionar los pagos.
+
+
+
 ## 2.4. Ubiquitous Language
 
 Para mantener consistencia en el desarrollo y comunicación del proyecto, se definieron los siguientes términos comunes dentro del equipo:
