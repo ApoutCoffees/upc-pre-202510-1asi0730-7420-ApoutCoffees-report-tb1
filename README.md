@@ -638,8 +638,15 @@ El entorno de desarrollo de **SmilingCups** se definió considerando las tecnolo
 - **Gestor de paquetes:** npm para frontend y backend.  
 - **Control de versiones:** GitHub.
 
-  
 ### 5.1.2. Source Code Management
+
+El control del código fuente se gestiona en **GitHub**, bajo un flujo de trabajo basado en **GitFlow**, adaptado al marco ágil.  
+
+- **Branching Strategy**  
+  - **main:** Contiene el código estable y en producción.  
+  - **develop:** Versión de integración para nuevas funcionalidades.  
+  - **feature/:** Ramas específicas para cada User Story o Task.
+    
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
