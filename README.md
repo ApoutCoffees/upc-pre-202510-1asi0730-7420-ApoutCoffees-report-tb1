@@ -744,6 +744,12 @@ Sin embargo, se avanzó en la configuración técnica:
 - Primer prototipo de la Landing Page en HTML/CSS.  
 
 ####  5.2.1.5. Execution Evidence for Sprint Review
+
+La ejecución incluyó:  
+- Reunión de arranque para definir flujo de trabajo.  
+- Configuración de repositorio con **commits iniciales**.  
+- Sincronización del equipo a través de reuniones virtuales y Discord.  
+
 ####  5.2.1.6. Services Documentation Evidence for Sprint Review
 ####  5.2.1.7. Software Deployment Evidence for Sprint Review
 ####  5.2.1.8. Team Collaboration Insights during Sprint
