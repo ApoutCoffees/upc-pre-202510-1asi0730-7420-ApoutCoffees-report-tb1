@@ -759,6 +759,13 @@ Se documentó lo siguiente:
 
 
 ####  5.2.1.7. Software Deployment Evidence for Sprint Review
+
+El despliegue de Sprint 0 se realizó en entornos de prueba:  
+- **Frontend (Vue.js):** ejecutado en WebStorm con servidor local 
+- **Backend (Node.js):** levantado en WebStorm (npm start).  
+- **Base de datos:** configurada en MySQL local.  
+
+
 ####  5.2.1.8. Team Collaboration Insights during Sprint
 # Conclusiones
 # Bibliografía 
