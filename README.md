@@ -628,7 +628,25 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 # Capitulo V Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+
+El entorno de desarrollo de **SmilingCups** se definió considerando las tecnologías base del proyecto:  
+
+- **Frontend:** Vue.js 3 (con Vite) para construcción de interfaces reactivas.  
+- **Backend:** Node.js con Express para la construcción de la API REST.  
+- **Base de Datos:** MySQL para el almacenamiento relacional de usuarios, pedidos y suscripciones.  
+- **IDE principal:**  WebStorm para frontend y JetBrains IntelliJ IDEA/Visual Studio Code para backend.  
+- **Gestor de paquetes:** npm para frontend y backend.  
+- **Control de versiones:** GitHub.
+
 ### 5.1.2. Source Code Management
+
+El control del código fuente se gestiona en **GitHub**, bajo un flujo de trabajo basado en **GitFlow**, adaptado al marco ágil.  
+
+- **Branching Strategy**  
+  - **main:** Contiene el código estable y en producción.  
+  - **develop:** Versión de integración para nuevas funcionalidades.  
+  - **feature/:** Ramas específicas para cada User Story o Task.
+    
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
