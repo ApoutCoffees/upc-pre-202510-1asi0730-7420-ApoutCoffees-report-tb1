@@ -767,6 +767,13 @@ El despliegue de Sprint 0 se realizó en entornos de prueba:
 
 
 ####  5.2.1.8. Team Collaboration Insights during Sprint
+
+- Se estableció Discord como canal de comunicación principal y Google Meet para reuniones semanales.  
+- Se adoptaron convenciones de commits en inglés siguiendo el estándar feat:, fix:.  
+- Se clarificaron los roles principales de liderazgo y colaboración para cada aspecto (Frontend, Backend, Base de Datos, Landing Page, QA & Documentación).
+- Se observó una fortaleza en la rápida alineación del equipo respecto a las herramientas y lineamientos técnicos.
+- Se identificó como oportunidad de mejora la estimación más precisa del esfuerzo de tareas y una documentación más detallada desde el inicio.
+
 # Conclusiones
 # Bibliografía 
 # Anexos
