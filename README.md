@@ -79,11 +79,11 @@ Para comenzar, se describen los elementos que serán vistos en el Big Picture Ev
     
 -   **Vista:**  Representadas mediante un post-it verde, vendrían a ser las interfaces de gráficas que conectan a nuestros usuarios con la aplicación Web.
 
-A continuación se muestran las capturas del Big Picture Event Storming, donde clasificamos los flujos de eventos de acuerdo a los Bounded Context a los que podrían pertenecer.
-
 - **Punto de quiebre:** Representadas mediante un post-it rosa, vendrían a ser las inconsistencias y dudas que quedan abiertas al momento de diseñar el event storming. Deben solventarse para las futuras versiones.
 
 - **Sistemas Externos:** Representadas mediante un post-it rojo, representan a los sistemas que nos ayudan en procesos complejos que no convendría diseñarlos desde cero para no "reinventar la rueda". Estos sistemas son muy útiles en procesos clásicos como mensajería y métodos de pago.
+
+A continuación se muestran las capturas del Big Picture Event Storming, donde clasificamos los flujos de eventos de acuerdo a los Bounded Context a los que podrían pertenecer.
 
 <br>
 
