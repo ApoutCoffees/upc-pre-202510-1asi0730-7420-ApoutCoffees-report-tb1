@@ -699,6 +699,17 @@ El despliegue de **SmilingCups** se organiza bajo un esquema de servicios distri
 | **Sum of Story Points**        | 10 |
 
 ####  5.2.1.2. Aspect Leaders and Collaborators
+
+En este Sprint se identificaron los principales aspectos: **Frontend (Vue.js), Backend (Node.js ), Base de Datos (MySQL), Landing Page, QA & Documentación**.  
+
+| **Team Member**         | **GitHub Username** | **Frontend** | **Backend** | **Base de Datos** | **Landing Page** | **QA & Documentación** |
+|--------------------------|----------------------|-----------------------|-----------------------|---------------------------|------------------|-------------------------|
+| Carlos Augusto Paredes Chavez  | @CarlossUPC | C | L | C | C | L |
+| Juan Carlos Pastor Napa | @ElKiwi1271  | L  | C  | L | C | C |
+| Daniel Jonatan Aquino Solorzano| @DanielAquinoSolorzano | C | L | C | C | C |
+| Giuliano Angel Pelaez Vargas | @SimpleGP | C  | C   | L | C | L |
+| Johnny Alexander Ojanama Abanto | @JohnnyGZ41 | L | C  | C  | L | C  |
+
 ####  5.2.1.3. Sprint Backlog 0
 ####  5.2.1.4. Development Evidence for Sprint Review
 ####  5.2.1.5. Execution Evidence for Sprint Review
