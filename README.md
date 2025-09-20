@@ -680,10 +680,26 @@ El despliegue de **SmilingCups** se organiza bajo un esquema de servicios distri
 - **Landing Page:** Incluida en el mismo frontend de Vue.js.
   
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.1. Sprint 1
-####  5.2.1.1. Sprint Planning 1
+### 5.2.1. Sprint 0
+####  5.2.1.1. Sprint Planning 0
+
+| **Sprint #**                  | Sprint 0 |
+|--------------------------------|----------|
+| **Sprint Planning Background** | |
+| **Date**   | 2025-09-3 |
+| **Time**   | 9:00 PM |
+| **Location**  | Meet via Discord  |
+| **Prepared By**  | Juan Carlos Pastor Napa |
+| **Attendees (to planning meeting)** | Carlos Augusto Paredes Chavez/Daniel Jonatan Aquino Solorzano/Johnny Alexander Ojanama Abanto/Juan Carlos Pastor Napa/Giuliano Angel Pelaez Vargas |
+| **Sprint n – 1 Review Summary** | No hubo Sprint anterior. |
+| **Sprint n – 1 Retrospective Summary** | Al ser el primer Sprint, la retrospectiva se enfocó en definir comunicación, repositorio y guías de estilo de código. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 0 Goal**              | Configurar la base técnica del proyecto (entorno de desarrollo en WebStorm, repositorio GitHub, GitFlow, integración inicial de Vue.js + Node.js + MySQL, prototipo básico de Landing Page). |
+| **Sprint 0 Velocity**          | 10 Story Points |
+| **Sum of Story Points**        | 10 |
+
 ####  5.2.1.2. Aspect Leaders and Collaborators
-####  5.2.1.3. Sprint Backlog 1
+####  5.2.1.3. Sprint Backlog 0
 ####  5.2.1.4. Development Evidence for Sprint Review
 ####  5.2.1.5. Execution Evidence for Sprint Review
 ####  5.2.1.6. Services Documentation Evidence for Sprint Review
