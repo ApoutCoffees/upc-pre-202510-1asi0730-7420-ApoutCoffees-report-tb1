@@ -733,6 +733,16 @@ El Sprint 0 tuvo como objetivo preparar el entorno de trabajo y asegurar la infr
 
 
 ####  5.2.1.4. Development Evidence for Sprint Review
+
+Al ser **Sprint 0**, no se implementaron aún funcionalidades completas.  
+Sin embargo, se avanzó en la configuración técnica:  
+
+- Repositorio de GitHub creado y accesible al equipo.  
+- Ramas configuradas bajo GitFlow.  
+- WebStorm preparado con entornos para Vue.js y Node.js.  
+- Creación de la base de datos MySQL con tabla users.  
+- Primer prototipo de la Landing Page en HTML/CSS.  
+
 ####  5.2.1.5. Execution Evidence for Sprint Review
 ####  5.2.1.6. Services Documentation Evidence for Sprint Review
 ####  5.2.1.7. Software Deployment Evidence for Sprint Review
