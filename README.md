@@ -1202,6 +1202,20 @@ A continuación mostraremos las capturas del Design Level Event Storming realiza
 
 ## 4.7Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+![](https://cdn.discordapp.com/attachments/1419015781793923187/1419162220729991219/image.png?ex=68d0c150&is=68cf6fd0&hm=049943d9e3de55df65c88851ea3c06f32e4907d6216f1b080a0f8709ec163ed7)
+
+![](https://cdn.discordapp.com/attachments/1419015781793923187/1419162769743151135/image.png?ex=68d0c1d3&is=68cf7053&hm=dd6448aa864476b0b193e64090a11d59f58cfd77ef92ec3e3a311e381cc73f63)
+
+![](https://cdn.discordapp.com/attachments/1419015781793923187/1419163107955314818/image.png?ex=68d0c223&is=68cf70a3&hm=34b90214050bf96b7e94fc45716f619cd715e2d8702859d534e7f2d8d64ad5ac)
+
+
+![](https://cdn.discordapp.com/attachments/1419015781793923187/1419163233952202794/image.png?ex=68d0c241&is=68cf70c1&hm=dd8e9744891d8fd3db852b028207b3a0cc0c5c774231eb03d9bae5c89bafa351)
+
+![](https://cdn.discordapp.com/attachments/1419015781793923187/1419163394031747182/image.png?ex=68d0c267&is=68cf70e7&hm=cbe86d305af9392baa7ccf898fed2ae2fdda1a4856102c7298352625d4cece51)
+
+![](https://cdn.discordapp.com/attachments/1419015781793923187/1419163759485648967/image.png?ex=68d0c2bf&is=68cf713f&hm=72d46e1e90b2e824c98ab4831d963c6306fb73c1cfe1478b4452e71689d4c566)
+
 ## 4.8. Database Design
 ### 4.8.1.Database Diagrams
 # Capitulo V Product Implementation, Validation & Deployment
