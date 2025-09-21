@@ -618,6 +618,65 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 ## 4.5 Web Applications Prototyping
 ## 4.6 Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
+
+En esta sección nos enfocamos en pulir el diseño realizado en el Big Picture Event Storming, denotando nuevos elementos que nos ayudar a profundizar más en los flujos de eventos que se recorren dentro de la aplicación Web.
+
+-   **Comandos:**  Representados mediante un post-it azul, son aquellos que simbolizan las acciones a realizar que serán transformadas a eventos.
+
+   
+-   **Aggregates:**  Representados mediante un post-it amarillo claro, son los que simbolizan una entidad a manera de agregados, se forman en base a los eventos del dominio, así que antes de cada evento se debe colocar un aggregate que simbolice la identidad del evento del dominio.
+    
+-   **Políticas:**  Representadas mediante un post-it morado, vendrían a ser las reglas del negocio que, después de haber pasado por un evento, se encargan de acción un nuevo comando, es así que normalmente se colocan entre un evento y un comando que le sigue a este. Pero también lo utilizamos como un puente entre Bounded Context, para de esta forma conectar un flujo de eventos entre diferentes contextos.
+  
+
+A continuación mostraremos las capturas del Design Level Event Storming realizado, separandolos según el Bounded Context al que pertenecen y comenzando con los Core del negocio.
+
+  <br>
+ 
+**Bounded Context Marketplace**
+
+![](img/dl-event-storming/marketplace/marketplace-1.png)
+
+![](img/dl-event-storming/marketplace/marketplace-2.png)
+
+<br>
+
+**Bounded Context Mistery Box**
+
+![](img/dl-event-storming/mistery-box/mistery-box-1.png)
+
+![](img/dl-event-storming/mistery-box/mistery-box-2.png)
+	
+<br>
+
+**Bounded Context Profile**
+
+![](img/dl-event-storming/profile/profile-1.png)
+
+![](img/dl-event-storming/profile/profile-2.png)
+
+![](img/dl-event-storming/profile/profile-3.png)
+
+<br>
+
+**Bounded Context IAM**
+
+![](img/dl-event-storming/iam/iam-1.png)
+
+<br>
+
+**Bounded Context Notification**
+
+![](img/dl-event-storming/notification/notification-1.png)
+
+<br>
+
+**Bounded Context Subscription**
+
+![](img/dl-event-storming/subscription/subscription-1.png)
+
+![](img/dl-event-storming/subscription/subscription-2.png)
+
 ### 4.6.2. Software Architecture Context Diagram
 ### 4.6.3. Software Architecture Container Diagrams
 ### 4.6.4.Software Architecture Components Diagrams
