@@ -68,7 +68,167 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+<br>
+
+**Web landing page wireframe** 
+<br>
+
+- Home
+
+<br>
+
+![WFLandingHome.](/img/WFLandingHome.PNG)
+
+<br>
+
+- About
+
+<br>
+
+![WFLandingAbout.](/img/WFLandingAbout.PNG)
+
+<br>
+
+- Goals
+
+<br>
+
+![WFLandingGoals.](/img/WFLandingGoals.PNG)
+
+<br>
+
+- Contact
+
+<br>
+
+![WFLandingContact.](/img/WFLandingContact.PNG)
+
+<br>
+
+**Mobile landing page wireframe** 
+<br>
+
+- Home
+
+<br>
+
+![WFLandingAppHome.](/img/WFLandingAppHome.PNG)
+
+<br>
+
+- Home Tab
+
+<br>
+
+![WFLandingAppHomeTab.](/img/WFLandingAppHomeTab.PNG)
+
+<br>
+
+- About
+
+<br>
+
+![WFLandingAppAbout.](/img/WFLandingAppAbout.PNG)
+
+<br>
+
+- Goals
+
+<br>
+
+![WFLandingAppGoals.](/img/WFLandingAppGoals.PNG)
+
+<br>
+
+- Contact
+
+<br>
+
+![WFLandingAppContact.](/img/WFLandingAppContact.PNG)
+
+<br>
+
 ### 4.3.2. Landing Page Moc-up
+<br>
+
+**Web landing page Moc-up** 
+<br>
+
+- Home
+
+<br>
+
+![MULandingHome.](/img/MULandingHome.PNG)
+
+<br>
+
+- About
+
+<br>
+
+![MULandingAbout.](/img/MULandingAbout.PNG)
+
+<br>
+
+- Goals
+
+<br>
+
+![MULandingGoals.](/img/MULandingGoals.PNG)
+
+<br>
+
+- Contact
+
+<br>
+
+![MULandingContact.](/img/MULandingContacts.PNG)
+
+<br>
+
+**Mobile landing page wireframe** 
+<br>
+
+- Home
+
+<br>
+
+![MULandingAppHome.](/img/MULandingAppHome.PNG)
+
+<br>
+
+- Home Tab
+
+<br>
+
+![MULandingAppHomeTab.](/img/MULandingAppHomeTab.PNG)
+
+<br>
+
+- About
+
+<br>
+
+![MULandingAppAbout.](/img/MULandingAppAbout.PNG)
+
+<br>
+
+- Goals
+
+<br>
+
+![MULandingAppGoals.](/img/MULandingAppGoals.PNG)
+
+<br>
+
+- Contact
+
+<br>
+
+![MULandingAppContact.](/img/MULandingAppContacts.PNG)
+
+<br>
+
 ## 4.4 Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
