@@ -77,7 +77,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingHome.](/img/wireframes-landing/WFLandingHome.PNG)
+![WFLandingHome.](/img/wireframes-landing/WFLandingHome.png)
 
 <br>
 
@@ -85,7 +85,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingAbout.](/img/wireframes-landing/WFLandingAbout.PNG)
+![WFLandingAbout.](/img/wireframes-landing/WFLandingAbout.png)
 
 <br>
 
@@ -93,7 +93,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingGoals.](/img/wireframes-landing/WFLandingGoals.PNG)
+![WFLandingGoals.](/img/wireframes-landing/WFLandingGoals.png)
 
 <br>
 
@@ -101,7 +101,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingContact.](/img/wireframes-landing/WFLandingContact.PNG)
+![WFLandingContact.](/img/wireframes-landing/WFLandingContact.png)
 
 <br>
 
@@ -112,7 +112,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingAppHome.](/img/wireframes-landing/WFLandingAppHome.PNG)
+![WFLandingAppHome.](/img/wireframes-landing/WFLandingAppHome.png)
 
 <br>
 
@@ -120,7 +120,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingAppHomeTab.](/img/wireframes-landing/WFLandingAppHomeTab.PNG)
+![WFLandingAppHomeTab.](/img/wireframes-landing/WFLandingAppHomeTab.png)
 
 <br>
 
@@ -128,7 +128,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingAppAbout.](/img/wireframes-landing/WFLandingAppAbout.PNG)
+![WFLandingAppAbout.](/img/wireframes-landing/WFLandingAppAbout.png)
 
 <br>
 
@@ -136,7 +136,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingAppGoals.](/img/wireframes-landing/WFLandingAppGoals.PNG)
+![WFLandingAppGoals.](/img/wireframes-landing/WFLandingAppGoals.png)
 
 <br>
 
@@ -144,7 +144,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingAppContact.](/img/wireframes-landing/WFLandingAppContact.PNG)
+![WFLandingAppContact.](/img/wireframes-landing/WFLandingAppContact.png)
 
 <br>
 
@@ -158,7 +158,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingHome.](/img/mockups-landing/MULandingHome.PNG)
+![MULandingHome.](/img/mockups-landing/MULandingHome.png)
 
 <br>
 
@@ -166,7 +166,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingAbout.](/img/mockups-landing/MULandingAbout.PNG)
+![MULandingAbout.](/img/mockups-landing/MULandingAbout.png)
 
 <br>
 
@@ -174,7 +174,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingGoals.](/img/mockups-landing/MULandingGoals.PNG)
+![MULandingGoals.](/img/mockups-landing/MULandingGoals.png)
 
 <br>
 
@@ -182,7 +182,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingContact.](/img/mockups-landing/MULandingContacts.PNG)
+![MULandingContact.](/img/mockups-landing/MULandingContacts.png)
 
 <br>
 
@@ -193,7 +193,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingAppHome.](/img/mockups-landing/MULandingAppHome.PNG)
+![MULandingAppHome.](/img/mockups-landing/MULandingAppHome.png)
 
 <br>
 
@@ -201,7 +201,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingAppHomeTab.](/img/mockups-landing/MULandingAppHomeTab.PNG)
+![MULandingAppHomeTab.](/img/mockups-landing/MULandingAppHomeTab.png)
 
 <br>
 
@@ -209,7 +209,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingAppAbout.](/img/mockups-landing/MULandingAppAbout.PNG)
+![MULandingAppAbout.](/img/mockups-landing/MULandingAppAbout.png)
 
 <br>
 
@@ -217,7 +217,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingAppGoals.](/img/mockups-landing/MULandingAppGoals.PNG)
+![MULandingAppGoals.](/img/mockups-landing/MULandingAppGoals.png)
 
 <br>
 
@@ -225,7 +225,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingAppContact.](/img/mockups-landing/MULandingAppContacts.PNG)
+![MULandingAppContact.](/img/mockups-landing/MULandingAppContacts.png)
 
 <br>
 
