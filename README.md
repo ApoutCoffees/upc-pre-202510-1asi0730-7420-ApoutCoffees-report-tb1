@@ -594,6 +594,7 @@ En este segmento, la motivación es la experiencia y la sorpresa, no el hábito 
 ---
 ### 2.3.3. User Journey Mapping
 
+![](img/user-journey-mapping.png)
 
 ### 2.3.4. Empathy Mapping
 
