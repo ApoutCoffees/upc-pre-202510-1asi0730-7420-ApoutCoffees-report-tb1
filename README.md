@@ -557,12 +557,12 @@ Este segmento está conformado por productores y microemprendedores (34, 23 y 48
 ### 2.3.1. User Personas
 - Segmento 1 : Consumidores
 
-![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/1s.png?token=GHSAT0AAAAAADKPSO4THWKHSOSH7M6TBGAQ2GPNGOQ)
+![](https://media.discordapp.net/attachments/1419015781793923187/1419166692264775700/Screenshot_2025-09-20_223646.png?ex=68d0c57a&is=68cf73fa&hm=b23ea2e4145ce8e7968b0a1b09f488f55e33d833090dbd9901738e48139298d9&=&format=webp&quality=lossless)
 
 
 -Segmento 2: Negocios
 
-![User persona Julio - Segmento 2](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/2.png?token=GHSAT0AAAAAADKPSO4TZTBXVL6T5LKS37562GPNIFA)
+![User persona Julio - Segmento 2](https://media.discordapp.net/attachments/1419015781793923187/1419166691752939540/Screenshot_2025-09-20_223712.png?ex=68d0c57a&is=68cf73fa&hm=de8ee542cad70ae627eca92cccc285a90354d69b4ad679d4a51a892bfb8e80a3&=&format=webp&quality=lossless)
 
 
 ### 2.3.2. User Task Matrix
@@ -608,19 +608,19 @@ En este segmento, la motivación es la experiencia y la sorpresa, no el hábito 
 ### 2.3.4. Empathy Mapping
 
 Empathy Map - Segmento 1 
-![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/Screenshot%202025-09-20%20195428.png?token=GHSAT0AAAAAADKPSO4TD6MODF4ZW634AQQ42GPNKOA)
+![](https://media.discordapp.net/attachments/1419015781793923187/1419166926810382429/Screenshot_2025-09-20_195438.png?ex=68d0c5b2&is=68cf7432&hm=7f9f2354c1008cf478f7fd0023285d8343739a8b22cfa86cf104d35d6b1be6d1&=&format=webp&quality=lossless&width=928&height=679)
 
 
 Empathy Map - Segmento 2
-![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/Screenshot%202025-09-20%20195438.png?token=GHSAT0AAAAAADKPSO4TBSO37ZDGISLWU5VY2GPNKQA)
+![](https://media.discordapp.net/attachments/1419015781793923187/1419166927259045958/Screenshot_2025-09-20_195428.png?ex=68d0c5b2&is=68cf7432&hm=0782532edb83cdc999b4508fa74883cdd830ceb05394e4df146533f378c3d09c&=&format=webp&quality=lossless&width=928&height=619)
 
 ### 2.3.5. As-is Scenario Mapping
 
 As-Is Scneario Map - Segmento 1:
-![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/1.png?token=GHSAT0AAAAAADKPSO4TXHGFG4FRLVS66LKA2GPNLAA)
+![](https://media.discordapp.net/attachments/1419015781793923187/1419166698442985472/1.png?ex=68d0c57b&is=68cf73fb&hm=ee9e91c4abeaa33c1f8b3e4100f1372c26930f36c8885488cbed86fb9ac52f2d&=&format=webp&quality=lossless&width=928&height=277)
 
 As-Is Scneario Map - Segmento 2:
-![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/2s.png?token=GHSAT0AAAAAADKPSO4TLL25E5JXGFC25HPU2GPNLBQ)
+![](https://media.discordapp.net/attachments/1419015781793923187/1419166697830486138/2s.png?ex=68d0c57b&is=68cf73fb&hm=079bcd2f153ea42ee81c61c86702f690eb8b33738751dd6fe58dc6003bd18da6&=&format=webp&quality=lossless&width=928&height=300)
 
 ## 2.3. Big Picture Event Storming
 
