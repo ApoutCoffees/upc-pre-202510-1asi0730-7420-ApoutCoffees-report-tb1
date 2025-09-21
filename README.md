@@ -543,6 +543,66 @@ Para mantener consistencia en el desarrollo y comunicación del proyecto, se def
 ## 4.1. Style guidelines
 ### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
+
+#### a. Estructura de la página
+
+La interfaz de usuario de la aplicación Web de Smiling Cups fue diseñada con el objetivo de ofrecer un experiencia fluida y de calidad para los usuarios, tendiendo en cuenta las adaptaciones a los distintos formatos de pantalla. Se observan a continuación tres secciones para poder entender como se organiza el contenido.
+
+
+-   Header
+    
+    -   Ubicación: Parte superior de la pantalla
+    -   Contenido:
+        -   Logo: El logo de nuestra aplicación se posiciona en la esquina superior izquierda, mostrado en el formato JPG.
+        -   Botones de navegación: Se disponen en la esquina superior izquierda después del logo, con opciones como "About", "Goals" y "Contact".
+    -   Color del Header: Café oscuro – código #CDAC77. Este color fue elegido por debido a su relación con los contextos del negocio, transmitiendo identidad visual y profesionalismo.
+-   Body
+    
+    -   Ubicación: La zona más amplia de la página, se encuentra en la zona central.
+    -   Contenido:
+        -   Imágenes: Se incluyen imágenes JPG que guardan relación con el objetivo de cada sección de la aplicación Web
+    -   Color del Body: Blanco – código #FFF1D1. Este color demuestra un entorno agradable para el usuario y se muestra de forma limpia y pulida.
+    
+
+#### b. Diseño de Interfaz
+
+
+-   Responsive Design: La interfaz grafica de la aplicación  esta diseñada para poder ser mostrada en diferentes tipos de dispositivos. Esto se logra mediante la utilización de diversas herramientas que ayuden con el redimensionamiento.
+
+#### c. Tipografía Web
+
+-   Menú Horizontal y Vertical
+    -   Fuente: Scribbled
+    -   Tamaño: 32 px
+    -   Estilo: Negrita
+-   Títulos
+    -   Fuente: Amaranth
+    -   Tamaño: 56 px
+    -   Estilo: Regular
+-   Subtítulos
+    -   Fuente: Amatic SC
+    -   Tamaño: 32 px
+    -   Estilo: Regular
+-   Cuerpo de Texto
+    -   Fuente: Amatic SC
+    -   Tamaño: 32 px
+    -   Estilo: Regular
+ 
+
+#### d. Colores
+
+
+-   Paleta de colores base
+    
+    -   Café oscuro(#CDAC77): Color usado en el encabezado de la app.
+    -   Violeta oscuro (#3B1F5C): Color de fondo y encabezado, aporta profundidad y profesionalismo.
+    -   Café claro(#FFF1D1): Color usado para el fondo de la página.
+ para aportar frescura y contraste.
+
+#### e. Iconografía
+
+-   Estilo: Íconos divertidos y atractivos, diseñados para mejorar la accesibilidad y facilitar la navegación.
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 SmilingCups organiza su información aplicando sistemas de organización visual y esquemas de categorización:
