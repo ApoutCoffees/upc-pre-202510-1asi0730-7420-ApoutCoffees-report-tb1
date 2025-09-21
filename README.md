@@ -758,6 +758,9 @@ Para mantener consistencia en el desarrollo y comunicación del proyecto, se def
 |US40|**Ver ofertas de cafés por tipo de grano**|**Como consumidor**  **Quiero poder**  filtrar cafés por tipo de grano (Bourbon, Typica, etc.) **para** explorar variedades específicas.|**Scenario 1**  <br>**DADO QUE**  tengo interés en un tipo de grano, <br>**CUANDO**  uso el filtro, <br>**ENTONCES**  veo cafés que lo incluyen.|EP02|
 
 ## 3.3. Impact Mapping
+
+![](img/impact-mapping.png)
+
 ## 3.4. Product Backlog
 
 |# Orden|User Story ID|Título|Descripción|Story Points <br>(1/2/3/5/8)|
