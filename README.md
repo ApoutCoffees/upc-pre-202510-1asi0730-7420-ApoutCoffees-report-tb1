@@ -29,9 +29,7 @@
 ## Registro de versiones del informe
 | Versión | Fecha | Autor | Descripción de modificación |
 |---------|-------|-------|-----------------------------|
-| 1.0    |  |  |  |
-| 1.1 |
-
+| 1.0    | 20.09.2025 | Todo el Equipo | Todo el equipo estuvo trabajando en el desarrollo de la documentación para el Sprint 0. |
 ---
 
 ## Project Report Collaboration Insights
@@ -122,18 +120,10 @@
 	[Bibliografía](#bibliografía)
 	[Anexos](#anexos)
 
-# Student Outcome
-
-| Criterio específico | Acciones realizadas | Conclusiones |
-|---------------------|---------------------|--------------|
-|
-
-# Student Outcome
-
 | Criterio específico | Giuliano Angel Pelaez Vargas | Daniel Jonatan Aquino Solorzano | Juan Carlos Pastor Napa | Johnny Alexander Ojanama Abanto | Carlos Augusto Paredes Chavez | Conclusiones |
 |---------------------|------------------------------|---------------------------------|---------------------------|---------------------------------|-------------------------------|--------------|
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | asd | asd | asd | asd | asd | asd |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | asd | asd | asd | asd | asd | asd |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | Participó activamente en la definición de funcionalidades clave, contribuyendo al diseño de la arquitectura RESTful y proponiendo mejoras en la experiencia de usuario. | Apoyó en la estructuración del backlog y en la priorización de tareas, facilitando la coordinación entre frontend y backend. | Propuso ideas para la interfaz adaptable y colaboró en la integración de componentes visuales en la Landing Page. | Contribuyó en la planificación de entregables y en la validación de criterios técnicos, asegurando cumplimiento de objetivos. | Lideró la definición de segmentos, escenarios To-Be, backlog completo y modelo de datos, articulando el enfoque estratégico del proyecto. | El equipo demostró capacidad para trabajar en conjunto, definir metas claras, distribuir tareas y construir una solución coherente y funcional. |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Redactó documentación técnica sobre la arquitectura y flujos de interacción, facilitando la comprensión entre desarrolladores. | Elaboró descripciones funcionales y criterios de aceptación para las User Stories, manteniendo claridad y precisión. | Contribuyó en la redacción de fichas informativas y mensajes de interfaz, adaptados a usuarios finales. | Participó en la elaboración de escenarios y mensajes de error, comunicando con empatía y claridad. | Documentó el proyecto en formato Markdown, estructuró el User Journey Mapping, y tradujo conceptos técnicos a lenguaje accesible. | La comunicación escrita fue efectiva en todos los niveles: técnica, funcional y narrativa. Se logró transmitir el valor del producto a usuarios, desarrolladores y stakeholders. |
 
 ---
 
