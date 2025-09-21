@@ -766,7 +766,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingAppContact.](/img/mockups-landing/MULandingAppContacts.png)
+![MULandingAppContacts.](/img/mockups-landing/MULandingAppContact.png)
 
 <br>
 
