@@ -699,6 +699,12 @@ A continuación mostraremos las capturas del Design Level Event Storming realiza
 ![](https://cdn.discordapp.com/attachments/1419015781793923187/1419163107955314818/image.png?ex=68d0c223&is=68cf70a3&hm=34b90214050bf96b7e94fc45716f619cd715e2d8702859d534e7f2d8d64ad5ac)
 
 
+![](https://cdn.discordapp.com/attachments/1419015781793923187/1419163233952202794/image.png?ex=68d0c241&is=68cf70c1&hm=dd8e9744891d8fd3db852b028207b3a0cc0c5c774231eb03d9bae5c89bafa351)
+
+![](https://cdn.discordapp.com/attachments/1419015781793923187/1419163394031747182/image.png?ex=68d0c267&is=68cf70e7&hm=cbe86d305af9392baa7ccf898fed2ae2fdda1a4856102c7298352625d4cece51)
+
+![](https://cdn.discordapp.com/attachments/1419015781793923187/1419163759485648967/image.png?ex=68d0c2bf&is=68cf713f&hm=72d46e1e90b2e824c98ab4831d963c6306fb73c1cfe1478b4452e71689d4c566)
+
 ## 4.8. Database Design
 ### 4.8.1.Database Diagrams
 # Capitulo V Product Implementation, Validation & Deployment
