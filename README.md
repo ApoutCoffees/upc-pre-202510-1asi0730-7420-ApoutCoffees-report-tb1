@@ -675,8 +675,23 @@ SmilingCups se plantea para ser claro, conciso y evitar ambigüedades:
 -   **Dashboard:** Herramienta exclusiva para productores con métricas de consumo.
 
   
-
 ### 4.2.3. SEO Tags and Meta Tags
+Con el objetivo de optimizar la visibilidad de SmilingCups en motores de búsqueda y mejorar la accesibilidad de la información, se han definido los principales SEO Tags y Meta Tags que serán implementados en la Landing Page y la Web Application.
+
+**Landing Page**
+
+- **Title:** SmilingCups-Plataforma de Misteryboxes sobre cafe
+- **Meta Description:** SmilingCups te ofrece una ruleta rusa de posibilidades si amas el cafe. Desarrollado por ApoutCoffes para los amantes del cafe y el azar.
+- **Meta Keywords:** Cafe, MysteryBox, Gambling, Develop Team, Cafeina.
+- **Meta Author:** ApoutCoffees Team
+
+**Web Application**
+
+- **Title:** SmilingCups
+- **Meta Description:** Prueba tu suerte y degusta los distintos cafes que tanto te gustan, suscribete y tienta a la suerte.
+- **Meta Keywords:** Cafe, MisteryBox, Gambling, Develop Team, Cafeina, Tipos de cafe, Cafe cargado.
+- **Meta Author:** ApoutCoffees Team
+  
 ### 4.2.4. Searching System
 
 El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a cafés, productores y reseñas, evitando que los usuarios se pierdan entre el volumen de información.
