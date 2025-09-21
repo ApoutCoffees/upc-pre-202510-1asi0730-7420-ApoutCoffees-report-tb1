@@ -149,9 +149,73 @@ Este segmento está conformado por productores y microemprendedores (34, 23 y 48
 ## 2.3 Needfinding
 
 ### 2.3.1. User Personas
+- Segmento 1 : Consumidores
+
+![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/1s.png?token=GHSAT0AAAAAADKPSO4THWKHSOSH7M6TBGAQ2GPNGOQ)
+
+
+-Segmento 2: Negocios
+
+![User persona Julio - Segmento 2](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/2.png?token=GHSAT0AAAAAADKPSO4TZTBXVL6T5LKS37562GPNIFA)
+
+
 ### 2.3.2. User Task Matrix
+
+#### 🧍 Segmento 1: Jóvenes exploradores de café (20–21) motivados por experiencias y sorpresa
+
+| Tarea principal                                                     | Frecuencia     | Importancia |
+|---------------------------------------------------------------------|----------------|-------------|
+| Descubrir y explorar “Mystery Boxes” interesantes                   | Frecuente      | Alta        |
+| Leer descripciones claras y visuales sobre la experiencia           | Frecuente      | Alta        |
+| Comprar una Mystery Box puntual (no suscripción)                   | Ocasional      | Alta        |
+| Valorar/compartir la experiencia (reseña, redes)                    | Ocasional      | Media       |
+| Guardar productos/marcas para una futura compra                     | Ocasional      | Media       |
+| Gestionar métodos de pago y dirección de envío                      | Una vez / Rara | Media       |
+| Resolver dudas rápidas (precio final, envíos, tiempos)              | Frecuente      | Alta        |
+| Recibir recomendaciones personalizadas sin fricción                 | Frecuente      | Media       |
+| Consultar estado de pedido y tracking                               | Ocasional      | Media       |
+
+**Notas:**  
+En este segmento, la motivación es la experiencia y la sorpresa, no el hábito de consumo. La claridad del valor y la narrativa pesan mucho en la conversión.
+
+---
+
+#### 🧑‍💼 Segmento 2: Microemprendedores/productores de café (23–48) con retos operativos y de digitalización
+
+| Tarea principal                                                             | Frecuencia | Importancia |
+|-----------------------------------------------------------------------------|------------|-------------|
+| Publicar/actualizar inventario y características del café                   | Frecuente  | Alta        |
+| Configurar precios, descuentos y disponibilidad                             | Frecuente  | Alta        |
+| Gestionar pedidos: confirmación, preparación, despacho                      | Frecuente  | Alta        |
+| Coordinar logística y seguimiento de envíos                                 | Frecuente  | Alta        |
+| Cobrar y conciliar pagos (reportes, liquidaciones)                          | Frecuente  | Alta        |
+| Atender mensajes/consultas de clientes                                      | Frecuente  | Media       |
+| Revisar métricas básicas (ventas, conversión, stock)                        | Semanal    | Alta        |
+| Mantener perfil/marca (fotos, descripciones, certificaciones)               | Ocasional  | Media       |
+| Gestionar devoluciones o incidencias                                        | Ocasional  | Media       |
+| Integrar herramientas externas mínimas (pagos, envíos)                      | Variable   | Alta        |
+
+---
 ### 2.3.3. User Journey Mapping
+
+
 ### 2.3.4. Empathy Mapping
+
+Empathy Map - Segmento 1 
+![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/Screenshot%202025-09-20%20195428.png?token=GHSAT0AAAAAADKPSO4TD6MODF4ZW634AQQ42GPNKOA)
+
+
+Empathy Map - Segmento 2
+![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/Screenshot%202025-09-20%20195438.png?token=GHSAT0AAAAAADKPSO4TBSO37ZDGISLWU5VY2GPNKQA)
+
+### 2.3.5. As-is Scenario Mapping
+
+As-Is Scneario Map - Segmento 1:
+![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/1.png?token=GHSAT0AAAAAADKPSO4TXHGFG4FRLVS66LKA2GPNLAA)
+
+As-Is Scneario Map - Segmento 2:
+![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/2s.png?token=GHSAT0AAAAAADKPSO4TLL25E5JXGFC25HPU2GPNLBQ)
+
 ## 2.3. Big Picture Event Storming
 
 En esta sección nos enfocamos en modelar los flujos de actividad que pudieran darse dentro de nuestra aplicación, denotando elementos claves que no ayudarán a tener un mejor panorama del diseño a nivel generar de la esta aplicación Web. Se debe de tomar en cuenta que esta fase se puede interpretar como un bosquejo de lo que vendría a ser la siguiente fase del Event Storming, la cual se verá más adelante. Nos enfocaremos en mostrar eventos del dominio pero a una escala general, para de esa forma recién profundizar estos elementos en la siguiente fase. 
