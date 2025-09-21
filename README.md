@@ -1189,8 +1189,17 @@ A continuación mostraremos las capturas del Design Level Event Storming realiza
 ![](img/dl-event-storming/subscription/subscription-2.png)
 
 ### 4.6.2. Software Architecture Context Diagram
+
+![](img/c4/diagrama-contexto.png)
+
 ### 4.6.3. Software Architecture Container Diagrams
+
+![](img/c4/diagrama-contenedores.png)
+
 ### 4.6.4.Software Architecture Components Diagrams
+
+![](img/c4/diagrama-componentes.png)
+
 ## 4.7Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ## 4.8. Database Design
