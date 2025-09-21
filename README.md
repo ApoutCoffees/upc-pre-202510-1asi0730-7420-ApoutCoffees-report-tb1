@@ -836,7 +836,7 @@ La interfaz de usuario de la aplicación Web de Smiling Cups fue diseñada con e
     -   Ubicación: La zona más amplia de la página, se encuentra en la zona central.
     -   Contenido:
         -   Imágenes: Se incluyen imágenes JPG que guardan relación con el objetivo de cada sección de la aplicación Web
-    -   Color del Body: Blanco – código #FFF1D1. Este color demuestra un entorno agradable para el usuario y se muestra de forma limpia y pulida.
+    -   Color del Body: Café claro – código #FFF1D1. Este color demuestra un entorno agradable para el usuario y se muestra de forma limpia y pulida.
     
 
 #### b. Diseño de Interfaz
@@ -870,7 +870,6 @@ La interfaz de usuario de la aplicación Web de Smiling Cups fue diseñada con e
 -   Paleta de colores base
     
     -   Café oscuro(#CDAC77): Color usado en el encabezado de la app.
-    -   Violeta oscuro (#3B1F5C): Color de fondo y encabezado, aporta profundidad y profesionalismo.
     -   Café claro(#FFF1D1): Color usado para el fondo de la página.
  para aportar frescura y contraste.
 
