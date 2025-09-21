@@ -77,7 +77,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingHome.](/img/WFLandingHome.PNG)
+![WFLandingHome.](/img/wireframes-landing/WFLandingHome.PNG)
 
 <br>
 
@@ -85,7 +85,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingAbout.](/img/WFLandingAbout.PNG)
+![WFLandingAbout.](/img/wireframes-landing/WFLandingAbout.PNG)
 
 <br>
 
@@ -93,7 +93,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingGoals.](/img/WFLandingGoals.PNG)
+![WFLandingGoals.](/img/wireframes-landing/WFLandingGoals.PNG)
 
 <br>
 
@@ -101,7 +101,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingContact.](/img/WFLandingContact.PNG)
+![WFLandingContact.](/img/wireframes-landing/WFLandingContact.PNG)
 
 <br>
 
@@ -112,7 +112,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingAppHome.](/img/WFLandingAppHome.PNG)
+![WFLandingAppHome.](/img/wireframes-landing/WFLandingAppHome.PNG)
 
 <br>
 
@@ -120,7 +120,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingAppHomeTab.](/img/WFLandingAppHomeTab.PNG)
+![WFLandingAppHomeTab.](/img/wireframes-landing/WFLandingAppHomeTab.PNG)
 
 <br>
 
@@ -128,7 +128,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingAppAbout.](/img/WFLandingAppAbout.PNG)
+![WFLandingAppAbout.](/img/wireframes-landing/WFLandingAppAbout.PNG)
 
 <br>
 
@@ -136,7 +136,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingAppGoals.](/img/WFLandingAppGoals.PNG)
+![WFLandingAppGoals.](/img/wireframes-landing/WFLandingAppGoals.PNG)
 
 <br>
 
@@ -144,7 +144,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![WFLandingAppContact.](/img/WFLandingAppContact.PNG)
+![WFLandingAppContact.](/img/wireframes-landing/WFLandingAppContact.PNG)
 
 <br>
 
@@ -158,7 +158,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingHome.](/img/MULandingHome.PNG)
+![MULandingHome.](/img/mockups-landing/MULandingHome.PNG)
 
 <br>
 
@@ -166,7 +166,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingAbout.](/img/MULandingAbout.PNG)
+![MULandingAbout.](/img/mockups-landing/MULandingAbout.PNG)
 
 <br>
 
@@ -174,7 +174,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingGoals.](/img/MULandingGoals.PNG)
+![MULandingGoals.](/img/mockups-landing/MULandingGoals.PNG)
 
 <br>
 
@@ -182,7 +182,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingContact.](/img/MULandingContacts.PNG)
+![MULandingContact.](/img/mockups-landing/MULandingContacts.PNG)
 
 <br>
 
@@ -193,7 +193,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingAppHome.](/img/MULandingAppHome.PNG)
+![MULandingAppHome.](/img/mockups-landing/MULandingAppHome.PNG)
 
 <br>
 
@@ -201,7 +201,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingAppHomeTab.](/img/MULandingAppHomeTab.PNG)
+![MULandingAppHomeTab.](/img/mockups-landing/MULandingAppHomeTab.PNG)
 
 <br>
 
@@ -209,7 +209,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingAppAbout.](/img/MULandingAppAbout.PNG)
+![MULandingAppAbout.](/img/mockups-landing/MULandingAppAbout.PNG)
 
 <br>
 
@@ -217,7 +217,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingAppGoals.](/img/MULandingAppGoals.PNG)
+![MULandingAppGoals.](/img/mockups-landing/MULandingAppGoals.PNG)
 
 <br>
 
@@ -225,7 +225,7 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 <br>
 
-![MULandingAppContact.](/img/MULandingAppContacts.PNG)
+![MULandingAppContact.](/img/mockups-landing/MULandingAppContacts.PNG)
 
 <br>
 
