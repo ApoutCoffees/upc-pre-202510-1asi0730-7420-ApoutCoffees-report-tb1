@@ -19,6 +19,8 @@ Se identificaron hasta la fecha a 3 principales competidores para la aplicación
 <table class="tg"> <thead> <tr> <th class="tg-0pky" colspan="6">Competitive Analysis Landscape</th> </tr> </thead> <tbody> <!-- Propósito --> <tr> <td class="tg-0pky" colspan="6"><strong>Propósito del análisis:</strong> Evaluar la posición de nuestra plataforma digital de café frente a tres competidores clave del mercado peruano de café de especialidad para identificar ventajas competitivas, riesgos y tácticas prioritarias que permitan ganar cuota en el mercado.</td> </tr> <!-- Pregunta guía --> <tr> <td class="tg-0pky" colspan="6"><strong>Pregunta guía:</strong> ¿Cómo se compara nuestra plataforma digital en oferta, producto, mercado y potencial estratégico frente a Coffee Hunters Perú, Café Compadre y Tunki Coffee, y qué acciones tácticas deben priorizarse para diferenciarse y crecer?</td> </tr> <!-- Cabecera --> <tr> <td class="tg-0pky" colspan="2"></td> <td class="tg-0lax">Smiling Cups</td> <td class="tg-0pky">Coffee Hunters Perú</td> <td class="tg-0pky">Café Compadre</td> <td class="tg-0pky">Tunki Coffee</td> </tr> <!-- Perfil --> <tr> <td class="tg-0pky" rowspan="2">Perfil</td> <td class="tg-0pky">Overview</td> <td class="tg-0lax">Plataforma digital innovadora que conecta consumidores con marcas de café mediante cajas misteriosas y experiencias interactivas de descubrimiento de café.</td> <td class="tg-0pky">Comercializadora de cafés de especialidad que viaja a fincas para encontrar cafés de alta calidad.</td> <td class="tg-0pky">Marca de café de especialidad con proceso de producción sostenible usando energía solar.</td> <td class="tg-0pky">Cooperativa dedicada a la producción de café especial, orgánico y de calidad.</td> </tr> <tr> <td class="tg-0pky">Ventaja Competitiva<br>¿Qué valor ofrece a los clientes?</td> <td class="tg-0lax">- Experiencia gamificada de descubrimiento de café<br>- Cajas misteriosas personalizadas<br>- Métricas de consumo para usuarios<br>- Conectividad directa entre productores y consumidores via carta.</td> <td class="tg-0pky">- Trazabilidad completa de los cafés<br>- Selección directa de fincas<br>- Presentaciones a pequeña escala</td> <td class="tg-0pky">- Sostenibilidad socio-ambiental<br>- Proceso de producción con energía solar<br>- Compromiso con agricultores locales</td> <td class="tg-0pky">- Alta calidad de café<br>- Variedad de formatos de producto<br>- Café orgánico certificado</td> </tr> <!-- Perfil de marketing --> <tr> <td class="tg-0pky" rowspan="2">Perfil de marketing</td> <td class="tg-0pky">Mercado objetivo</td> <td class="tg-0lax">- Consumidores digitales<br>- Amantes del café<br>- Millennials y Gen Z<br>- Consumidores interesados en experiencias únicas</td> <td class="tg-0pky">- Consumidores de café de especialidad<br>- Interesados en trazabilidad<br>- Compradores conscientes</td> <td class="tg-0pky">- Consumidores ecológicos<br>- Interesados en sostenibilidad<br>- Consumidores de café premium</td> <td class="tg-0pky">- Consumidores de café gourmet<br>- Interesados en productos orgánicos<br>- Compradores de café de alta calidad</td> </tr> <tr> <td class="tg-0pky">Estrategias de marketing</td> <td class="tg-0lax">- Marketing digital<br>- Redes sociales<br>- Contenido interactivo<br>- Programa de referidos<br>- Alianzas con influencers de café</td> <td class="tg-0pky">- Storytelling de origen<br>- Marketing de contenidos<br>- Ferias de café<br>- Redes sociales especializadas</td> <td class="tg-0pky">- Marketing de sostenibilidad<br>- Eventos de concientización<br>- Redes sociales ecológicas</td> <td class="tg-0pky">- Marketing de calidad<br>- Participación en concursos de café<br>- Presentaciones en eventos especializados</td> </tr> <!-- Perfil de producto --> <tr> <td class="tg-0pky" rowspan="3">Perfil de producto</td> <td class="tg-0pky">Productos o servicios</td> <td class="tg-0lax">- Cajas misteriosas de café<br>- Plataforma digital interactiva<br>- Sistema de recomendaciones<br>- Perfil de consumo de café</td> <td class="tg-0pky">- Café de especialidad<br>- Selecciones de origen<br>- Lotes limitados</td> <td class="tg-0pky">- Café de especialidad<br>- Café con energía solar<br>- Presentaciones únicas</td> <td class="tg-0pky">- Café orgánico<br>- Diversos formatos<br>- Café de especialidad</td> </tr> <tr> <td class="tg-0pky">Precios y costos</td> <td class="tg-0lax">- Modelo de suscripción<br>- Planes flexibles<br>- Cajas con diferentes rangos de precio<br>- Opciones personalizables<br>-Opcion de entrada notablemente economica.</td> <td class="tg-0pky">- Precios premium<br>- Lotes pequeños<br>- Variabilidad de precios</td> <td class="tg-0pky">- Precios premium<br>- Enfoque en sostenibilidad<br>- Valor agregado ecológico</td> <td class="tg-0pky">- Precios altos por especialidad<br>- Diferentes rangos de precio<br>- Certificaciones orgánicas</td> </tr> <tr> <td class="tg-0pky">Canales de distribución</td> <td class="tg-0lax">- Plataforma web<br>- Aplicación móvil<br>- Entrega directa<br>- Alianzas con cafeterías</td> <td class="tg-0pky">- Comercio electrónico<br>- Tiendas especializadas<br>- Venta directa</td> <td class="tg-0pky">- Canales digitales<br>- Tiendas de productos orgánicos<br>- Venta directa</td> <td class="tg-0pky">- Comercio electrónico<br>- Distribución especializada<br>- Cooperativa</td> </tr> <!-- Análisis FODA --> <tr> <td class="tg-0pky" rowspan="4">Análisis FODA</td> <td class="tg-0pky">Fortalezas</td> <td class="tg-0lax">- Innovación tecnológica<br>- Experiencia interactiva<br>- Conexión directa productor-consumidor<br>- Métricas personalizadas</td> <td class="tg-0pky">- Conocimiento directo de origen<br>- Selección cuidadosa<br>- Relaciones con productores</td> <td class="tg-0pky">- Compromiso ambiental<br>- Proceso de producción único<br>- Imagen de marca ecológica</td> <td class="tg-0pky">- Reconocimiento de mercado<br>- Calidad consistente<br>- Experiencia en producción</td> </tr> <tr> <td class="tg-0pky">Debilidades</td> <td class="tg-0lax">- Plataforma nueva<br>- Necesidad de construir confianza<br>- Dependencia de tecnología<br>- Curva de aprendizaje para usuarios</td> <td class="tg-0pky">- Volatilidad de sabores<br>- Inconsistencia en lotes<br>- Escala limitada</td> <td class="tg-0pky">- Precios más altos<br>- Disponibilidad limitada<br>- Mercado reducido</td> <td class="tg-0pky">- Poca presencia digital<br>- Precios elevados<br>- Diversificación limitada</td> </tr> <tr> <td class="tg-0pky">Oportunidades</td> <td class="tg-0lax">- Crecimiento del mercado digital<br>- Interés en experiencias personalizadas<br>- Consumidores digitales emergentes<br>- Tendencia hacia consumo consciente</td> <td class="tg-0pky">- Interés en trazabilidad<br>- Consumidores conscientes<br>- Mercado de especialidad en crecimiento</td> <td class="tg-0pky">- Conciencia ambiental<br>- Preferencia por sostenibilidad<br>- Consumidores eco-friendly</td> <td class="tg-0pky">- Crecimiento de café de especialidad<br>- Demanda de productos orgánicos<br>- Interés en calidad</td> </tr> <tr> <td class="tg-0pky">Amenazas</td> <td class="tg-0lax">- Competencia tecnológica<br>- Cambios rápidos en preferencias digitales<br>- Barrera de entrada tecnológica<br>- Posible saturación de mercado</td> <td class="tg-0pky">- Competencia de grandes marcas<br>- Volatilidad de precios<br>- Cambio climático</td> <td class="tg-0pky">- Altos costos de producción<br>- Competencia de marcas tradicionales<br>- Precios poco competitivos</td> <td class="tg-0pky">- Entrada de nuevos competidores<br>- Presión de precios<br>- Regulaciones cambiantes</td> </tr> </tbody> </table>
 	  
 - 
+	  
+- 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 -   **Diferenciación de producto:** Mystery box interactivas, algo que los competidores no ofrecen.
@@ -60,7 +62,90 @@ Se identificaron hasta la fecha a 3 principales competidores para la aplicación
 
 ### 2.2.2. Registro de entrevistas
 
+___-Segmento Objetivo 1___
+
+__Entrevista 1 (Alejandro)__
+
++ Nombre: Alejandro
++ Edad: 21
++ Distrito de residencia: La Molina
+
+**Resumen de Entrevista :**
+Alejandro, 21 años y residente en La Molina, consume café de forma ocasional y no suele ser quien lo compra, ya que prefiere que su hermana se encargue. Está dispuesto a probar cafés de pequeños productores y le interesa la idea de recibir una "mystery box" mensual con selecciones distintas; sin embargo, duda sobre si conocer la historia u origen del café le aportaría valor.
+
+[![Alejandro](https://img.youtube.com/vi/0xvz6TSRT1g/hqdefault.jpg)](https://www.youtube.com/watch?v=0xvz6TSRT1g)
+
+---
+
+__Entrevista 2 (Franco Matías Flores)__
+
++ Nombre: Franco Matías Saiko Flores
++ Edad: 20
++ Distrito de residencia: San Borja
+
+**Resumen de Entrevista :**
+Franco Matías Saiko Flores, de 20 años, tiene una relación con el café marcada por la tradición familiar: su abuela solía tomarlo habitualmente, lo que dejó una impronta en su experiencia aunque él no sea un gran consumidor. A pesar de su bajo consumo personal, muestra disposición a explorar y probar cafés de pequeños productores, lo que sugiere interés por la autenticidad, la trazabilidad y el valor artesanal del producto. Le resulta atractiva la idea de recibir una Mystery Box de café, lo que revela curiosidad sensorial y una preferencia por experiencias de descubrimiento más que por la lealtad a una marca o perfil de sabor concreto. En conjunto, esto indica que, aunque su consumo actual es limitado, Franco es un consumidor potencialmente receptivo a estrategias de marketing basadas en la exploración, las muestras y las historias sobre origen y productores; la influencia familiar explica la familiaridad y la apertura inicial, mientras que su interés en pequeños productores y formatos sorpresa denota una motivación más experiencial y ética que puramente funcional.
+
+[![Franco](https://img.youtube.com/vi/XfWcetDSuqM/hqdefault.jpg)](https://www.youtube.com/watch?v=XfWcetDSuqM)
+
+---
+
+___-Segmento Objetivo 2___
+
+__Entrevista 3 (Jhonatan Murga Abad)__
+
++ Nombre: Jhonatan Murga Abad
++ Edad: 34
++ Distrito de residencia: San Miguel
++ Sector: Producción y comercialización de café
+
+**Resumen de Entrevista :**
+Jhonatan Murga Abad, ingeniero agroindustrial, comparte la experiencia de comercializar el café familiar; actualmente vende principalmente a través de distribuidores y por WhatsApp, con un volumen modesto y una fuerte dependencia de intermediarios, lo que limita su control sobre precio, posicionamiento y la relación directa con el cliente. El principal cuello de botella es la logística: sin una solución de distribución directa, llegar al consumidor final resulta difícil y frena el crecimiento. Aunque utiliza canales digitales básicos como WhatsApp, no cuenta con una estrategia digital robusta —no hay tienda en línea, presencia comercial estructurada en marketplaces ni métricas claras— y por eso carece de datos sobre preferencias de los clientes, presentaciones o sabores más aceptados y la sensibilidad al precio. Muestra interés en modelos innovadores como el Mystery Box para diversificar la oferta y captar clientes finales, pero su implementación depende de solucionar la logística y la distribución. En conjunto, la falta de métricas y canales directos dificulta la toma de decisiones informadas y la escalabilidad; las prioridades inmediatas serían resolver la cadena de distribución, construir canales digitales que permitan vender directo al consumidor y recopilar datos de clientes para optimizar presentaciones, precios y promociones.
+
+[![Jhonatan](https://img.youtube.com/vi/_B5XOJWkT_A/hqdefault.jpg)](https://www.youtube.com/watch?v=_B5XOJWkT_A)
+
+---
+
+__Entrevista 4 (Toby Dextre)__
+
++ Nombre: Toby Dextre
++ Edad: 23
++ Distrito de residencia: Surco
++ Sector: Emprendimiento de café
+
+**Resumen de Entrevista :**
+Dextre, un estudiante que vende café por Instagram; comenzó por necesidad económica y usa la plataforma para mostrar su producto, pero aunque recibe muchas vistas le cuesta convertirlas en ventas porque su alcance se limita a su círculo cercano y los compradores dudan por falta de confianza y desconocimiento del proceso; él prepara, empaqueta y entrega el café personalmente y atiende por mensajes, lo que facilita la comunicación pero le consume tiempo y choca con sus responsabilidades universitarias, por lo que necesita mejores herramientas para pago y envío, reseñas que generen confianza y una plataforma que conecte a pequeños vendedores con consumidores interesados para aumentar visibilidad y reducir la carga operativa.
+
+[![Toby Dextre](https://img.youtube.com/vi/DbTSV1g-nlQ/hqdefault.jpg)](https://www.youtube.com/watch?v=DbTSV1g-nlQ)
+
+---
+
+__Entrevista 5 (Kory Milagros)__
+
++ Nombre: Kory Milagros
++ Edad: 48
++ Distrito de residencia: Surquillo
++ Sector: Comercialización de café
+
+**Resumen de Entrevista :**
+Kory Milagros cuenta su experiencia vendiendo café principalmente a través del boca a boca y WhatsApp, lo que evidencia que su clientela se construye por confianza personal y redes locales; esto sugiere que una plataforma que conecte vendedores con consumidores y ofrezca pagos seguros y logística confiable podría escalar su modelo sin romper esas relaciones directas. Además, la idea de las Mystery Boxes aparece como una oportunidad para que Kory aumente la visibilidad de productos menos conocidos y fomente la prueba por parte de nuevos clientes, aunque requiere atención en la gestión de expectativas, control de calidad y trazabilidad para mantener la satisfacción y fidelidad. En resumen, su trayectoria muestra potencial para formalizar ventas informales si se le brinda soporte tecnológico y operativo que preserve la confianza que hoy logra personalmente.
+
+[![Kory Milagros](https://img.youtube.com/vi/1e-uGAnfACk/hqdefault.jpg)](https://www.youtube.com/watch?v=1e-uGAnfACk)
+
+
 ### 2.2.3. Análisis de entrevistas
+
+**Segmento Objetivo 1:**
+
+Este segmento está compuesto por consumidores jóvenes (21 y 20 años) que tienen un consumo ocasional o limitado de café, pero muestran apertura hacia la exploración y la prueba de productos de pequeños productores. La motivación principal es experiencial y curiosa: la "Mystery Box" les atrae como formato novedoso y lúdico, más que por la necesidad de un consumo constante. La complejidad radica en que su consumo no es rutinario ni estable, lo que implica que la fidelización no puede basarse en el hábito, sino en propuestas que refuercen la experiencia, la sorpresa y la conexión emocional. Aunque son receptivos, requieren estrategias de comunicación claras y atractivas para convertir interés en compra efectiva.
+
+
+
+**Segmento Objetivo 2:**
+
+
+Este segmento está conformado por productores y microemprendedores (34, 23 y 48 años) que comercializan café de manera directa, con canales digitales básicos y alta dependencia de confianza personal o distribuidores. Su principal reto es operativo: logística, pagos seguros, confianza del cliente y escalabilidad. La complejidad aquí está en la falta de estructura digital y de métricas que permitan tomar decisiones informadas. Aunque muestran apertura a innovaciones como la Mystery Box, la prioridad es resolver la cadena de distribución, formalizar canales de venta y contar con herramientas tecnológicas que simplifiquen su operación. Son un segmento con necesidades prácticas y urgentes, lo que los hace sensibles al soporte en infraestructura más que al marketing experiencial.
+
 ## 2.3 Needfinding
 
 ### 2.3.1. User Personas
