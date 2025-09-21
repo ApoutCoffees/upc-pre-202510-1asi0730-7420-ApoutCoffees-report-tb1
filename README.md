@@ -609,7 +609,167 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+<br>
+
+**Web landing page wireframe** 
+<br>
+
+- Home
+
+<br>
+
+![WFLandingHome.](/img/wireframes-landing/WFLandingHome.png)
+
+<br>
+
+- About
+
+<br>
+
+![WFLandingAbout.](/img/wireframes-landing/WFLandingAbout.png)
+
+<br>
+
+- Goals
+
+<br>
+
+![WFLandingGoals.](/img/wireframes-landing/WFLandingGoals.png)
+
+<br>
+
+- Contact
+
+<br>
+
+![WFLandingContact.](/img/wireframes-landing/WFLandingContact.png)
+
+<br>
+
+**Mobile landing page wireframe** 
+<br>
+
+- Home
+
+<br>
+
+![WFLandingAppHome.](/img/wireframes-landing/WFLandingAppHome.png)
+
+<br>
+
+- Home Tab
+
+<br>
+
+![WFLandingAppHomeTab.](/img/wireframes-landing/WFLandingAppHomeTab.png)
+
+<br>
+
+- About
+
+<br>
+
+![WFLandingAppAbout.](/img/wireframes-landing/WFLandingAppAbout.png)
+
+<br>
+
+- Goals
+
+<br>
+
+![WFLandingAppGoals.](/img/wireframes-landing/WFLandingAppGoals.png)
+
+<br>
+
+- Contact
+
+<br>
+
+![WFLandingAppContact.](/img/wireframes-landing/WFLandingAppContact.png)
+
+<br>
+
 ### 4.3.2. Landing Page Moc-up
+<br>
+
+**Web landing page Moc-up** 
+<br>
+
+- Home
+
+<br>
+
+![MULandingHome.](/img/mockups-landing/MULandingHome.png)
+
+<br>
+
+- About
+
+<br>
+
+![MULandingAbout.](/img/mockups-landing/MULandingAbout.png)
+
+<br>
+
+- Goals
+
+<br>
+
+![MULandingGoals.](/img/mockups-landing/MULandingGoals.png)
+
+<br>
+
+- Contact
+
+<br>
+
+![MULandingContact.](/img/mockups-landing/MULandingContacts.png)
+
+<br>
+
+**Mobile landing page wireframe** 
+<br>
+
+- Home
+
+<br>
+
+![MULandingAppHome.](/img/mockups-landing/MULandingAppHome.png)
+
+<br>
+
+- Home Tab
+
+<br>
+
+![MULandingAppHomeTab.](/img/mockups-landing/MULandingAppHomeTab.png)
+
+<br>
+
+- About
+
+<br>
+
+![MULandingAppAbout.](/img/mockups-landing/MULandingAppAbout.png)
+
+<br>
+
+- Goals
+
+<br>
+
+![MULandingAppGoals.](/img/mockups-landing/MULandingAppGoals.png)
+
+<br>
+
+- Contact
+
+<br>
+
+![MULandingAppContact.](/img/mockups-landing/MULandingAppContacts.png)
+
+<br>
+
 ## 4.4 Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
