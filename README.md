@@ -807,8 +807,26 @@ Para mantener consistencia en el desarrollo y comunicación del proyecto, se def
 
 # Capitulo IV: Product Design
 ## 4.1. Style guidelines
-
+Estos lineamientos se establecerán para el diseño del sistema de smiling cups, una plataforma de mysteryboxes con tematica de cafes.
 ### 4.1.1. General Style Guidelines
+
+#### a. Branding
+- Logotipo:El logotipo de SmilingCups utiliza una composicion circular. Se presenta en formato png para permitir su visualizacion en la mas alta calidad.
+- Colores del logotipo: El logotipo emplea tonos monocromaticos para dar una vista simple y no cargada. Tiene una cara feliz en medio representando la parte de "Smiling" y la vista es de una taza desde arriba.
+- Espaciado mínimo: Se establece un espaciado mínimo de 10px alrededor del logotipo para garantizar su legibilidad y presencia visual en cualquier contexto.
+
+#### b. Tipografía
+
+- Primera Fuente - Amaranth (56px): Utilizada para titulos principales, se usa esta fuente buscando trasmitir una vibra de tranquilidad y calma al usuario.
+- Segunda Fuente - Amatic SC(32px): Utilizada para textos descriptivos e informaticos trasmitiendo una vibra segura y hogareña.
+- Tercera Fuente - Lindo Figma (24px): Utilizada para los botones, es un estilo alegre y creativo para llamar la atencion del usuario
+- Aplicaciones:
+	- Amaranth: Utilizada para titulos principales
+
+	- Amatic SC: Utilizada para textos descriptivos
+
+	- Lindo Figma: Utilizada para los botones
+   
 ### 4.1.2. Web Style Guidelines
 
 #### a. Estructura de la página
