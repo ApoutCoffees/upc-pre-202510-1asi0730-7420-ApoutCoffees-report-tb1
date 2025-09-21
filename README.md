@@ -751,6 +751,12 @@ La ejecución incluyó:
 - Sincronización del equipo a través de reuniones virtuales y Discord.  
 
 ####  5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Se documentó lo siguiente:  
+- Guía de uso del repositorio (README inicial en GitHub).  
+- Modelo entidad-relación inicial para la base de datos. 
+
+
 ####  5.2.1.7. Software Deployment Evidence for Sprint Review
 ####  5.2.1.8. Team Collaboration Insights during Sprint
 # Conclusiones
