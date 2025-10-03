@@ -756,6 +756,10 @@ Para mantener consistencia en el desarrollo y comunicación del proyecto, se def
 |US38|**Acceder a promociones especiales**|**Como consumidor** **Quiero ver**  promociones y descuentos activos **para**  aprovechar ofertas en cajas misteriosas.|**Scenario 1** <br>**DADO QUE**  hay una campaña activa, <br>**CUANDO**  entro a la sección de promociones, <br>**ENTONCES**  veo los descuentos disponibles.<br><br>**Scenario 2** <br>**DADO QUE** deseo una promoción pero ya no está disponible, <br>**CUANDO** entro a la sección de promociones, <br>**ENTONCES** el sistema no muestra la promoción inhabilitada.|EP03|
 |US39|**Recibir alertas de productos agotados**|**Como consumidor** **Quiero recibir** notificaciones cuando un producto que me gusta esté por agotarse **para** comprarlo a tiempo.|**Scenario 1** <br>**DADO QUE**  marqué un producto como favorito, <br>**CUANDO** está por agotarse, <br>**ENTONCES** el sistema envía notificaciones con el mensaje "**Producto** está por agotarse!!".|EP02| 
 |US40|**Ver ofertas de cafés por tipo de grano**|**Como consumidor**  **Quiero poder**  filtrar cafés por tipo de grano (Bourbon, Typica, etc.) **para** explorar variedades específicas.|**Scenario 1**  <br>**DADO QUE**  tengo interés en un tipo de grano, <br>**CUANDO**  uso el filtro, <br>**ENTONCES**  veo cafés que lo incluyen.|EP02|
+|US41|**Crear campañas colaborativas entre cafeterías**|**Como productor** **Quiero poder** lanzar campañas junto a otras marcas **para** aumentar alcance y compartir clientes.|**Scenario** <br>**DADO QUE** el usuario es productor, <br>**CUANDO** accede a la sección de colaboración, <br>**ENTONCES** puede invitar a otras marcas y lanzar una campaña conjunta.|EP03|
+|US42|**Recibir recomendaciones según cafeterías seguidas**|**Como consumidor** **Quiero recibir** sugerencias de productos según las cafeterías que sigo **para** descubrir nuevas experiencias.|**Scenario** <br>**DADO QUE** sigue varias marcas, <br>**CUANDO** accede a la sección de recomendaciones, <br>**ENTONCES** ve productos relacionados.|EP02|
+|US43|**Ver evolución de métricas de mi marca**|**Como productor** **Quiero ver** cómo evolucionan mis métricas de consumo y reseñas **para** tomar decisiones estratégicas.|**Scenario** <br>**DADO QUE** tiene una cuenta de productor, <br>**CUANDO** accede al panel de métricas, <br>**ENTONCES** ve gráficos comparativos por mes.|EP03|
+|US44|**Recibir alertas de interacción con mi marca**|**Como productor** **Quiero recibir** notificaciones cuando alguien siga mi marca, deje reseña o compre **para** mantenerme informado.|**Scenario** <br>**DADO QUE** tiene una marca activa, <br>**CUANDO** ocurre una interacción, <br>**ENTONCES** recibe una alerta en mi panel.|EP03|
 
 ## 3.3. Impact Mapping
 
@@ -805,6 +809,10 @@ Para mantener consistencia en el desarrollo y comunicación del proyecto, se def
 |38|US38|Acceder a promociones especiales|Como consumidor, quiero ver promociones y descuentos activos para aprovechar ofertas en cajas misteriosas.|3|
 |39|US39|Recibir alertas de productos agotados|Como consumidor, quiero recibir notificaciones cuando un producto que me gusta esté por agotarse para comprarlo a tiempo.|2|
 |40|US40|Ver ofertas de cafés por tipo de grano|Como consumidor, quiero poder filtrar cafés por tipo de grano (Bourbon, Typica, etc.) para explorar variedades específicas.|3|
+|41|US41|Crear campañas colaborativas entre cafeterías|Como productor, quiero poder lanzar campañas junto a otras marcas para aumentar alcance y compartir clientes.|5|
+|42|US42|Recibir recomendaciones según cafeterías seguidas|Como consumidor, quiero recibir sugerencias de productos según las cafeterías que sigo para descubrir nuevas experiencias.|3|
+|43|US43|Ver evolución de métricas de mi marca|Como productor, quiero ver cómo evolucionan mis métricas de consumo y reseñas para tomar decisiones estratégicas.|5|
+|44|US44|Recibir alertas de interacción con mi marca|Como productor, quiero recibir notificaciones cuando alguien siga mi marca, deje reseña o compre para mantenerme informado.|3|
 
 # Capitulo IV: Product Design
 ## 4.1. Style guidelines
@@ -1375,9 +1383,13 @@ El despliegue de Sprint 0 se realizó en entornos de prueba:
 - Se identificó como oportunidad de mejora la estimación más precisa del esfuerzo de tareas y una documentación más detallada desde el inicio.
   
 # Conclusiones
-# Bibliografía 
-# Anexos
 
+# Anexos
+- [Link del Trello:] (https://trello.com/invite/b/68e01ea8517c5769321963f8/ATTId55612fc25e3b4e7bca3bdd2dc478cfdF0AFCB8B/smilingcups)
+
+- Link de Entrevistas
+
+# Bibliografía 
 
 
 
