@@ -8,9 +8,9 @@ Se identificaron hasta la fecha a 3 principales competidores para la aplicación
 
 | id | nombre | descripcion general del competidor | propuesta de valor / características principales | canales de distribución / comercialización | logo_url |
 |----|--------|-------------------------------------|------------------------------------------------|-------------------------------------------|----------|
-| 1  | Coffee Hunters Perú | Comercializadora de cafés de especialidad dedicada a viajar a fincas de productores cafeteros peruanos para encontrar y comercializar cafés de alta calidad de manera justa | - Trazabilidad completa de los cafés<br>- Presentaciones a pequeña escala<br>- Selección directa de fincas cafeteras | - Venta directa<br>- Comercio electrónico<br>- Tiendas especializadas | ![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/CofeeHuntersLogo.jpg?token=GHSAT0AAAAAADKPSO4TP5YKIH5B63G6P5CQ2GPBTGQ) |
-| 2  | Café Compadre | Marca de café de especialidad peruana con proceso de producción usando energía solar y compromiso con agricultores locales | - Café de especialidad<br>- Sostenibilidad socio-ambiental<br>- Proceso de producción con energía solar | - Venta directa<br>- Canales digitales<br>- Tiendas de productos orgánicos | ![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/CompadreLogo.png?token=GHSAT0AAAAAADKPSO4TFTBJQZGWFHB3APNW2GPBSRQ) |
-| 3  | Tunki Coffee | Cooperativa con amplia experiencia en producción de café especial, orgánico y de calidad | - Alta calidad de café<br>- Variedad de formatos de producto<br>- Café orgánico certificado | - Cooperativa de productores<br>- Comercio electrónico<br>- Distribución especializada | ![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/TunkiLogo.jpg?token=GHSAT0AAAAAADKPSO4TRJNL76KPQCQM647W2GPBUHQ) |
+| 1  | Coffee Hunters Perú | Comercializadora de cafés de especialidad dedicada a viajar a fincas de productores cafeteros peruanos para encontrar y comercializar cafés de alta calidad de manera justa | - Trazabilidad completa de los cafés<br>- Presentaciones a pequeña escala<br>- Selección directa de fincas cafeteras | - Venta directa<br>- Comercio electrónico<br>- Tiendas especializadas | ![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/CofeeHuntersLogo.jpg) |
+| 2  | Café Compadre | Marca de café de especialidad peruana con proceso de producción usando energía solar y compromiso con agricultores locales | - Café de especialidad<br>- Sostenibilidad socio-ambiental<br>- Proceso de producción con energía solar | - Venta directa<br>- Canales digitales<br>- Tiendas de productos orgánicos | ![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/CompadreLogo.png) |
+| 3  | Tunki Coffee | Cooperativa con amplia experiencia en producción de café especial, orgánico y de calidad | - Alta calidad de café<br>- Variedad de formatos de producto<br>- Café orgánico certificado | - Cooperativa de productores<br>- Comercio electrónico<br>- Distribución especializada | ![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/TunkiLogo.jpg) |
 
 
 
@@ -79,12 +79,12 @@ Alejandro, 21 años y residente en La Molina, consume café de forma ocasional y
 
 __Entrevista 2 (Franco Matías Flores)__
 
-+ Nombre: Franco Matías Saiko Flores
++ Nombre: Franco Matías Tasayko Flores
 + Edad: 20
 + Distrito de residencia: San Borja
 
 **Resumen de Entrevista :**
-Franco Matías Saiko Flores, de 20 años, tiene una relación con el café marcada por la tradición familiar: su abuela solía tomarlo habitualmente, lo que dejó una impronta en su experiencia aunque él no sea un gran consumidor. A pesar de su bajo consumo personal, muestra disposición a explorar y probar cafés de pequeños productores, lo que sugiere interés por la autenticidad, la trazabilidad y el valor artesanal del producto. Le resulta atractiva la idea de recibir una Mystery Box de café, lo que revela curiosidad sensorial y una preferencia por experiencias de descubrimiento más que por la lealtad a una marca o perfil de sabor concreto. En conjunto, esto indica que, aunque su consumo actual es limitado, Franco es un consumidor potencialmente receptivo a estrategias de marketing basadas en la exploración, las muestras y las historias sobre origen y productores; la influencia familiar explica la familiaridad y la apertura inicial, mientras que su interés en pequeños productores y formatos sorpresa denota una motivación más experiencial y ética que puramente funcional.
+Franco Matías Tasayko Flores, de 20 años, tiene una relación con el café marcada por la tradición familiar: su abuela solía tomarlo habitualmente, lo que dejó una impronta en su experiencia aunque él no sea un gran consumidor. A pesar de su bajo consumo personal, muestra disposición a explorar y probar cafés de pequeños productores, lo que sugiere interés por la autenticidad, la trazabilidad y el valor artesanal del producto. Le resulta atractiva la idea de recibir una Mystery Box de café, lo que revela curiosidad sensorial y una preferencia por experiencias de descubrimiento más que por la lealtad a una marca o perfil de sabor concreto. En conjunto, esto indica que, aunque su consumo actual es limitado, Franco es un consumidor potencialmente receptivo a estrategias de marketing basadas en la exploración, las muestras y las historias sobre origen y productores; la influencia familiar explica la familiaridad y la apertura inicial, mientras que su interés en pequeños productores y formatos sorpresa denota una motivación más experiencial y ética que puramente funcional.
 
 [![Franco](https://img.youtube.com/vi/XfWcetDSuqM/hqdefault.jpg)](https://www.youtube.com/watch?v=XfWcetDSuqM)
 
@@ -151,12 +151,12 @@ Este segmento está conformado por productores y microemprendedores (34, 23 y 48
 ### 2.3.1. User Personas
 - Segmento 1 : Consumidores
 
-![](https://media.discordapp.net/attachments/1419015781793923187/1419166692264775700/Screenshot_2025-09-20_223646.png?ex=68d0c57a&is=68cf73fa&hm=b23ea2e4145ce8e7968b0a1b09f488f55e33d833090dbd9901738e48139298d9&=&format=webp&quality=lossless)
+![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/1s.png)
 
 
 -Segmento 2: Negocios
 
-![User persona Julio - Segmento 2](https://media.discordapp.net/attachments/1419015781793923187/1419166691752939540/Screenshot_2025-09-20_223712.png?ex=68d0c57a&is=68cf73fa&hm=de8ee542cad70ae627eca92cccc285a90354d69b4ad679d4a51a892bfb8e80a3&=&format=webp&quality=lossless)
+![User persona Julio - Segmento 2](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/2.png)
 
 
 ### 2.3.2. User Task Matrix
@@ -210,11 +210,11 @@ En este segmento, la motivación es la experiencia y la sorpresa, no el hábito 
 ### 2.3.4. Empathy Mapping
 
 Empathy Map - Segmento 1 
-![](https://media.discordapp.net/attachments/1419015781793923187/1419166926810382429/Screenshot_2025-09-20_195438.png?ex=68d0c5b2&is=68cf7432&hm=7f9f2354c1008cf478f7fd0023285d8343739a8b22cfa86cf104d35d6b1be6d1&=&format=webp&quality=lossless&width=928&height=679)
+![](img/Screenshot 2025-09-20 195428.png)
 
 
 Empathy Map - Segmento 2
-![](https://media.discordapp.net/attachments/1419015781793923187/1419166927259045958/Screenshot_2025-09-20_195428.png?ex=68d0c5b2&is=68cf7432&hm=0782532edb83cdc999b4508fa74883cdd830ceb05394e4df146533f378c3d09c&=&format=webp&quality=lossless&width=928&height=619)
+![](img/Screenshot 2025-09-20 195438.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
