@@ -151,12 +151,12 @@ Este segmento está conformado por productores y microemprendedores (34, 23 y 48
 ### 2.3.1. User Personas
 - Segmento 1 : Consumidores
 
-![](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/1s.png)
+![User persona - Segmento 1](img/1s.png)
 
 
 -Segmento 2: Negocios
 
-![User persona Julio - Segmento 2](https://raw.githubusercontent.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1/refs/heads/chapter02/img/2.png)
+![User persona Julio - Segmento 2](img/2.png)
 
 
 ### 2.3.2. User Task Matrix
@@ -210,19 +210,20 @@ En este segmento, la motivación es la experiencia y la sorpresa, no el hábito 
 ### 2.3.4. Empathy Mapping
 
 Empathy Map - Segmento 1 
-![](img/Screenshot 2025-09-20 195428.png)
 
+![](img/empathyMap1.png)
 
 Empathy Map - Segmento 2
-![](img/Screenshot 2025-09-20 195438.png)
+![](img/empathyMap2.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
 As-Is Scneario Map - Segmento 1:
-![](https://media.discordapp.net/attachments/1419015781793923187/1419166698442985472/1.png?ex=68d0c57b&is=68cf73fb&hm=ee9e91c4abeaa33c1f8b3e4100f1372c26930f36c8885488cbed86fb9ac52f2d&=&format=webp&quality=lossless&width=928&height=277)
+
+![](img/1.png)
 
 As-Is Scneario Map - Segmento 2:
-![](https://media.discordapp.net/attachments/1419015781793923187/1419166697830486138/2s.png?ex=68d0c57b&is=68cf73fb&hm=079bcd2f153ea42ee81c61c86702f690eb8b33738751dd6fe58dc6003bd18da6&=&format=webp&quality=lossless&width=928&height=300)
+![](img/2s.png)
 
 ## 2.3. Big Picture Event Storming
 
