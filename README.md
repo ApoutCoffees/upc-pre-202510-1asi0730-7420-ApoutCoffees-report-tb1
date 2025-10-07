@@ -1263,6 +1263,9 @@ A continuación mostraremos las capturas del Design Level Event Storming realiza
 
 ## 4.8. Database Design
 ### 4.8.1.Database Diagrams
+
+![](img/databse-diagram.png)
+
 # Capitulo V Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
