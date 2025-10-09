@@ -23,7 +23,7 @@
 - Juan Carlos Pastor Napa - U202217288
 - Giuliano Angel Pelaez Vargas - U20221E121  
 
-**Fecha:** Agosto, 2025
+**Fecha:** Octubre, 2025
 
 ---
 ## Registro de versiones del informe
