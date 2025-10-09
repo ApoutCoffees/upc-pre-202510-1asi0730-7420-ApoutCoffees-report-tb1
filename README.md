@@ -45,7 +45,7 @@
 
 # Tabla de Contenido
 
-[Student Outcome](student-outcome)
+[Student Outcome](#student-outcome)
 
 1. [Capítulo I: Introducción](#capítulo-i-introducción)
 	- 1.1. [Startup Profile](#11-startup-profile) 
