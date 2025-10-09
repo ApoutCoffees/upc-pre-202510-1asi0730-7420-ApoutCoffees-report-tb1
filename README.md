@@ -45,6 +45,8 @@
 
 # Tabla de Contenido
 
+[Student Outcome](student-outcome)
+
 1. [Capítulo I: Introducción](#capítulo-i-introducción)
 	- 1.1. [Startup Profile](#11-startup-profile) 
 		- 1.1.1. [Descripción de la Startup](#111-descripción-de-la-startup)
@@ -123,13 +125,17 @@
 			- 5.2.1.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
       
 	[Conclusiones](#conclusiones)
+
 	[Bibliografía](#bibliografía)
+
 	[Anexos](#anexos)
+
+# Student Outcome
 
 | Criterio específico | Giuliano Angel Pelaez Vargas | Daniel Jonatan Aquino Solorzano | Juan Carlos Pastor Napa | Johnny Alexander Ojanama Abanto | Carlos Augusto Paredes Chavez | Conclusiones |
 |---------------------|------------------------------|---------------------------------|---------------------------|---------------------------------|-------------------------------|--------------|
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | Participó activamente en la definición de funcionalidades clave, contribuyendo al diseño de la arquitectura RESTful y proponiendo mejoras en la experiencia de usuario. | Apoyó en la estructuración del backlog y en la priorización de tareas, facilitando la coordinación entre frontend y backend. | Propuso ideas para la interfaz adaptable y colaboró en la integración de componentes visuales en la Landing Page. | Contribuyó en la planificación de entregables y en la validación de criterios técnicos, asegurando cumplimiento de objetivos. | Lideró la definición de segmentos, escenarios To-Be, backlog completo y modelo de datos, articulando el enfoque estratégico del proyecto. | El equipo demostró capacidad para trabajar en conjunto, definir metas claras, distribuir tareas y construir una solución coherente y funcional. |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Redactó documentación técnica sobre la arquitectura y flujos de interacción, facilitando la comprensión entre desarrolladores. | Elaboró descripciones funcionales y criterios de aceptación para las User Stories, manteniendo claridad y precisión. | Contribuyó en la redacción de fichas informativas y mensajes de interfaz, adaptados a usuarios finales. | Participó en la elaboración de escenarios y mensajes de error, comunicando con empatía y claridad. | Documentó el proyecto en formato Markdown, estructuró el User Journey Mapping, y tradujo conceptos técnicos a lenguaje accesible. | La comunicación escrita fue efectiva en todos los niveles: técnica, funcional y narrativa. Se logró transmitir el valor del producto a usuarios, desarrolladores y stakeholders. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Participó activamente en la definición de funcionalidades clave, contribuyendo al diseño de la arquitectura RESTful y proponiendo mejoras en la experiencia de usuario. | Apoyó en la estructuración del backlog y en la priorización de tareas, facilitando la coordinación entre frontend y backend. | Propuso ideas para la interfaz adaptable y colaboró en la integración de componentes visuales en la Landing Page. | Contribuyó en la planificación de entregables y en la validación de criterios técnicos, asegurando cumplimiento de objetivos. | Lideró la definición de segmentos, escenarios To-Be, backlog completo y modelo de datos, articulando el enfoque estratégico del proyecto. | El equipo demostró capacidad para trabajar en conjunto, definir metas claras, distribuir tareas y construir una solución coherente y funcional. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | Redactó documentación técnica sobre la arquitectura y flujos de interacción, facilitando la comprensión entre desarrolladores. | Elaboró descripciones funcionales y criterios de aceptación para las User Stories, manteniendo claridad y precisión. | Contribuyó en la redacción de fichas informativas y mensajes de interfaz, adaptados a usuarios finales. | Participó en la elaboración de escenarios y mensajes de error, comunicando con empatía y claridad. | Documentó el proyecto en formato Markdown, estructuró el User Journey Mapping, y tradujo conceptos técnicos a lenguaje accesible. | El entorno colaborativo fue efectivo en todos los niveles: técnico y funcional. Se logró transmitir el objetivo del producto entre todos los miembros del equipo |
 
 ---
 
