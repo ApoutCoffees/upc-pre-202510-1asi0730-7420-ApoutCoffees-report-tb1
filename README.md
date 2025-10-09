@@ -29,7 +29,7 @@
 ## Registro de versiones del informe
 | Versión | Fecha | Autor | Descripción de modificación |
 |---------|-------|-------|-----------------------------|
-| 1.0    | 20.09.2025 | Todo el Equipo | Todo el equipo estuvo trabajando en el desarrollo de la documentación para el Sprint 0. |
+| 1.0    | 20.09.2025 | Todo el Equipo | Todo el equipo estuvo trabajando en el desarrollo de la documentación para el Sprint 1. |
 ---
 
 ## Project Report Collaboration Insights
@@ -1321,10 +1321,10 @@ El despliegue de **SmilingCups** se organiza bajo un esquema de servicios distri
 - **Landing Page:** Incluida en el mismo frontend de Vue.js.
   
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.1. Sprint 0
-####  5.2.1.1. Sprint Planning 0
+### 5.2.1. Sprint 1
+####  5.2.1.1. Sprint Planning 1
 
-| **Sprint #**                  | Sprint 0 |
+| **Sprint #**                  | Sprint 1 |
 |--------------------------------|----------|
 | **Sprint Planning Background** | |
 | **Date**   | 2025-09-3 |
@@ -1335,8 +1335,8 @@ El despliegue de **SmilingCups** se organiza bajo un esquema de servicios distri
 | **Sprint n – 1 Review Summary** | No hubo Sprint anterior. |
 | **Sprint n – 1 Retrospective Summary** | Al ser el primer Sprint, la retrospectiva se enfocó en definir comunicación, repositorio y guías de estilo de código. |
 | **Sprint Goal & User Stories** | |
-| **Sprint 0 Goal**              | Configurar la base técnica del proyecto (entorno de desarrollo en WebStorm, repositorio GitHub, GitFlow, integración inicial de Vue.js + Node.js + MySQL, prototipo básico de Landing Page). |
-| **Sprint 0 Velocity**          | 10 Story Points |
+| **Sprint 1 Goal**              | Configurar la base técnica del proyecto (entorno de desarrollo en WebStorm, repositorio GitHub, GitFlow, integración inicial de Vue.js + Node.js + MySQL, prototipo básico de Landing Page). |
+| **Sprint 1 Velocity**          | 10 Story Points |
 | **Sum of Story Points**        | 10 |
 
 
@@ -1352,30 +1352,30 @@ En este Sprint se identificaron los principales aspectos: **Frontend (Vue.js), B
 | Giuliano Angel Pelaez Vargas | @SimpleGP | C  | C   | L | C | L |
 | Johnny Alexander Ojanama Abanto | @JohnnyGZ41 | L | C  | C  | L | C  |
 
-####  5.2.1.3. Sprint Backlog 0
+####  5.2.1.3. Sprint Backlog 1
 
-El Sprint 0 tuvo como objetivo preparar el entorno de trabajo y asegurar la infraestructura básica.  
+El Sprint 1 tuvo como objetivo preparar el entorno de trabajo y asegurar la infraestructura básica.  
 
 | **Sprint #** | **User Story** | **Work-Item / Task** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
 |--------------|----------------|----------------------|-----------------|-------------------------|-----------------|------------|
-| Sprint 0     | US01 – Registro de Usuario | T-01: Crear tabla users en MySQL | Definir estructura de tabla con campos id, name, email, password. | 4h | Giuliano Pelaez | In process |
-| Sprint 0     | US01 – Registro de Usuario | T-02: Endpoint /api/register | Implementar endpoint en Express para registrar nuevos usuarios. | 5h | Daniel Aquino | In process |
-| Sprint 0     | US01 – Registro de Usuario | T-03: Formulario de registro en Vue.js | Crear vista de registro y validaciones en frontend. | 4h | Juan Pastor | In process |
-| Sprint 0     | US02 – Inicio de Sesión | T-04: Endpoint /api/login | Implementar autenticación con JWT en backend. | 6h | Daniel Aquino | In process |
-| Sprint 0     | US02 – Inicio de Sesión | T-05: Pantalla de Login | Crear formulario de login en Vue.js y conectar al backend. | 4h | Juan Pastor | In process |
-| Sprint 0     | US03 – Explorar Mystery Boxes | T-06: Crear tabla mystery_boxes | Diseñar tabla para almacenar datos de cajas (id, nombre, precio, descripción). | 3h | Giuliano Peláez | In process |
-| Sprint 0     | US03 – Explorar Mystery Boxes | T-07: Endpoint /api/boxes | Implementar endpoint para obtener listado de cajas. | 4h | Daniel Aquino | In process |
-| Sprint 0     | US03 – Explorar Mystery Boxes | T-08: Vista de Exploración | Diseñar página Vue.js que muestre listado de Mystery Boxes. | 5h | Carlos Paredes | In process |
-| Sprint 0     | US04 – Ver ficha informativa del café | T-09: Crear tabla coffee | Definir estructura de cafés relacionados a cada Mystery Box. | 3h | Carlos Paredes | In process |
-| Sprint 0     | US04 – Ver ficha informativa del café | T-10: Endpoint /api/coffee/:id | Implementar endpoint para mostrar perfil de café. | 4h | Daniel Aquino| In process |
-| Sprint 0     | US04 – Ver ficha informativa del café | T-11: Página de ficha de café en Vue.js | Desarrollar vista con historia, notas de cata y productor. | 4h | Johnny Ojanama | In process |
-| Sprint 0     | US05 – Suscripción mensual | T-12: Crear tabla subscriptions | Definir modelo para almacenar suscripciones activas por usuario. | 3h | Carlos Paredes | In process |
-| Sprint 0     | US05 – Suscripción mensual | T-13: Endpoint /api/subscribe | Implementar lógica para activar suscripción mensual. | 5h | Daniel Aquino | In process |
-| Sprint 0     | US05 – Suscripción mensual | T-14: Vista de suscripción en Vue.js | Crear interfaz donde usuario seleccione una caja y confirme pago simulado. | 4h | Johnny Ojanama| In process |
+| Sprint 1     | US01 – Registro de Usuario | T-01: Crear tabla users en MySQL | Definir estructura de tabla con campos id, name, email, password. | 4h | Giuliano Pelaez | In process |
+| Sprint 1     | US01 – Registro de Usuario | T-02: Endpoint /api/register | Implementar endpoint en Express para registrar nuevos usuarios. | 5h | Daniel Aquino | In process |
+| Sprint 1     | US01 – Registro de Usuario | T-03: Formulario de registro en Vue.js | Crear vista de registro y validaciones en frontend. | 4h | Juan Pastor | In process |
+| Sprint 1     | US02 – Inicio de Sesión | T-04: Endpoint /api/login | Implementar autenticación con JWT en backend. | 6h | Daniel Aquino | In process |
+| Sprint 1     | US02 – Inicio de Sesión | T-05: Pantalla de Login | Crear formulario de login en Vue.js y conectar al backend. | 4h | Juan Pastor | In process |
+| Sprint 1     | US03 – Explorar Mystery Boxes | T-06: Crear tabla mystery_boxes | Diseñar tabla para almacenar datos de cajas (id, nombre, precio, descripción). | 3h | Giuliano Peláez | In process |
+| Sprint 1     | US03 – Explorar Mystery Boxes | T-07: Endpoint /api/boxes | Implementar endpoint para obtener listado de cajas. | 4h | Daniel Aquino | In process |
+| Sprint 1     | US03 – Explorar Mystery Boxes | T-08: Vista de Exploración | Diseñar página Vue.js que muestre listado de Mystery Boxes. | 5h | Carlos Paredes | In process |
+| Sprint 1     | US04 – Ver ficha informativa del café | T-09: Crear tabla coffee | Definir estructura de cafés relacionados a cada Mystery Box. | 3h | Carlos Paredes | In process |
+| Sprint 1     | US04 – Ver ficha informativa del café | T-10: Endpoint /api/coffee/:id | Implementar endpoint para mostrar perfil de café. | 4h | Daniel Aquino| In process |
+| Sprint 1     | US04 – Ver ficha informativa del café | T-11: Página de ficha de café en Vue.js | Desarrollar vista con historia, notas de cata y productor. | 4h | Johnny Ojanama | In process |
+| Sprint 1     | US05 – Suscripción mensual | T-12: Crear tabla subscriptions | Definir modelo para almacenar suscripciones activas por usuario. | 3h | Carlos Paredes | In process |
+| Sprint 1     | US05 – Suscripción mensual | T-13: Endpoint /api/subscribe | Implementar lógica para activar suscripción mensual. | 5h | Daniel Aquino | In process |
+| Sprint 1     | US05 – Suscripción mensual | T-14: Vista de suscripción en Vue.js | Crear interfaz donde usuario seleccione una caja y confirme pago simulado. | 4h | Johnny Ojanama| In process |
 
 ####  5.2.1.4. Development Evidence for Sprint Review
 
-Al ser **Sprint 0**, no se implementaron aún funcionalidades completas.  
+Al ser **Sprint 1**, no se implementaron aún funcionalidades completas.  
 Sin embargo, se avanzó en la configuración técnica:  
 
 - Repositorio de GitHub creado y accesible al equipo.  
@@ -1400,7 +1400,7 @@ Se documentó lo siguiente:
 
 ####  5.2.1.7. Software Deployment Evidence for Sprint Review
 
-El despliegue de Sprint 0 se realizó en entornos de prueba:  
+El despliegue de Sprint 1 se realizó en entornos de prueba:  
 - **Frontend (Vue.js):** ejecutado en WebStorm con servidor local 
 - **Backend (Node.js):** levantado en WebStorm (npm start).  
 - **Base de datos:** configurada en MySQL Server o MySQl workbench.
