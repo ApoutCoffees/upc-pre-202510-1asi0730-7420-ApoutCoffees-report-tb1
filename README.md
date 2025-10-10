@@ -326,6 +326,20 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 ## 4.4 Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+Main
+![](img/wireframes-app/MainWireframe.png)
+Login/Register
+![](img/wireframes-app/LoginWireframe.png)
+Subscriptions
+![](img/wireframes-app/SubscriupcionesWireframe.png)
+Compra:
+![](img/wireframes-app/CarritoWireframe.png)
+Catalogo:
+![](img/wireframes-app/CatalogoWireframe.png)
+Profile:
+![](img/wireframes-app/PerfilWireframe.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
