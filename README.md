@@ -1,6 +1,8 @@
-![UPC Logo](img/upc-logo.png)
-# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-# FACULTAD DE INGENIERÍA
+<div style="text-align: center;">
+<img src="img/upc-logo.png" alt="Logo UPC" width="120"/>
+
+#### UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+### FACULTAD DE INGENIERÍA
 ### PROGRAMA ACADÉMICO DE INGENIERÍA DE SOFTWARE
 
 **Ciclo:** 2025-20
@@ -10,7 +12,7 @@
 **Docente del curso:** Alex Humberto Sánchez Ponce
 
 ---
-# INFORME DE TRABAJO(TB1)
+# INFORME DE TRABAJO(TP1)
 
 **Nombre de la Startup:** ApoutCoffees
 
@@ -24,12 +26,14 @@
 - Giuliano Angel Pelaez Vargas - U20221E121  
 
 **Fecha:** Octubre, 2025
+</div>
 
----
 ## Registro de versiones del informe
 | Versión | Fecha | Autor | Descripción de modificación |
 |---------|-------|-------|-----------------------------|
 | 1.0    | 20.09.2025 | Todo el Equipo | Todo el equipo estuvo trabajando en el desarrollo de la documentación para el Sprint 1. |
+| 1.1    | 09.11.2025 | Todo el Equipo | Todo el equipo se encargó del correcto desarrollo de la documentación del Sprint 2 las tareas definidias para el proyecto según la documentación del Sprint 2. |
+
 ---
 
 ## Project Report Collaboration Insights
