@@ -1337,8 +1337,9 @@ El despliegue de **SmilingCups** se organiza bajo un esquema de servicios distri
 - **Landing Page:** Incluida en el mismo frontend de Vue.js.
   
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.1. Sprint 1
-####  5.2.1.1. Sprint Planning 1
+## 5.2.1. Sprint 1
+
+###  5.2.1.1. Sprint Planning 1
 
 | **Sprint #**                  | Sprint 1 |
 |--------------------------------|----------|
@@ -1355,8 +1356,7 @@ El despliegue de **SmilingCups** se organiza bajo un esquema de servicios distri
 | **Sprint 1 Velocity**          | 10 Story Points |
 | **Sum of Story Points**        | 10 |
 
-
-####  5.2.1.2. Aspect Leaders and Collaborators
+###  5.2.1.2. Aspect Leaders and Collaborators
 
 En este Sprint se identificaron los principales aspectos: **Frontend (Vue.js), Backend (Node.js ), Base de Datos (MySQL), Landing Page, QA & Documentación**.  
 
@@ -1368,71 +1368,181 @@ En este Sprint se identificaron los principales aspectos: **Frontend (Vue.js), B
 | Giuliano Angel Pelaez Vargas | @SimpleGP | C  | C   | L | C | L |
 | Johnny Alexander Ojanama Abanto | @JohnnyGZ41 | L | C  | C  | L | C  |
 
-####  5.2.1.3. Sprint Backlog 1
+###  5.2.1.3. Sprint Backlog 1
 
 El Sprint 1 tuvo como objetivo preparar el entorno de trabajo y asegurar la infraestructura básica.  
 
 | **Sprint #** | **User Story** | **Work-Item / Task** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
 |--------------|----------------|----------------------|-----------------|-------------------------|-----------------|------------|
-| Sprint 1     | US01 – Registro de Usuario | T-01: Crear tabla users en MySQL | Definir estructura de tabla con campos id, name, email, password. | 4h | Giuliano Pelaez | In process |
-| Sprint 1     | US01 – Registro de Usuario | T-02: Endpoint /api/register | Implementar endpoint en Express para registrar nuevos usuarios. | 5h | Daniel Aquino | In process |
-| Sprint 1     | US01 – Registro de Usuario | T-03: Formulario de registro en Vue.js | Crear vista de registro y validaciones en frontend. | 4h | Juan Pastor | In process |
-| Sprint 1     | US02 – Inicio de Sesión | T-04: Endpoint /api/login | Implementar autenticación con JWT en backend. | 6h | Daniel Aquino | In process |
-| Sprint 1     | US02 – Inicio de Sesión | T-05: Pantalla de Login | Crear formulario de login en Vue.js y conectar al backend. | 4h | Juan Pastor | In process |
-| Sprint 1     | US03 – Explorar Mystery Boxes | T-06: Crear tabla mystery_boxes | Diseñar tabla para almacenar datos de cajas (id, nombre, precio, descripción). | 3h | Giuliano Peláez | In process |
-| Sprint 1     | US03 – Explorar Mystery Boxes | T-07: Endpoint /api/boxes | Implementar endpoint para obtener listado de cajas. | 4h | Daniel Aquino | In process |
-| Sprint 1     | US03 – Explorar Mystery Boxes | T-08: Vista de Exploración | Diseñar página Vue.js que muestre listado de Mystery Boxes. | 5h | Carlos Paredes | In process |
-| Sprint 1     | US04 – Ver ficha informativa del café | T-09: Crear tabla coffee | Definir estructura de cafés relacionados a cada Mystery Box. | 3h | Carlos Paredes | In process |
-| Sprint 1     | US04 – Ver ficha informativa del café | T-10: Endpoint /api/coffee/:id | Implementar endpoint para mostrar perfil de café. | 4h | Daniel Aquino| In process |
-| Sprint 1     | US04 – Ver ficha informativa del café | T-11: Página de ficha de café en Vue.js | Desarrollar vista con historia, notas de cata y productor. | 4h | Johnny Ojanama | In process |
-| Sprint 1     | US05 – Suscripción mensual | T-12: Crear tabla subscriptions | Definir modelo para almacenar suscripciones activas por usuario. | 3h | Carlos Paredes | In process |
-| Sprint 1     | US05 – Suscripción mensual | T-13: Endpoint /api/subscribe | Implementar lógica para activar suscripción mensual. | 5h | Daniel Aquino | In process |
-| Sprint 1     | US05 – Suscripción mensual | T-14: Vista de suscripción en Vue.js | Crear interfaz donde usuario seleccione una caja y confirme pago simulado. | 4h | Johnny Ojanama| In process |
+| Sprint 1     | US01 – Registro de Usuario | T-01: Crear tabla users en MySQL | Definir estructura de tabla con campos id, name, email, password. | 4h | Giuliano Pelaez | Done |
+| Sprint 1     | US01 – Registro de Usuario | T-02: Endpoint /api/register | Implementar endpoint en Express para registrar nuevos usuarios. | 5h | Daniel Aquino | Done |
+| Sprint 1     | US01 – Registro de Usuario | T-03: Formulario de registro en Vue.js | Crear vista de registro y validaciones en frontend. | 4h | Juan Pastor | Done |
+| Sprint 1     | US02 – Inicio de Sesión | T-04: Endpoint /api/login | Implementar autenticación con JWT en backend. | 6h | Daniel Aquino | Done |
+| Sprint 1     | US02 – Inicio de Sesión | T-05: Pantalla de Login | Crear formulario de login en Vue.js y conectar al backend. | 4h | Juan Pastor | Done |
+| Sprint 1     | US03 – Explorar Mystery Boxes | T-06: Crear tabla mystery_boxes | Diseñar tabla para almacenar datos de cajas (id, nombre, precio, descripción). | 3h | Giuliano Peláez | Done |
+| Sprint 1     | US03 – Explorar Mystery Boxes | T-07: Endpoint /api/boxes | Implementar endpoint para obtener listado de cajas. | 4h | Daniel Aquino | Done |
+| Sprint 1     | US03 – Explorar Mystery Boxes | T-08: Vista de Exploración | Diseñar página Vue.js que muestre listado de Mystery Boxes. | 5h | Carlos Paredes | Done |
+| Sprint 1     | US04 – Ver ficha informativa del café | T-09: Crear tabla coffee | Definir estructura de cafés relacionados a cada Mystery Box. | 3h | Carlos Paredes | Done |
+| Sprint 1     | US04 – Ver ficha informativa del café | T-10: Endpoint /api/coffee/:id | Implementar endpoint para mostrar perfil de café. | 4h | Daniel Aquino| Done |
+| Sprint 1     | US04 – Ver ficha informativa del café | T-11: Página de ficha de café en Vue.js | Desarrollar vista con historia, notas de cata y productor. | 4h | Johnny Ojanama | Done |
+| Sprint 1     | US05 – Suscripción mensual | T-12: Crear tabla subscriptions | Definir modelo para almacenar suscripciones activas por usuario. | 3h | Carlos Paredes | Done |
+| Sprint 1     | US05 – Suscripción mensual | T-13: Endpoint /api/subscribe | Implementar lógica para activar suscripción mensual. | 5h | Daniel Aquino | Done |
+| Sprint 1     | US05 – Suscripción mensual | T-14: Vista de suscripción en Vue.js | Crear interfaz donde usuario seleccione una caja y confirme pago simulado. | 4h | Johnny Ojanama| Done |
 
-####  5.2.1.4. Development Evidence for Sprint Review
 
-Al ser **Sprint 1**, no se implementaron aún funcionalidades completas.  
-Sin embargo, se avanzó en la configuración técnica:  
-
-- Repositorio de GitHub creado y accesible al equipo.  
-- Ramas configuradas bajo GitFlow.  
-- WebStorm preparado con entornos para Vue.js y Node.js.  
-- Creación de la base de datos MySQL con tabla users.  
-- Primer prototipo de la Landing Page en HTML/CSS.
-  
-####  5.2.1.5. Execution Evidence for Sprint Review
+### 5.2.1.5. Execution Evidence for Sprint Review
 
 La ejecución incluyó:  
 - Reunión de arranque para definir flujo de trabajo.  
-- Configuración de repositorio con **commits iniciales**.  
-- Sincronización del equipo a través de reuniones virtuales y Discord.  
+- Configuración de repositorio con **commits iniciales**. 
+- Creación de ramas por funcionalidad siguiendo el esquema GitFlow.  
+- Implementación de endpoints básicos en Express.js para registro, login y consulta de Mystery Boxes.  
+- Desarrollo de vistas iniciales en Vue.js para registro, login y exploración de cajas.  
+- Pruebas locales de conexión entre frontend y backend usando Axios.  
+- Revisión cruzada de código entre miembros para asegurar consistencia en estilo y estructura.  
+- Registro de avances en tablero de tareas compartido (Trello o equivalente).  
+- Implementación de lógica de suscripción simulada con persistencia en base de datos.  
+- Diseño de la ficha informativa del café con datos simulados y estructura adaptable.  
+- Pruebas de endpoints con Postman para verificar respuestas y seguridad básica.  
 
-####  5.2.1.6. Services Documentation Evidence for Sprint Review
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Se documentó lo siguiente:  
 - Guía de uso del repositorio (README inicial en GitHub).  
-- Modelo entidad-relación inicial para la base de datos. 
-
-
-####  5.2.1.7. Software Deployment Evidence for Sprint Review
+- Modelo entidad-relación inicial para la base de datos.  
+- Convenciones de nombres para endpoints RESTful.  
+- Documentación de dependencias utilizadas en `package.json`.  
+- Documentación de roles asignados por aspecto técnico en archivo compartido del equipo.  
+- Especificación de validaciones en formularios de registro y login.  
+- Descripción funcional de cada endpoint implementado en Sprint 1.  
+  
+###  5.2.1.7. Software Deployment Evidence for Sprint Review
 
 El despliegue de Sprint 1 se realizó en entornos de prueba:  
 - **Frontend (Vue.js):** ejecutado en WebStorm con servidor local 
 - **Backend (Node.js):** levantado en WebStorm (npm start).  
 - **Base de datos:** configurada en MySQL Server o MySQl workbench.
-  
-####  5.2.1.8. Team Collaboration Insights during Sprint
+
+###  5.2.1.8. Team Collaboration Insights during Sprint
 
 - Se estableció Discord como canal de comunicación principal y Google Meet para reuniones semanales.  
 - Se adoptaron convenciones de commits en inglés siguiendo el estándar feat:, fix:.  
 - Se clarificaron los roles principales de liderazgo y colaboración para cada aspecto (Frontend, Backend, Base de Datos, Landing Page, QA & Documentación).
 - Se observó una fortaleza en la rápida alineación del equipo respecto a las herramientas y lineamientos técnicos.
 - Se identificó como oportunidad de mejora la estimación más precisa del esfuerzo de tareas y una documentación más detallada desde el inicio.
+
+
+
+
+## 5.2.2. Sprint 2
+
+### 5.2.2.1. Sprint Planning 2
+
+| **Sprint #**                  | Sprint 2 |
+|------------------------------|----------|
+| **Sprint Planning Background** | |
+| **Date**   | 2025-10-10 |
+| **Time**   | 9:00 PM |
+| **Location**  | Meet via Discord |
+| **Prepared By**  | Carlos Augusto Paredes Chavez |
+| **Attendees (to planning meeting)** | Giuliano Angel Pelaez Vargas / Daniel Jonatan Aquino Solorzano / Johnny Alexander Ojanama Abanto / Juan Carlos Pastor Napa / Carlos Augusto Paredes Chavez  |
+| **Sprint n – 1 Review Summary** | Se completó la configuración técnica inicial del proyecto, incluyendo entorno de desarrollo, repositorio, integración Vue.js + Node.js + MySQL, y vistas básicas para registro, login, exploración de cajas y ficha de café. |
+| **Sprint n – 1 Retrospective Summary** | El equipo logró una rápida alineación técnica y organizativa. Se establecieron canales de comunicación, convenciones de commits y roles por aspecto. Se identificó como mejora la estimación más precisa de tareas y una documentación más detallada desde el inicio. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 2 Goal**              | Implementar funcionalidades de suscripción activa, gestión de favoritos, y visualización de historial de productos recibidos, fortaleciendo la experiencia del usuario registrado. |
+| **Sprint 2 Velocity**          | [por definir] |
+| **Sum of Story Points**        | [por definir] |
+
+
+
+### 5.2.2.2. Aspect Leaders and Collaborators
+
+En este Sprint se priorizaron los aspectos: **Suscripciones activas, Gestión de Favoritos, Historial de productos recibidos, QA & Documentación, Integración de vistas con backend**.
+
+| **Team Member**         | **GitHub Username** | **Suscripciones** | **Favoritos** | **Historial** | **Integración Frontend–Backend** | **QA & Documentación** |
+|--------------------------|----------------------|-------------------|----------------|----------------|-------------------------------|-------------------------|
+| Carlos Augusto Paredes Chavez  | @CarlossUPC | L | C | L | C | L |
+| Juan Carlos Pastor Napa | @ElKiwi1271  | C | L | C | L | C |
+| Daniel Jonatan Aquino Solorzano| @DanielAquinoSolorzano | L | C | C | L | C |
+| Giuliano Angel Pelaez Vargas | @SimpleGP | C | C | L | C | L |
+| Johnny Alexander Ojanama Abanto | @JohnnyGZ41 | C | L | C | C | C |
+
+
+
+### 5.2.2.3. Sprint Backlog 2
+
+El Sprint 2 se enfoca en mejorar la experiencia del usuario registrado, implementando funcionalidades clave como suscripciones activas, favoritos y visualización de historial.
+
+| **Sprint #** | **User Story** | **Work-Item / Task** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|--------------|----------------|----------------------|-----------------|-------------------------|-----------------|------------|
+| Sprint 2     | US05 – Suscripción mensual | T-15: Validar suscripción activa | Implementar lógica para verificar si el usuario ya tiene una suscripción activa. | 4h | Daniel Aquino | Done |
+| Sprint 2     | US05 – Suscripción mensual | T-16: Mostrar estado de suscripción en perfil | Agregar componente en Vue.js que muestre si el usuario está suscrito. | 3h | Johnny Ojanama | Done |
+| Sprint 2     | US19 – Marcar o desmarcar cafés favoritos | T-17: Crear tabla favorites en MySQL | Definir estructura para almacenar favoritos por usuario. | 3h | Giuliano Pelaez | Done |
+| Sprint 2     | US19 – Marcar o desmarcar cafés favoritos | T-18: Endpoint /api/favorites | Crear endpoint para agregar o quitar favoritos. | 4h | Daniel Aquino | Done |
+| Sprint 2     | US19 – Marcar o desmarcar cafés favoritos | T-19: Componente de estrella en frontend | Implementar botón de favorito en ficha de café. | 3h | Juan Pastor | Done |
+| Sprint 2     | US20 – Ver historial de productos recibidos | T-20: Crear tabla orders en MySQL | Diseñar tabla que registre pedidos realizados por usuario. | 3h | Giuliano Pelaez | Done |
+| Sprint 2     | US20 – Ver historial de productos recibidos | T-21: Endpoint /api/history | Implementar endpoint para consultar historial de pedidos. | 4h | Daniel Aquino | Done |
+| Sprint 2     | US20 – Ver historial de productos recibidos | T-22: Vista de historial en frontend | Crear página que muestre productos recibidos por el usuario. | 4h | Carlos Paredes | Done |
+
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+La ejecución del Sprint 2 incluyó:
+
+- Reunión de planificación para definir el alcance funcional del Sprint y asignar tareas por especialidad.
+- Desarrollo del componente visual en Vue.js que muestra el estado de suscripción activa en el perfil del usuario.
+- Implementación de lógica condicional en frontend para mostrar mensajes según suscripción activa o inactiva.
+- Diseño e integración del botón de favorito (estrella) en la ficha de café, con cambios reactivos en la interfaz.
+- Creación de estructura visual para la vista de historial de productos recibidos, con simulación de datos.
+- Validación de interacciones en componentes usando Vue DevTools.
+- Pruebas de navegación entre vistas (perfil, ficha de café, historial) para asegurar consistencia visual.
+- Revisión cruzada de código entre miembros para asegurar coherencia en estilo, estructura y uso de props.
+- Actualización del tablero de tareas con el estado de cada ítem y comentarios de avance.
+
+
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Se documentó lo siguiente:
+
+- Estructura de componentes Vue.js para suscripción activa, favoritos y historial de productos.
+- Convenciones de nombres para archivos `.vue`, props y eventos personalizados.
+- Manual de simulación de datos en frontend para pruebas sin conexión a backend.
+- Documentación de rutas internas en Vue Router para navegación entre perfil, ficha de café y historial.
+- Guía de uso de Vue DevTools para inspección de estados reactivos y debugging de props.
+- Descripción funcional de cada componente creado, incluyendo props esperadas, eventos emitidos y estructura interna.
+- Registro de convenciones de commits aplicadas en frontend (`feat:`, `fix:`, `style:`) en archivo compartido del equipo.
+- Actualización del README del repositorio con instrucciones para levantar el entorno local de frontend.
+
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+El despliegue del Sprint 2 se realizó en entornos locales de desarrollo frontend:
+
+- **Frontend (Vue.js):** ejecutado en WebStorm con servidor local (`npm run serve`).
+- Se configuraron rutas internas en Vue Router para navegación entre perfil, ficha de café y historial.
+- Se simularon respuestas de backend mediante objetos locales y archivos JSON para pruebas visuales.
+- Se realizaron pruebas de renderizado y comportamiento de componentes usando Vue DevTools.
+- Se validó la reactividad de props y eventos en componentes como favoritos, historial y estado de suscripción.
+- Se documentaron capturas de pantalla de vistas funcionales para revisión interna.
+- Se mantuvo consistencia visual en estilos, íconos y estructura de interfaz según guía definida en Sprint 1.
+- Se probó la navegación entre vistas y la persistencia visual de datos simulados.
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+- Se mantuvo Discord como canal principal de comunicación, con reuniones de seguimiento cada 3 días.
+- Se utilizaron etiquetas en el tablero de tareas para identificar avances por componente (suscripción, favoritos, historial).
+- Se compartieron fragmentos de código y capturas en canales técnicos para revisión cruzada.
+- Se reforzó el uso de convenciones de commits en inglés (`feat:`, `fix:`, `style:`) para mantener trazabilidad.
+- Se promovió la revisión entre pares antes de integrar vistas al repositorio principal.
+- Se identificó como fortaleza la autonomía técnica de cada miembro en su aspecto asignado.
+- Se propuso como mejora futura la integración de pruebas unitarias para componentes clave.
+
   
 # Conclusiones
 
 # Anexos
-- [Link del Trello:] (https://trello.com/invite/b/68e01ea8517c5769321963f8/ATTId55612fc25e3b4e7bca3bdd2dc478cfdF0AFCB8B/smilingcups)
+- [Link del Trello:](https://trello.com/invite/b/68e01ea8517c5769321963f8/ATTId55612fc25e3b4e7bca3bdd2dc478cfdF0AFCB8B/smilingcups)
 - [Script de creación de la base de datos](db-creation-script.md)
 
 - Link de Entrevistas
