@@ -1567,6 +1567,7 @@ El despliegue del Sprint 2 se realizó en entornos locales de desarrollo fronten
 # Anexos
 - [Link del Trello:](https://trello.com/invite/b/68e01ea8517c5769321963f8/ATTId55612fc25e3b4e7bca3bdd2dc478cfdF0AFCB8B/smilingcups)
 - [Script de creación de la base de datos](db-creation-script.md)
+- [Link del figma:](https://www.figma.com/board/NQ7PGtGlHrFM7XKNLfXZYH/AppoutCoffees?node-id=0-1&p=f&t=A2DwUhuFUJlXxUaE-0)
 
 - Link de Entrevistas
 
