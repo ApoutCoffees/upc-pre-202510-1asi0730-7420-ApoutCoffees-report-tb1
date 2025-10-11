@@ -1652,12 +1652,22 @@ El despliegue del Sprint 2 se realizó en entornos locales de desarrollo fronten
 
   
 # Conclusiones
-
+Como grupo al realizard  entrevistas con usuarios, creamos personas y customer journeys, definimos arquitectura de información, diseñamos wireframes y mockups, y acordamos el stack técnico y el alcance del Sprint 1 —entregando prototipos y las rutas principales—; estos avances nos permitieron validar hipótesis clave sobre demanda, necesidades de información y requisitos logísticos. Nos fue bien en investigación y diseño, pero quedan retos operativos por resolver: implementar las screen forntend, ajustar la logística/fulfillment y lanzar seccion productores. Se implemento bounded context y ddd, junto a buenas practicas de diseño. La colaboracion fue intensa pero logramos concluir exitosamente los puntos
 # Anexos
 - [Link del Trello:](https://trello.com/invite/b/68e01ea8517c5769321963f8/ATTId55612fc25e3b4e7bca3bdd2dc478cfdF0AFCB8B/smilingcups)
 - [Script de creación de la base de datos](db-creation-script.md)
 - [Link del figma:](https://www.figma.com/board/NQ7PGtGlHrFM7XKNLfXZYH/AppoutCoffees?node-id=0-1&p=f&t=A2DwUhuFUJlXxUaE-0)
 - display: https://tp1upc-apoutcoffe.web.app/home
+  
+[Repositorio de documentacion](https://github.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1) <br>
+Tabla inside de colaboradores <br> <img src="img/CommitsDocumentacion.PNG" alt="Commits Documentacion" width="1000"/>
+
+[Repositorio del Landing Page](https://github.com/ApoutCoffees/SmilingCups-Landing-Page) <br>
+Tabla inside de colaboradores <br> <img src="img/CommitsLandingPage.PNG" alt="Commits Landing" width="1000"/>
+
+[Repositorio del Fronted](https://github.com/ApoutCoffees/SmilingCups-Fronted)
+
+[Repositorio del Backend](https://github.com/ApoutCoffees/SmilingCups-Backend)
 
 # Bibliografía 
 https://docs.github.com/es
