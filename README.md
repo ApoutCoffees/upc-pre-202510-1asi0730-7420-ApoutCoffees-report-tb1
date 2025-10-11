@@ -1238,6 +1238,15 @@ Segmento objetivo involucrado: ConsumidoresPasos:
 
 
 ## 4.5 Web Applications Prototyping
+
+
+A continuación se presenta el protyping de las vistas principales de la aplicación web, donde el acceso a estas proviene de la vista general About. Desde esta pantalla se accederán a secciones como Catalog, Goals, Contact, Login y Sign up. 
+A su vez se modelaron todos los flujos posibles de estas rutas principales de la aplicación.
+ 
+ ![prototype-1](img/prototype.png)
+
+
+
 ## 4.6 Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 
