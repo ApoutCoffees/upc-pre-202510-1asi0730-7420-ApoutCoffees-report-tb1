@@ -1201,7 +1201,35 @@ Segmento objetivo involucrado: ConsumidoresPasos:
 
 ### 4.4.3. Web Applications Mock-ups
 
+![img](img/mockups-application/Mockup-ApplicationAddress.png)
 
+![img](img/mockups-application/Mockup-ApplicationCatalog.png)
+
+![img](img/mockups-application/Mockup-ApplicationCustomerCreate.png)
+
+![img](img/mockups-application/Mockup-ApplicationCustomerLogin.png)
+
+![img](img/mockups-application/Mockup-ApplicationHomeBottom.png)
+
+![img](img/mockups-application/Mockup-ApplicationHomeMid.png)
+
+![img](img/mockups-application/Mockup-ApplicationHomeTop.png)
+
+![img](img/mockups-application/Mockup-ApplicationOrderComplete.png)
+
+![img](img/mockups-application/Mockup-ApplicationOrderError.png)
+
+![img](img/mockups-application/Mockup-ApplicationProducerCreate.png)
+
+![img](img/mockups-application/Mockup-ApplicationProducerLogin.png)
+
+![img](img/mockups-application/Mockup-ApplicationProfile.png)
+
+![img](img/mockups-application/Mockup-ApplicationShoppingCart.png)
+
+![img](img/mockups-application/Mockup-ApplicationSubscription.png)
+
+![img](img/mockups-application/Mockup-ApplicationWelcome.png)
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
