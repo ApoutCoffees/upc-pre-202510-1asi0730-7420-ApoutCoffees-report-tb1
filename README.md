@@ -1200,7 +1200,43 @@ Segmento objetivo involucrado: ConsumidoresPasos:
 
 
 ### 4.4.3. Web Applications Mock-ups
+
+
+
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
+
+
+User Goal 1 - Acceder al catálogo de SmilingCups
+Segmento objetivo involucrado: Consumidores
+![user goal 1](img/userflow/user-goal-1.png)
+
+**Pasos:**
+- Paso 0: El usuario se situa en  la vista principal de la aplicación
+- Paso 1: El usuario selecciona la opción de SignUp para acceder a la vista de selección de tipo de usuario.
+- Paso 2: El usuario selecciona la opción de registrarse como "Amante del café" y es redirigido a la vista del formulario del registro de su cuenta.
+- Paso 2.1: El usuario rellena los campos del formulario teniendo en cuenta que sus credenciales deben ser validas.
+- Paso 2.2: El usuario selecciona el checkbox de aceptar los terminos y condiciones.
+- Paso 3: El usuario selecciona la opción "Crear cuenta" para ser redirigido a la vista del catálogo. 
+
+
+User goal 2: Comprar una suscripción de producto
+Segmento objetivo involucrado: ConsumidoresPasos:
+
+![user goal 2](img/userflow/user-goal-2.png)
+
+**Pasos:**
+- Paso 0: El usuario se situa en  la vista del catálogo de la aplicación
+- Paso 1: El usuario selecciona la opción "Suscribirme" del primer producto del catálogo y es llevado a la vista del carrito.
+- Paso 2: En esta vista el usuario  ve los productos que tiene en su carrito selecciona "Continuar a dirección" y accede a la vista de la dirección de envío.
+- Paso 2.1: El usuario llena los campos de la dirección de envío con credenciales.
+- Paso 3:  El usuario pasa a seleccionar "Continuar a pago" para ser dirigido a la vista de la información de pago.
+- Paso 3.1: El usuario llena los campos con la información de su tarjeta, cuidando que sean credenciales válidas.
+- Paso 4: El usuario selecciona el botón "Continuar a pago" y pasa a la vista de confirmación de pedido.
+
+
+
 ## 4.5 Web Applications Prototyping
 ## 4.6 Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
