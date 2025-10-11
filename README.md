@@ -37,14 +37,19 @@
 ---
 
 ## Project Report Collaboration Insights
-[Repositorio de documentación](https://github.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1.git)
+<div style="text-align: start;">
+	
+[Repositorio de documentacion](https://github.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1) <br>
+Tabla inside de colaboradores <br> <img src="img/CommitsDocumentacion.PNG" alt="Commits Documentacion" width="1000"/>
 
-[Repositorio del Landing Page](https://github.com/ApoutCoffees/SmilingCups-Landing-Page)
+[Repositorio del Landing Page](https://github.com/ApoutCoffees/SmilingCups-Landing-Page) <br>
+Tabla inside de colaboradores <br> <img src="img/CommitsLandingPage.PNG" alt="Commits Landing" width="1000"/>
 
 [Repositorio del Fronted](https://github.com/ApoutCoffees/SmilingCups-Fronted)
 
 [Repositorio del Backend](https://github.com/ApoutCoffees/SmilingCups-Backend)
 
+<div/>
 ---
 
 # Tabla de Contenido
