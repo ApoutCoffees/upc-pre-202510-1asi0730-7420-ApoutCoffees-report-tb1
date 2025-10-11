@@ -1164,6 +1164,34 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 
 ## 4.4 Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+Home
+![1](img/wireframes-application/Wireframe-ApplicationHomeTop.png)
+![2](img/wireframes-application/Wireframe-ApplicationHomeMid.png)
+![3](img/wireframes-application/Wireframe-ApplicationHomeBottom.png)
+
+Login register:
+![](img/wireframes-application/Wireframe-ApplicationWelcome.png)
+![](img/wireframes-application/Wireframe-ApplicationProducerRegister.png)
+![](img/wireframes-application/Wireframe-ApplicationProducerLogIn.png)
+![](img/wireframes-application/Wireframe-ApplicationCustomerRegister.png)
+![](img/wireframes-application/Wireframe-ApplicationCustomerLogin.png)
+
+Profle
+![profile](img/wireframes-application/Wireframe-ApplicationProfile.png)
+
+Catalogue
+
+![Catalogue](img/wireframes-application/Wireframe-ApplicationCatalog.png)
+
+Subscriptions
+![Subscriptions](img/wireframes-application/Wireframe-ApplicationSuscriptions.png)
+
+Payment
+![Checkout](img/wireframes-application/Wireframe-ApplicationCheckout.png)  
+![Dirección](img/wireframes-application/Wireframe-ApplicationAddress.png)  
+![Información de Tarjeta](img/wireframes-application/Wireframe-ApplicationCardInfo.png)  
+![Confirmación de Pedido](img/wireframes-application/Wireframe-ApplicationOrderConfirmation.png)
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 
