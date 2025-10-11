@@ -1162,6 +1162,37 @@ El sistema de búsqueda de SmilingCups busca facilitar el acceso rápido a café
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 
+User Goal 1 - Acceder al catálogo de SmilingCups
+Segmento objetivo involucrado: Consumidores
+![user goal 1](img/wireflow/user-goal-1.png)
+
+**Pasos:**
+- Paso 0: El usuario se situa en  la vista principal de la aplicación
+- Paso 1: El usuario selecciona la opción de SignUp para acceder a la vista de selección de tipo de usuario.
+- Paso 2: El usuario selecciona la opción de registrarse como "Amante del café" y es redirigido a la vista del formulario del registro de su cuenta.
+- Paso 3: El usuario selecciona el botón de "Crear cuenta" y es redirigido finalmente a la vista del catálogo.
+
+**Eventos adicionales:**
+- El usuario selecciona la opción "Log in" para ser redirigido la vista de inicio de sesión
+- El usuario, en la vista del login, selecciona "Iniciar sesión" para acceder a la vista del catálogo 
+
+
+User goal 2: Comprar una suscripción de producto
+Segmento objetivo involucrado: ConsumidoresPasos:
+
+![user goal 2](img/wireflow/user-goal-2.png)
+
+**Pasos:**
+- Paso 0: El usuario se situa en  la vista del catálogo de la aplicación
+- Paso 1: El usuario selecciona la opción "Suscribirme" de uno de los productos del catálogo y es llevado a la vista del carrito.
+- Paso 2: En esta vista el usuario selecciona "Continuar a dirección" y accede a la vista de la dirección de envío.
+- Paso 3:  Ya en la vista de la dirección de envío el usuario completa sus datos y pasa a seleccionar "Continuar a pago" para ser dirigido a la vista de la información de pago.
+- Paso 4: El usuario selecciona el botón "Continuar a pago" y pasa a la vista de confirmación de pedido.
+
+**Eventos adicionales:**
+- El usuario puede acceder a la vista del carrito de compra desde otros productos en el catálogo.
+- El usuario puede regresar a un vista anterior en todas aquellas secciones referentes al pago del producto.
+
 
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
