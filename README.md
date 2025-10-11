@@ -1473,8 +1473,8 @@ El despliegue de Sprint 1 se realizó en entornos de prueba:
 | **Sprint n – 1 Retrospective Summary** | El equipo logró una rápida alineación técnica y organizativa. Se establecieron canales de comunicación, convenciones de commits y roles por aspecto. Se identificó como mejora la estimación más precisa de tareas y una documentación más detallada desde el inicio. |
 | **Sprint Goal & User Stories** | |
 | **Sprint 2 Goal**              | Implementar funcionalidades de suscripción activa, gestión de favoritos, y visualización de historial de productos recibidos, fortaleciendo la experiencia del usuario registrado. |
-| **Sprint 2 Velocity**          | [por definir] |
-| **Sum of Story Points**        | [por definir] |
+| **Sprint 2 Velocity**          | 15 |
+| **Sum of Story Points**        | 11 |
 
 
 
