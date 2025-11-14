@@ -1764,6 +1764,13 @@ En este Sprint se priorizaron los aspectos: **Front-End DDD Migration, Back-end 
 - Frontend Deployment: URL activa del frontend en Vercel mostrando las nuevas screens y la migración a DDD/CQRS.
 - Versión de API: Registro en GitHub/GitLab de la etiqueta de la versión de la API correspondiente al final del Sprint 3.
 
+### 5.2.3.8. Team Collaboration Insights during Sprint
+- Fortalezas: El equipo demostró una sólida comprensión y adaptación a la nueva arquitectura DDD/CQRS, logrando una refactorización de gran alcance en poco tiempo.
+- Oportunidades de Mejora: Se identificó la necesidad de estandarizar las políticas de error handling en los nuevos endpoints CRUD para devolver respuestas consistentes y localizadas.
+- Métricas: El uso de commits específicos por contexto (feat(iam):, feat(product):) permitió una trazabilidad clara del progreso de cada equipo funcional.
+- Colaboración: Se estableció una reunión diaria de 15 minutos (Daily Scrum) para alinear el trabajo entre el equipo de frontend y backend debido a la gran dependencia de la API.
+
+
   
 # Conclusiones
 Como grupo al realizard  entrevistas con usuarios, creamos personas y customer journeys, definimos arquitectura de información, diseñamos wireframes y mockups, y acordamos el stack técnico y el alcance del Sprint 1 —entregando prototipos y las rutas principales—; estos avances nos permitieron validar hipótesis clave sobre demanda, necesidades de información y requisitos logísticos. Nos fue bien en investigación y diseño, pero quedan retos operativos por resolver: implementar las screen forntend, ajustar la logística/fulfillment y lanzar seccion productores. Se implemento bounded context y ddd, junto a buenas practicas de diseño. La colaboracion fue intensa pero logramos concluir exitosamente los puntos
