@@ -1770,10 +1770,133 @@ En este Sprint se priorizaron los aspectos: **Front-End DDD Migration, Back-end 
 - Métricas: El uso de commits específicos por contexto (feat(iam):, feat(product):) permitió una trazabilidad clara del progreso de cada equipo funcional.
 - Colaboración: Se estableció una reunión diaria de 15 minutos (Daily Scrum) para alinear el trabajo entre el equipo de frontend y backend debido a la gran dependencia de la API.
 
+# 5.3 Validation Interviews
+
+## 5.3.1 Diseño de Entrevistas
+
+### Segmento 1: Consumidores de café
+- ¿Qué fue lo primero que te llamó la atención cuando entraste a la landing page?  
+- ¿La propuesta de “mystery box de cafés” te resulta clara y atractiva? ¿Por qué?  
+- ¿Qué tan probable sería que te registres para recibir una mystery box después de ver la landing page?  
+- ¿Cuán sencilla te pareció la navegación para seleccionar o descubrir una mystery box?  
+- ¿Qué tan probable sería que compres una mystery box de café? ¿Qué te haría decidirte?  
+- ¿Qué tan útil encuentras las descripciones, notas y detalles de los cafés dentro de la plataforma?  
+
+
+### Segmento 2: Empresas cafeteras
+- ¿Qué tan atractiva te parece la idea de que tus cafés aparezcan en “mystery boxes”?  
+- ¿Qué dudas o barreras te surgieron después de ver la página?  
+- ¿Qué información necesitarías para considerar registrarte como proveedor en el marketplace?  
+- ¿Qué tan probable sería que subas tus productos a la plataforma?  
+- ¿Qué tan útil te resultan las métricas de consumo y preferencias que la plataforma promete entregar?  
+- ¿Consideras que el modelo de mystery box es beneficioso para tu negocio?  
+
+---
+
+## 5.3.2 Registro de Entrevistas
+
+- **Segmento 1: Consumidores:** [Video](https://www.youtube.com/watch?v=DQSg31vmxsY)  
+  [![Miniatura consumidores](https://img.youtube.com/vi/DQSg31vmxsY/0.jpg)](https://www.youtube.com/watch?v=DQSg31vmxsY)
+
+- **Segmento 2: Empresas cafeteras:** [Video](https://www.youtube.com/watch?v=DCQxbXIhFKg)  
+  [![Miniatura empresas cafeteras](https://img.youtube.com/vi/DCQxbXIhFKg/0.jpg)](https://www.youtube.com/watch?v=DCQxbXIhFKg)
+
+---
+
+
+## 5.3.3 Evaluaciones según heurísticas
+
+Evaluación rápida basada en las 10 heurísticas de Nielsen sobre la versión actual (landing, catálogo de mystery boxes y favoritos).  
+**Resultado general:**  
+- Se cumplen Consistencia y Estándares  
+- Reconocer en lugar de recordar y Estética/Minimalismo avanzan bien  
+- El resto presenta oportunidades puntuales para el próximo sprint
+
+---
+
+### 1. Visibilidad del estado del sistema — Parcial
+- Evidencias: la vista de catálogo muestra datos provenientes de `/product/mysteryboxes`; al marcar “Favorito” se observa respuesta del backend.  
+- Pendiente: unificar patrones de feedback (loading, éxito, error) en botones/listas y estados vacíos.
+
+### 2. Correspondencia con el mundo real — Cumple
+- Se usa terminología del dominio que los usuarios entienden: café, mystery box, favoritos, productores.  
+- Iconografía con significado estándar.
+
+### 3. Control y libertad del usuario — Parcial
+- Pendiente: “deshacer” en acciones frecuentes (p. ej., quitar de favoritos).  
+- Confirmaciones antes de acciones destructivas y navegación atrás sin pérdida de estado.
+
+### 4. Consistencia y estándares — Cumple
+- Se respetan patrones conocidos (estrella = favoritos), estilos y componentes coherentes entre vistas.  
+- La guía de frontend (DDD/CQRS, stores/services) promueve uniformidad en flujos y mensajes.  
+- Se evita “reinventar” patrones para no confundir expectativas.
+
+### 5. Prevención de errores — Parcial
+- Oportunidad: reforzar validaciones de formularios y restricciones de entrada antes del envío.  
+- Estandarizar reglas para evitar estados inválidos en CRUD y duplicados.
+
+### 6. Reconocer en lugar de recordar — Parcial (en marcha)
+- Se priorizan etiquetas y términos familiares.  
+- Próximo: exponer acciones frecuentes sin menús ocultos, autocompletado donde aplique y atajos visibles para flujos recurrentes.
+
+### 7. Flexibilidad y eficiencia de uso — Pendiente
+- Próximo: filtros rápidos en catálogo, persistencia de preferencias, atajos/acciones masivas y superficies para power users.
+
+### 8. Estética y diseño minimalista — Cumple
+- Interfaz centrada en la propuesta de valor (mystery boxes) sin ruido innecesario.  
+- CTA claro en landing.  
+- Mantener solo información esencial por pantalla.
+
+### 9. Ayuda para reconocer, diagnosticar y recuperarse de errores — Necesita mejora
+- Hallazgo del sprint: estandarizar manejo de errores para respuestas consistentes y localizadas.  
+- Próximo: mensajes accionables, códigos consistentes y recomendaciones de recuperación.
+
+### 10. Ayuda y documentación — Parcial
+- Swagger/OpenAPI actualizado (dev).  
+- Pendiente: ayudas in-app, tooltips/empty states con guía y una sección de ayuda/FAQ para usuarios finales.
+---
+
+## 5.4 🎥 Video About-the-Product
+
+Aquí puedes acceder al video explicativo del producto:  
+🔗 [Video About-the-Product en YouTube](https://www.youtube.com/watch?v=B8ZIb7cM91E)
+
+[![Miniatura del video](https://img.youtube.com/vi/B8ZIb7cM91E/0.jpg)](https://www.youtube.com/watch?v=B8ZIb7cM91E)
 
   
 # Conclusiones
-Como grupo al realizard  entrevistas con usuarios, creamos personas y customer journeys, definimos arquitectura de información, diseñamos wireframes y mockups, y acordamos el stack técnico y el alcance del Sprint 1 —entregando prototipos y las rutas principales—; estos avances nos permitieron validar hipótesis clave sobre demanda, necesidades de información y requisitos logísticos. Nos fue bien en investigación y diseño, pero quedan retos operativos por resolver: implementar las screen forntend, ajustar la logística/fulfillment y lanzar seccion productores. Se implemento bounded context y ddd, junto a buenas practicas de diseño. La colaboracion fue intensa pero logramos concluir exitosamente los puntos
+
+Investigamos con usuarios.
+Creamos personas y journeys.
+Definimos arquitectura de información.
+Diseñamos wireframes y mockups.
+Cerramos stack y alcance del Sprint 1.
+Entregamos prototipos y rutas principales.
+Validamos demanda y necesidades de información.
+Implementamos landing, catálogo y favoritos con datos reales.
+Mantuvimos consistencia e iconografía estándar.
+Aplicamos DDD y bounded contexts.
+Desplegamos para validación temprana.
+Mejoramos minimalismo y claridad.
+
+Pendientes
+
+Unificar feedback de carga, éxito y error.
+Agregar deshacer y confirmaciones.
+Hacer visibles acciones clave.
+Añadir filtros rápidos y persistencia.
+Fortalecer validaciones y prevención de errores.
+Estandarizar mensajes de error accionables.
+Incluir ayudas in‑app y FAQ.
+Ajustar logística y fulfillment.
+Lanzar sección “Dashboards”.
+
+Cierre
+
+Colaboración efectiva.
+Base técnica sólida.
+Próximo sprint cierra brechas de UX y operación.
+
 # Anexos
 - [Link del Trello:](https://trello.com/invite/b/68e01ea8517c5769321963f8/ATTId55612fc25e3b4e7bca3bdd2dc478cfdF0AFCB8B/smilingcups)
 - [Script de creación de la base de datos](db-creation-script.md)
