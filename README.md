@@ -1757,6 +1757,13 @@ En este Sprint se priorizaron los aspectos: **Front-End DDD Migration, Back-end 
 - Diagrama de Componentes C4 (Actualizado): Se actualiza el Diagrama de Componentes para reflejar la clara separación de servicios por contextos (IAM Service, Product Service, Profiles Service).
 - Guía de Frontend DDD: Documento que explica a los colaboradores la nueva estructura de la capa de presentation en Vue.js (uso de stores para manejar el estado y services para encapsular llamadas a la API).
 
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+- Se evidencia el deployment del frontend y backend para su prueba y validación.
+- Backend Deployment: URL activa del backend en Render confirmando la funcionalidad de los nuevos endpoints.
+- Frontend Deployment: URL activa del frontend en Vercel mostrando las nuevas screens y la migración a DDD/CQRS.
+- Versión de API: Registro en GitHub/GitLab de la etiqueta de la versión de la API correspondiente al final del Sprint 3.
+
   
 # Conclusiones
 Como grupo al realizard  entrevistas con usuarios, creamos personas y customer journeys, definimos arquitectura de información, diseñamos wireframes y mockups, y acordamos el stack técnico y el alcance del Sprint 1 —entregando prototipos y las rutas principales—; estos avances nos permitieron validar hipótesis clave sobre demanda, necesidades de información y requisitos logísticos. Nos fue bien en investigación y diseño, pero quedan retos operativos por resolver: implementar las screen forntend, ajustar la logística/fulfillment y lanzar seccion productores. Se implemento bounded context y ddd, junto a buenas practicas de diseño. La colaboracion fue intensa pero logramos concluir exitosamente los puntos
