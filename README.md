@@ -1720,6 +1720,18 @@ En este Sprint se priorizaron los aspectos: **Front-End DDD Migration, Back-end 
 | Johnny Alexander Ojanama Abanto | @JohnnyGZ41 | C | l | C | L | C |
 
 
+### 5.2.3.3. Sprint Backlog 3
+
+
+| User Story | Work-Item / Task | Contexto | Descripción | Estimation (Hours) | Assigned To |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| US01/US02 (Auth) | **T-23: Endpoints SignIn/SignUp** | IAM | Implementar la lógica de autenticación y registro. | 8h | Daniel Aquino |
+| US01-US44 (Migración) | **T-24: Frontend Migration: DDD/CQRS** | Frontend | Migrar vistas/componentes existentes a la nueva estructura de DDD/CQRS (*stores*, *services*). | 8h | Carlos Paredes |
+| US03/US04 (Exploración) | **T-25: Endpoints Get/Create Coffee** | Product | Implementar la obtención del listado completo y la creación de la entidad Coffee. | 6h | Juan Pastor |
+| US03 (Exploración) | **T-26: Endpoints Get/Create MysteryBox** | Product | Implementar la obtención del listado completo y la creación de la entidad MysteryBox. | 8h | Juan Pastor |
+| US19 (Favoritos) | **T-27: Endpoints CRUD Favorite** | Profiles | Implementar la lógica completa para crear y obtener favoritos por usuario. | 8h | Giuliano/Johnny |
+| US12/US43 (Métricas) | **T-28: Endpoints CRUD ProducerStats** | Profiles | Implementar la lógica CRUD para las estadísticas del productor. | 6h | Giuliano Pelaez |
+| US27 (Mapa) | **T-29: Endpoints CRUD MonthlySale** | Profiles | Implementar la lógica CRUD para las ventas mensuales (necesario para el mapa/métricas). | 6h | Johnny Ojanama |
 
 
   
