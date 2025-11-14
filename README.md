@@ -1707,6 +1707,20 @@ El despliegue del Sprint 2 se realizó en entornos locales de desarrollo fronten
 | **Sprint 2 Velocity** | 11 Story Points |
 | **Sum of Story Points** | 18 |
 
+### 5.2.3.2. Aspect Leaders and Collaborators
+
+En este Sprint se priorizaron los aspectos: **Front-End DDD Migration, Back-end IAM Context, Back-end Product Context, Back-end Profiles Context, QA & Deployment**.
+
+| **Team Member**         | **GitHub Username** | **Front-End DDD Migration** | **Back-end IAM Context** | **Back-end Product Context** | **Back-end Profiles Context** | **QA & Deployment** |
+|--------------------------|----------------------|-------------------|----------------|----------------|-------------------------------|-------------------------|
+| Carlos Augusto Paredes Chavez  | @CarlossUPC | L | C | C | C | C |
+| Juan Carlos Pastor Napa | @ElKiwi1271  | C | C | L | C | L |
+| Daniel Jonatan Aquino Solorzano| @DanielAquinoSolorzano | L | L | C | C | C |
+| Giuliano Angel Pelaez Vargas | @SimpleGP | C | C | C | L | L |
+| Johnny Alexander Ojanama Abanto | @JohnnyGZ41 | C | l | C | L | C |
+
+
+
 
   
 # Conclusiones
