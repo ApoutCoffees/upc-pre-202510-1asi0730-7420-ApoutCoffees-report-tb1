@@ -1694,6 +1694,20 @@ El despliegue del Sprint 2 se realizó en entornos locales de desarrollo fronten
 - Se identificó como fortaleza la autonomía técnica de cada miembro en su aspecto asignado.
 - Se propuso como mejora futura la integración de pruebas unitarias para componentes clave.
 
+## 5.2.3. Sprint 3
+
+### 5.2.3.1. Sprint Planning 3
+
+| **Sprint #** | Sprint 3 |
+| :--- | :--- |
+| **Sprint Planning Background** | |
+| **Fecha (Propuesta)** | 2025-10-17 |
+| **Time (Propuesta)** | 9:00 PM |
+| **Sprint Goal** | **Completar la migración del *frontend* a la arquitectura DDD y CQRS (implementando las nuevas *screens*) e implementar los *endpoints* CRUD esenciales para los contextos IAM, Product y Profiles, dejando la API lista para consumir la funcionalidad principal.** |
+| **Sprint 2 Velocity** | 11 Story Points |
+| **Sum of Story Points** | 18 |
+
+
   
 # Conclusiones
 Como grupo al realizard  entrevistas con usuarios, creamos personas y customer journeys, definimos arquitectura de información, diseñamos wireframes y mockups, y acordamos el stack técnico y el alcance del Sprint 1 —entregando prototipos y las rutas principales—; estos avances nos permitieron validar hipótesis clave sobre demanda, necesidades de información y requisitos logísticos. Nos fue bien en investigación y diseño, pero quedan retos operativos por resolver: implementar las screen forntend, ajustar la logística/fulfillment y lanzar seccion productores. Se implemento bounded context y ddd, junto a buenas practicas de diseño. La colaboracion fue intensa pero logramos concluir exitosamente los puntos
