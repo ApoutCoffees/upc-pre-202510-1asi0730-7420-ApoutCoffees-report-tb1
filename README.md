@@ -1905,6 +1905,8 @@ Próximo sprint cierra brechas de UX y operación.
 - [Link del Trello:](https://trello.com/invite/b/68e01ea8517c5769321963f8/ATTId55612fc25e3b4e7bca3bdd2dc478cfdF0AFCB8B/smilingcups)
 - [Script de creación de la base de datos](db-creation-script.md)
 - [Link del figma:](https://www.figma.com/board/NQ7PGtGlHrFM7XKNLfXZYH/AppoutCoffees?node-id=0-1&p=f&t=A2DwUhuFUJlXxUaE-0)
+- [Link del landing page deployado:](https://apoutcoffees.github.io/SmilingCups-Landing-Page)
+- [Link del frontend deployado:](https://tp1upc-apoutcoffe.web.app)
 - display: https://tp1upc-apoutcoffe.web.app/home
   
 [Repositorio de documentacion](https://github.com/ApoutCoffees/upc-pre-202510-1asi0730-7420-ApoutCoffees-report-tb1) <br>
