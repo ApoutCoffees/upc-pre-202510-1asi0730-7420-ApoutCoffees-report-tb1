@@ -1402,42 +1402,35 @@ A continuación mostraremos las capturas del Design Level Event Storming realiza
 ## 4.7Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-**Vista general:**
+**Vista general Fronted:**
 
-![](img/class-diagrams/general.png)
-
-
-**Bounded Context Marketplace**
-
-![](img/class-diagrams/marketplace.png)
+![](img/class-diagrams/general-frontend.png)
 
 
-**Bounded Context Mistery Box**
+**Backend: IAM**
 
-![](img/class-diagrams/mystery-box.png)
-
-
-**Bounded Context Profile**
-
-![](img/class-diagrams/profile.png)
+![](img/class-diagrams/backend/iam.png)
 
 
-**Bounded Context IAM**
+**Backend: Payment**
 
-![](img/class-diagrams/iam.png)
-
-
-**Bounded Context Notification**
-
-![](img/class-diagrams/notification.png)
+![](img/class-diagrams/backend/payment.png)
 
 
-**Bounded Context Subscription**
+**Backend: Product**
 
-![](img/class-diagrams/subscription.png)
+![](img/class-diagrams/backend/product.png)
 
-**Shared**
-![](img/class-diagrams/shared.png)
+
+**Backend: Profiles**
+
+![](img/class-diagrams/backend/profiles.png)
+
+
+
+**Backend: Shared**
+
+![](img/class-diagrams/backend/shared.png)
 
 
 ## 4.8. Database Design
