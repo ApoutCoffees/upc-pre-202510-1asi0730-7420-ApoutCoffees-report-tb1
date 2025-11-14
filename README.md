@@ -1863,7 +1863,6 @@ Evaluación rápida basada en las 10 heurísticas de Nielsen sobre la versión a
 Aquí puedes acceder al video explicativo del producto:  
 🔗 [Video About-the-Product en YouTube](https://www.youtube.com/watch?v=B8ZIb7cM91E)
 
-[![Miniatura del video](https://img.youtube.com/vi/B8ZIb7cM91E/0.jpg)](https://www.youtube.com/watch?v=B8ZIb7cM91E)
 
   
 # Conclusiones
@@ -1898,6 +1897,9 @@ Cierre
 Colaboración efectiva.
 Base técnica sólida.
 Próximo sprint cierra brechas de UX y operación.
+##  🎥 Video About-the-Team
+
+[Miniatura del video](https://img.youtube.com/vi/B8ZIb7cM91E/0.jpg)](https://www.youtube.com/watch?v=B8ZIb7cM91E)
 
 # Anexos
 - [Link del Trello:](https://trello.com/invite/b/68e01ea8517c5769321963f8/ATTId55612fc25e3b4e7bca3bdd2dc478cfdF0AFCB8B/smilingcups)
