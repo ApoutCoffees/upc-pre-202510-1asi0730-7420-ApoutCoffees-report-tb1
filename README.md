@@ -1733,6 +1733,19 @@ En este Sprint se priorizaron los aspectos: **Front-End DDD Migration, Back-end 
 | US12/US43 (Métricas) | **T-28: Endpoints CRUD ProducerStats** | Profiles | Implementar la lógica CRUD para las estadísticas del productor. | 6h | Giuliano Pelaez |
 | US27 (Mapa) | **T-29: Endpoints CRUD MonthlySale** | Profiles | Implementar la lógica CRUD para las ventas mensuales (necesario para el mapa/métricas). | 6h | Johnny Ojanama |
 
+### 5.2.3.4. Development Evidence for Sprint Review
+
+- La evidencia se enfoca en el código fuente que soporta la nueva arquitectura y los servicios.
+
+- Estructura del Repositorio: Se evidencian las nuevas carpetas en el frontend (stores/, services/, views/ organizadas por contexto) reflejando la arquitectura DDD/CQRS.
+
+- Backend: Archivos de Controller y Service implementados y separados para los contextos IAM, Product, y Profiles.
+
+- Migración Frontend: Se muestra la refactorización de los formularios de Registro/Login para usar los nuevos services del backend a través de stores de Vuex/Pinia.
+
+- Implementación de Clases de Dominio: Se crearon las clases C#/JavaScript necesarias para los agregados Coffee, MysteryBox, Favorite, MonthlySale, y ProducerStat en las capas de Dominio.
+
+- Pruebas Unitarias Iniciales: Se incluyeron pruebas unitarias para los métodos SignIn y SignUp del contexto IAM, verificando la lógica de autenticación básica.
 
   
 # Conclusiones
