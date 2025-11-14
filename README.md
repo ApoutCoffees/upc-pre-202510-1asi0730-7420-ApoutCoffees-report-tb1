@@ -1914,10 +1914,10 @@ Tabla inside de colaboradores <br> <img src="img/CommitsDocumentacion.PNG" alt="
 Tabla inside de colaboradores <br> <img src="img/CommitsLandingPage.PNG" alt="Commits Landing" width="1000"/>
 
 [Repositorio del Fronted](https://github.com/ApoutCoffees/SmilingCups-Fronted)
-Tabla inside de colaboradores <br> <img src="img/FrontendContributor.PNG" alt="Commits FrontEnd" width="1000"/>
+Tabla inside de colaboradores <br> <img src="img/FrontendContributor.png" alt="Commits FrontEnd" width="1000"/>
 
 [Repositorio del Backend](https://github.com/ApoutCoffees/SmilingCups-Backend)
-Tabla inside de colaboradores <br> <img src="img/BackendContributor.PNG" alt="Commits BackEnd" width="1000"/>
+Tabla inside de colaboradores <br> <img src="img/BackendContributor.png" alt="Commits BackEnd" width="1000"/>
 
 # Bibliografía 
 https://docs.github.com/es
