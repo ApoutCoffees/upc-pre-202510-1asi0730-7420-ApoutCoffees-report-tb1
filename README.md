@@ -1736,16 +1736,20 @@ En este Sprint se priorizaron los aspectos: **Front-End DDD Migration, Back-end 
 ### 5.2.3.4. Development Evidence for Sprint Review
 
 - La evidencia se enfoca en el código fuente que soporta la nueva arquitectura y los servicios.
-
 - Estructura del Repositorio: Se evidencian las nuevas carpetas en el frontend (stores/, services/, views/ organizadas por contexto) reflejando la arquitectura DDD/CQRS.
-
 - Backend: Archivos de Controller y Service implementados y separados para los contextos IAM, Product, y Profiles.
-
 - Migración Frontend: Se muestra la refactorización de los formularios de Registro/Login para usar los nuevos services del backend a través de stores de Vuex/Pinia.
-
 - Implementación de Clases de Dominio: Se crearon las clases C#/JavaScript necesarias para los agregados Coffee, MysteryBox, Favorite, MonthlySale, y ProducerStat en las capas de Dominio.
-
 - Pruebas Unitarias Iniciales: Se incluyeron pruebas unitarias para los métodos SignIn y SignUp del contexto IAM, verificando la lógica de autenticación básica.
+
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+- La ejecución se valida mediante la operatividad de los servicios y la nueva interfaz.
+- Pruebas de Postman/Swagger: Evidencia de pruebas de integración que demuestran la funcionalidad del Registro (SignUp) y la Consulta de Cajas Misteriosas (Get all MysteryBoxes) operando correctamente (HTTP 200 OK).
+- Integración Frontend-Backend: Se demuestra la nueva vista de Catálogo (/explore o /boxes) consumiendo el endpoint /product/mysteryboxes y mostrando los datos en la interfaz.
+- Funcionalidad de Favoritos: Se muestra la funcionalidad del botón de "estrella" en el frontend ejecutando la llamada Create Favorite del backend con éxito.
+- Deployment Inicial: Evidencia de que el backend actualizado está deployed en Render y que el frontend migrado está deployed en Vercel, con una conexión exitosa entre ambos.
+
 
   
 # Conclusiones
