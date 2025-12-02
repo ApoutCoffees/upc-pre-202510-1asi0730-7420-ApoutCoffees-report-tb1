@@ -1870,36 +1870,23 @@ Aquí puedes acceder al video explicativo del producto:
   
 # Conclusiones
 
-Investigamos con usuarios.
-Creamos personas y journeys.
-Definimos arquitectura de información.
-Diseñamos wireframes y mockups.
-Cerramos stack y alcance del Sprint 1.
-Entregamos prototipos y rutas principales.
-Validamos demanda y necesidades de información.
-Implementamos landing, catálogo y favoritos con datos reales.
-Mantuvimos consistencia e iconografía estándar.
-Aplicamos DDD y bounded contexts.
-Desplegamos para validación temprana.
-Mejoramos minimalismo y claridad.
+El desarrollo del proyecto SmilingCups ha permitido validar que la propuesta de valor centrada en las "Mystery Boxes" responde efectivamente a la necesidad de los consumidores jóvenes de explorar nuevas variedades de café de forma lúdica y accesible. A través de las entrevistas de validación y el análisis del *User Journey*, se confirmó que el factor sorpresa, combinado con la información detallada del origen del producto, genera un alto interés y diferenciación frente a la compra tradicional en supermercados, cumpliendo así con las hipótesis planteadas en la fase de *Lean UX*.
 
-Pendientes
+Desde la perspectiva técnica, la implementación de una arquitectura orientada al dominio (DDD) y la segregación de responsabilidades mediante *Bounded Contexts* (IAM, Product, Profile, Subscription) resultaron fundamentales para la escalabilidad del software. Esta estructura permitió al equipo trabajar de manera paralela en el *frontend* y *backend* sin generar bloqueos significativos, logrando desplegar una solución robusta que soporta tanto la gestión de contenido para los productores como la experiencia de compra para los consumidores.
 
-Unificar feedback de carga, éxito y error.
-Agregar deshacer y confirmaciones.
-Hacer visibles acciones clave.
-Añadir filtros rápidos y persistencia.
-Fortalecer validaciones y prevención de errores.
-Estandarizar mensajes de error accionables.
-Incluir ayudas in‑app y FAQ.
-Ajustar logística y fulfillment.
-Lanzar sección “Dashboards”.
+Asimismo, se concluye que la adopción de prácticas de ingeniería de software modernas, como el flujo de trabajo *GitFlow*, la integración continua y el despliegue en plataformas nube (Render y Vercel), garantizó la estabilidad y disponibilidad del producto final. Las métricas de colaboración y la trazabilidad de los *commits* evidencian que el entorno colaborativo establecido fue eficaz para mitigar la deuda técnica y asegurar que los entregables cumplieran con los estándares de calidad y los criterios de aceptación definidos en las historias de usuario.
 
-Cierre
+# Recomendaciones
 
-Colaboración efectiva.
-Base técnica sólida.
-Próximo sprint cierra brechas de UX y operación.
+Se recomienda priorizar la integración de una pasarela de pagos real (como Stripe o MercadoPago) en la siguiente fase evolutiva del producto. Aunque la simulación actual valida el flujo de suscripción, la implementación de transacciones reales permitirá obtener métricas financieras precisas y validar la disposición real de pago (*Willingness to Pay*) de los usuarios, cerrando el ciclo comercial del modelo de negocio.
+
+Para potenciar la retención de usuarios del segmento "Consumidor", se sugiere expandir el sistema de gamificación y fidelización. Implementar un esquema de puntos por reseñas, niveles de usuario basados en la exploración de cafés y recompensas tangibles fortalecerá la comunidad digital, incentivando la recurrencia y el "boca a boca", que fueron identificados como canales clave de adquisición durante la investigación.
+
+Desde el punto de vista operativo para el segmento "Productor", es recomendable desarrollar un módulo de integración logística automatizada. Conectar la plataforma con APIs de servicios de *delivery* locales permitiría ofrecer seguimiento en tiempo real de los pedidos, solucionando uno de los principales "puntos de dolor" detectados en las entrevistas con los microempresarios respecto a la gestión de envíos y la confianza del cliente final.
+
+Finalmente, se aconseja evaluar el desarrollo de una aplicación móvil nativa (iOS/Android) a mediano plazo. Dado que el análisis del tráfico y las preferencias del segmento objetivo joven indican un uso predominante de dispositivos móviles, una *app* nativa podría ofrecer una experiencia de usuario más fluida, aprovechar mejor las notificaciones *push* para alertas de nuevas *Mystery Boxes* y utilizar características del dispositivo como la geolocalización para sugerir cafeterías cercanas.
+
+
 ##  🎥 Video About-the-Team
 
 [Miniatura del video](https://img.youtube.com/vi/B8ZIb7cM91E/0.jpg)](https://www.youtube.com/watch?v=B8ZIb7cM91E)
