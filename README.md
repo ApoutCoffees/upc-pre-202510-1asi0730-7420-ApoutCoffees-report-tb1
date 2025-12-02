@@ -7,25 +7,29 @@
 
 **Ciclo:** 2025-20
 <br>
+**Curso:** 1AS10730 Aplicaciones Web
+<br>
 **NRC:** 7420
 <br>
-**Docente del curso:** Alex Humberto Sánchez Ponce
+**Docente:** Alex Humberto Sánchez Ponce
 
 ---
-# INFORME DE TRABAJO(TP1)
+# INFORME DE TRABAJO FINAL
 
 **Nombre de la Startup:** ApoutCoffees
 
 **Nombre del producto:** SmilingCups
 
 ## Integrantes
-- Carlos Augusto Paredes Chavez - U202321613
-- Daniel Jonatan Aquino Solorzano - U202217678
-- Johnny Alexander Ojanama Abanto - U20231F412
-- Juan Carlos Pastor Napa - U202217288
-- Giuliano Angel Pelaez Vargas - U20221E121  
+| Código | Apellidos y Nombres | Carrera |
+| :--- | :--- | :--- |
+| U202321613 | Paredes Chavez, Carlos Augusto | Ingeniería de Software |
+| U202217678 | Aquino Solorzano, Daniel Jonatan | Ingeniería de Software |
+| U20231F412 | Ojanama Abanto, Johnny Alexander | Ingeniería de Software |
+| U202217288 | Pastor Napa, Juan Carlos | Ingeniería de Software |
+| U20221E121 | Pelaez Vargas, Giuliano Angel | Ingeniería de Software |
 
-**Fecha:** Octubre, 2025
+**Fecha:** Diciembre, 2025
 </div>
 
 ## Registro de versiones del informe
