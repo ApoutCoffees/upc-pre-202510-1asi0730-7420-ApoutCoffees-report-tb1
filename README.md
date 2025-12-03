@@ -545,8 +545,8 @@ __Entrevista 3 (Fabricio Quispe Barzola)__
 **Resumen de Entrevista :**
 Entrevista a Fabricio Fabián Quispe Barzola (24, Diseñador Gráfico), consumidor del Segmento 1. Fabricio relata su frustración al sentir "parálisis por análisis" ante la excesiva terminología técnica en las tiendas de café, terminando por comprar siempre lo mismo por miedo a equivocarse. Como diseñador, valora profundamente la estética del empaque. Se muestra muy interesado en el concepto de "Mystery Box" como una forma lúdica de descubrir nuevos orígenes sin la presión de elegir, condicionado a que el producto garantice frescura y sostenibilidad.
 
-[![Franco](<img src="img/EntrevistaFabricioNeedFinding
-.png" alt="Commits Interviews" width="1000"/>)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321613_upc_edu_pe/cQqeSf8YjHZXSaPSRBdmVMrsEgUAfy23NveTOBi4SVu4uUoX_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=&)
+[![Fabricio](img/EntrevistaFabricioNeedFinding.png)](https://upcedupe-my-sharepoint.com/:v:/g/personal/u202321613_upc_edu_pe/cQqeSf8YjHZXSaPSRBdmVMrsEgUAfy23NveTOBi4SVu4uUoX_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=&)
+
 
 ---
 
@@ -1817,8 +1817,8 @@ En este Sprint se priorizaron los aspectos: **Front-End DDD Migration, Back-end 
 - **Segmento 1: Consumidores:** [Video](https://www.youtube.com/watch?v=DQSg31vmxsY)  
   [![Miniatura consumidores](https://img.youtube.com/vi/DQSg31vmxsY/0.jpg)](https://www.youtube.com/watch?v=DQSg31vmxsY)
 
-[Video Entrevista a Fabricio Quispe](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321613_upc_edu_pe/cQoVIR-uRpbFQ4dUT-UYUnUcEgUAoof3KdfHeFlqCH41fxradQ)  
-  [![Miniatura consumidores](<img src="img/EntrevistaFabiricioValidation.png" alt="Commits Interviews" width="1000"/>)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321613_upc_edu_pe/cQoVIR-uRpbFQ4dUT-UYUnUcEgUAoof3KdfHeFlqCH41fxradQ)
+[![Video Entrevista a Fabricio Quispe](img/EntrevistaFabiricioValidation.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321613_upc_edu_pe/cQoVIR-uRpbFQ4dUT-UYUnUcEgUAoof3KdfHeFlqCH41fxradQ)
+
 
 
 - **Segmento 2: Empresas cafeteras:** [Video](https://www.youtube.com/watch?v=DCQxbXIhFKg)  
