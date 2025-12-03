@@ -1922,6 +1922,41 @@ Para asegurar la integración completa del núcleo del negocio y un despliegue e
 | **TS29** | QA (Testing) | Integration Test: Product Flow | Verificar flujo completo: Login Productor -> Crear Café -> Crear Caja -> Ver en Catálogo. | Juan Pastor |
 | **TS30** | Documentation | Swagger Update | Actualizar documentación OpenAPI con los esquemas de respuesta de los nuevos endpoints. | Juan Pastor |
 
+## 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+| **Sprint #** | Sprint 4 |
+| :--- | :--- |
+| **Sprint Planning Background** | |
+| **Date** | 2025-11-20 |
+| **Time** | 9:00 PM |
+| **Location** | Meet via Discord |
+| **Prepared By** | Carlos Augusto Paredes Chavez |
+| **Attendees (to planning meeting)** | Carlos Augusto Paredes Chavez / Daniel Jonatan Aquino Solorzano / Johnny Alexander Ojanama Abanto / Juan Carlos Pastor Napa / Giuliano Angel Pelaez Vargas |
+| **Sprint n – 1 Review Summary** | En el Sprint anterior se logró la migración exitosa del frontend a la arquitectura DDD y la implementación base del contexto IAM (autenticación). Sin embargo, quedaron pendientes la integración visual del catálogo con datos reales del backend y la gestión completa de los productos (Cafés y Cajas) para el administrador. |
+| **Sprint n – 1 Retrospective Summary** | El equipo valoró positivamente la adopción de DDD, aunque se detectó que la integración entre frontend y backend requería una comunicación más fluida sobre los contratos de la API. Se acordó realizar pruebas de integración más tempranas. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 4 Goal** | **Implementar la gestión completa del núcleo del negocio (Catálogo de Cafés y Mystery Boxes) a nivel de API y Frontend, y asegurar el despliegue final de la solución validada.** |
+| **Sprint 4 Velocity** | 20 Story Points |
+| **Sum of Story Points** | 18 |
+
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+En este Sprint, los esfuerzos se concentraron en la integración final de los contextos de negocio principales y el aseguramiento de la calidad para el despliegue en producción.
+* **L** = Leader (Líder), **C** = Collaborator (Colaborador)
+
+
+| Team Member | GitHub Username | Backend (Product Context) | Frontend (Product Context) | Deployment & DevOps | QA & Final Documentation |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Carlos Augusto Paredes Chavez** | @CarlossUPC | C | C | C | **L** |
+| **Daniel Jonatan Aquino Solorzano** | @DanielAquinoSolorzano | **L** | C | **L** | C |
+| **Johnny Alexander Ojanama Abanto** | @JohnnyGZ41 | **L** | C | C | C |
+| **Juan Carlos Pastor Napa** | @ElKiwi1271 | **L** | C | C | C |
+| **Giuliano Angel Pelaez Vargas** | @SimpleGP | C | C | C | **L** |
+
+
 ### 5.2.4.3. Sprint Backlog 4
 
 Para asegurar la integración completa del núcleo del negocio, el backlog se desglosó en **30 Technical Stories** distribuidas entre Daniel, Juan y Johnny.
