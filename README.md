@@ -1921,6 +1921,121 @@ Para asegurar la integración completa del núcleo del negocio y un despliegue e
 | **TS29** | QA (Testing) | Integration Test: Product Flow | Verificar flujo completo: Login Productor -> Crear Café -> Crear Caja -> Ver en Catálogo. | Juan Pastor |
 | **TS30** | Documentation | Swagger Update | Actualizar documentación OpenAPI con los esquemas de respuesta de los nuevos endpoints. | Juan Pastor |
 
+### 5.2.4.3. Sprint Backlog 4
+
+Para asegurar la integración completa del núcleo del negocio, el backlog se desglosó en **30 Technical Stories** distribuidas entre Daniel, Juan y Johnny.
+
+| ID Tarea | Contexto / Capa | Título de la Tarea Técnica | Descripción Técnica | Est. (h) | Asignado A | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **TS01** | Backend (Data) | Schema Migration: Coffee & Box | Crear scripts SQL/ORM para las tablas `coffees`, `mystery_boxes` y la tabla intermedia `box_items`. | 3h | Daniel Aquino | **Done** |
+| **TS02** | Backend (Domain) | Coffee Domain Entity | Implementar la clase de dominio `Coffee` con validaciones de lógica de negocio (ej. precio > 0). | 2h | Daniel Aquino | **Done** |
+| **TS03** | Backend (Domain) | MysteryBox Domain Entity | Implementar la clase `MysteryBox` y métodos para calcular precio total basado en items. | 3h | Daniel Aquino | **Done** |
+| **TS04** | Backend (Infra) | Coffee Repository Impl | Implementar `ICoffeeRepository` conectando con MySQL para persistencia. | 4h | Juan Pastor | **Done** |
+| **TS05** | Backend (Infra) | MysteryBox Repository Impl | Implementar `IMysteryBoxRepository` para persistencia de cajas y sus relaciones. | 4h | Juan Pastor | **Done** |
+| **TS06** | Backend (App) | CreateCoffee Command | Crear el Command Handler para la lógica de registro de nuevos cafés. | 3h | Juan Pastor | **Done** |
+| **TS07** | Backend (App) | CreateMysteryBox Command | Crear el Command Handler que orqueste la creación de cajas compuestas. | 3h | Juan Pastor | **Done** |
+| **TS08** | Backend (API) | DTOs & Validation | Definir `CreateCoffeeDto` y `CreateBoxDto` usando librerías de validación (Joi/Zod). | 2h | Juan Pastor | **Done** |
+| **TS09** | Backend (API) | Endpoint POST /coffees | Exponer endpoint para productores, incluyendo middleware de autorización (Role: Producer). | 2h | Daniel Aquino | **Done** |
+| **TS10** | Backend (API) | Endpoint POST /mystery-boxes | Exponer endpoint para creación de cajas, validando existencia de cafés IDs. | 3h | Daniel Aquino | **Done** |
+| **TS11** | Backend (Query) | Public Catalog Query Handler | Implementar query optimizada para listar cajas activas en el catálogo público. | 4h | Daniel Aquino | **Done** |
+| **TS12** | Backend (API) | Endpoint GET /catalog | Exponer endpoint público para listar Mystery Boxes con paginación. | 2h | Daniel Aquino | **Done** |
+| **TS13** | Backend (API) | Endpoint GET /coffees/{id} | Exponer detalle de café para la vista dinámica de producto. | 2h | Juan Pastor | **Done** |
+| **TS14** | Frontend (State) | Pinia Product Store | Configurar Store en Vue.js para manejar el estado global de `catalog` y `currentProduct`. | 4h | Johnny Ojanama | **Done** |
+| **TS15** | Frontend (Service) | Axios Product Service | Crear capa de servicio HTTP para conectar con los nuevos endpoints de `/api/v1/product`. | 3h | Johnny Ojanama | **Done** |
+| **TS16** | Frontend (UI) | Producer Layout | Maquetar la estructura del Dashboard del Productor (Sidebar, Header Admin). | 4h | Johnny Ojanama | **Done** |
+| **TS17** | Frontend (UI) | Componente: CoffeeCard | Crear componente visual reutilizable para mostrar items de café en listas. | 3h | Johnny Ojanama | **Done** |
+| **TS18** | Frontend (UI) | Componente: BoxCard | Crear componente visual para las tarjetas de Mystery Boxes en el catálogo público. | 3h | Johnny Ojanama | **Done** |
+| **TS19** | Frontend (Form) | Create Coffee View | Desarrollar formulario de registro de café con validación reactiva (Vuelidate/VeeValidate). | 5h | Juan Pastor | **Done** |
+| **TS20** | Frontend (Form) | Coffee Selector Component | Crear componente "Multi-select" para elegir qué cafés van dentro de una Mystery Box. | 4h | Juan Pastor | **Done** |
+| **TS21** | Frontend (Form) | Create Box View | Integrar el selector en el formulario de creación de Mystery Box y conectar el envío con el Store. | 5h | Juan Pastor | **Done** |
+| **TS22** | Frontend (View) | Public Catalog View | Implementar la vista "Grid" del catálogo consumiendo datos reales del backend. | 4h | Johnny Ojanama | **Done** |
+| **TS23** | Frontend (View) | Dynamic Product Detail | Configurar Vue Router para rutas dinámicas `/product/:id` y renderizar detalle. | 3h | Johnny Ojanama | **Done** |
+| **TS24** | Frontend (UX) | Feedback & Loaders | Implementar Skeletons de carga y Toasts de éxito/error para acciones del productor. | 3h | Juan Pastor | **Done** |
+| **TS25** | DevOps (DB) | Prod Database Seed | Crear script de "Seed" con datos maestros iniciales para el entorno de producción. | 2h | Daniel Aquino | **Done** |
+| **TS26** | DevOps (Backend) | Render Pipeline Config | Configurar variables de entorno (`NODE_ENV`, `DB_HOST`) y build scripts en Render. | 3h | Daniel Aquino | **Done** |
+| **TS27** | DevOps (Frontend) | Vercel Pipeline Config | Configurar rewrites y variables de entorno en Vercel para apuntar al API de producción. | 2h | Daniel Aquino | **Done** |
+| **TS28** | QA (Testing) | Unit Tests: Domain Logic | Crear pruebas unitarias para reglas de negocio (ej. cálculo de precios) en Backend. | 4h | Johnny Ojanama | **Done** |
+| **TS29** | QA (Testing) | Integration Test: Product Flow | Verificar flujo completo: Login Productor -> Crear Café -> Crear Caja -> Ver en Catálogo. | 5h | Johnny Ojanama | **Done** |
+| **TS30** | Documentation | Swagger Update | Actualizar documentación OpenAPI con los esquemas de respuesta de los nuevos endpoints. | 2h | Juan Pastor | **Done** |
+
+
+### 5.2.4.4. Development Evidence for Sprint Review
+
+A continuación se listan los commits más relevantes que evidencian la construcción de los entregables del Sprint 4, enfocados en el contexto de Producto y el despliegue final.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **SmilingCups-Backend** | `feature/product-context` | `852e885` | **feat(product):** | implement create coffee endpoint with validation | 2025-11-21 |
+| **SmilingCups-Frontend** | `feature/producer-ui` | `523a863` | **feat(admin):** | add coffee registration form for producers | 2025-11-22 |
+| **SmilingCups-Backend** | `feature/product-context` | `b3634ae7` | **feat(product):** | add mystery box composition logic and persistence | 2025-11-23 |
+| **SmilingCups-Frontend** | `feature/producer-ui` | `a452io2` | **feat(admin):** | implement mystery box creation UI with coffee selector | 2025-11-24 |
+| **SmilingCups-Backend** | `feature/catalog-api` | `q3r4s5t` | **feat(catalog):** | expose public endpoint for mystery boxes list | 2025-11-25 |
+| **SmilingCups-Frontend** | `feature/catalog-view` | `925e854` | **feat(catalog):** | connect browse view to real backend api | 2025-11-25 |
+| **SmilingCups-Backend** | `feature/catalog-api` | `y9z0a1b` | **feat(catalog):** | implement get coffee detail by id | 2025-11-26 |
+| **SmilingCups-Frontend** | `feature/catalog-view` | `958i326` | **feat(detail):** | dynamic routing for coffee detail page | 2025-11-26 |
+| **SmilingCups-Backend** | `main` | `8ddf504` | **chore(deploy):** | configure render build script and env vars | 2025-11-27 |
+| **SmilingCups-Frontend** | `main` | `8dfd902` | **chore(deploy):** | update vercel configuration for production build | 2025-11-27 |
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+En este Sprint se logró la integración total de los flujos de gestión de productos. A continuación, se presenta la evidencia visual de las funcionalidades clave desplegadas en el entorno de producción.
+
+**1. Catálogo de Mystery Boxes (Vista Consumidor)**
+Se implementó la vista pública donde los usuarios pueden explorar las cajas disponibles. La data se consume en tiempo real desde el endpoint .
+
+**2. Detalle de Producto**
+Al hacer clic en una caja o café específico, el sistema navega a una vista de detalle dinámica, mostrando la información de origen, notas de cata y precio, recuperada mediante .
+
+**3. Panel Administrativo para Productores**
+Se habilitaron los formularios para que los productores registrados puedan dar de alta nuevos cafés y componer nuevas cajas para la venta .
+
+
+---
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+La documentación de la API se ha actualizado para reflejar los nuevos endpoints del **Contexto de Producto**. A continuación se detallan los recursos expuestos y documentados mediante OpenAPI (Swagger).
+
+| Método | Endpoint | Descripción | Status |
+| :--- | :--- | :--- | :--- |
+| **GET** | `/api/v1/coffees` | Obtiene el listado completo de cafés disponibles en el sistema. | Documentado |
+| **POST** | `/api/v1/coffees` | Permite a un productor autenticado registrar un nuevo café. | Documentado |
+| **GET** | `/api/v1/coffees/{coffeeId}` | Recupera la información detallada de un café específico por su ID. | Documentado |
+| **GET** | `/api/v1/mystery-boxes` | Lista todas las Mystery Boxes activas para la venta. | Documentado |
+| **POST** | `/api/v1/mystery-boxes` | Crea una nueva Mystery Box agrupando una selección de cafés. | Documentado |
+| **GET** | `/api/v1/mystery-boxes/{mysteryBoxId}` | Obtiene el detalle y contenido de una caja específica. | Documentado |
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para el cierre del proyecto, se estableció un flujo de despliegue continuo (CI/CD) que asegura que la versión en producción esté siempre sincronizada con la rama `main` del repositorio.
+
+**1. Despliegue del Backend (API RESTful)**
+La API fue desplegada en **Render** utilizando un servicio web conectado directamente al repositorio de GitHub. Se configuraron las variables de entorno (`DB_HOST`, `DB_USER`, `JWT_SECRET`) para el entorno de producción.
+
+![Evidencia Swagger 1](img/EvidenciaSwagger1.png)
+
+![Evidencia Swagger 2](img/EvidenciaSwagger2.png)
+
+![Evidencia Swagger 3](img/EvidenciaSwagger3.png)
+
+![Evidencia Swagger 4](img/EvidenciaSwagger4.png)
+
+**2. Despliegue del Frontend (Single Page Application)**
+La aplicación Vue.js fue desplegada en **Vercel**. El proceso de construcción (`npm run build`) se ejecuta automáticamente ante cada *push* a la rama principal.
+
+**3. Base de Datos en la Nube**
+La base de datos MySQL se encuentra alojada  y es accesible por el backend desplegado.
+
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 4, la colaboración del equipo se intensificó debido a la necesidad de integrar los componentes del Product Context en ambas capas (Frontend y Backend) simultáneamente para cumplir con la fecha de despliegue.
+
+**Estrategia de Colaboración:**
+* **GitFlow :** Se mantuvieron ramas de características específicas (`feature/catalog-api`, `feature/producer-ui`) que solo se fusionaron a `develop` y posteriormente a `main` tras la aprobación de Pull Requests. Esto evitó conflictos en el código base durante la fase crítica de despliegue.
+* **Sincronización API-Frontend:** Dado que el Frontend dependía de los nuevos endpoints del catálogo, Daniel (Backend Lead) y Juan (Frontend Lead) realizaron sesiones de *Pair Programming* para definir los contratos JSON antes de la implementación, reduciendo el tiempo de depuración.
+* **Despliegue Coordinado:** La configuración de los pipelines de CI/CD en Render y Vercel fue supervisada por Daniel, quien aseguró que las variables de entorno de producción estuvieran sincronizadas en todos los servicios.
+
 
   
 # Conclusiones
