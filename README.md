@@ -1817,7 +1817,7 @@ En este Sprint se priorizaron los aspectos: **Front-End DDD Migration, Back-end 
 - **Segmento 1: Consumidores:** [Video](https://www.youtube.com/watch?v=DQSg31vmxsY)  
   [![Miniatura consumidores](https://img.youtube.com/vi/DQSg31vmxsY/0.jpg)](https://www.youtube.com/watch?v=DQSg31vmxsY)
 
-[![Video Entrevista a Fabricio Quispe](img/EntrevistaFabiricioValidation.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321613_upc_edu_pe/cQoVIR-uRpbFQ4dUT-UYUnUcEgUAoof3KdfHeFlqCH41fxradQ)
+[![Video Entrevista a Fabricio Quispe](img/EntrevistaFabiricioValidatción.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321613_upc_edu_pe/cQoVIR-uRpbFQ4dUT-UYUnUcEgUAoof3KdfHeFlqCH41fxradQ)
 
 
 
@@ -1883,6 +1883,43 @@ Evaluación rápida basada en las 10 heurísticas de Nielsen sobre la versión a
 
 Aquí puedes acceder al video explicativo del producto:  
 🔗 [Video About-the-Product en YouTube](https://www.youtube.com/watch?v=B8ZIb7cM91E)
+
+## 5.5 Technical Stories
+
+Para asegurar la integración completa del núcleo del negocio y un despliegue exitoso bajo la arquitectura DDD/CQRS, se definieron **30 Technical Stories** distribuidas entre las capas de la arquitectura.
+
+| ID Tarea | Contexto / Capa | Título de la Tarea Técnica | Descripción Técnica | Asignado A |
+| :--- | :--- | :--- | :--- | :--- |
+| **TS01** | Backend (Data) | Schema Migration: Coffee & Box | Crear scripts SQL/ORM para las tablas `coffees`, `mystery_boxes` y la tabla intermedia `box_items`. | Daniel Aquino |
+| **TS02** | Backend (Domain) | Coffee Domain Entity | Implementar la clase de dominio `Coffee` con validaciones de lógica de negocio (ej. precio > 0). | Daniel Aquino |
+| **TS03** | Backend (Domain) | MysteryBox Domain Entity | Implementar la clase `MysteryBox` y métodos para calcular precio total basado en items. | Daniel Aquino |
+| **TS04** | Backend (Infra) | Coffee Repository Impl | Implementar `ICoffeeRepository` conectando con MySQL para persistencia. | Daniel Aquino |
+| **TS05** | Backend (Infra) | MysteryBox Repository Impl | Implementar `IMysteryBoxRepository` para persistencia de cajas y sus relaciones. | Johnny Ojanama |
+| **TS06** | Backend (App) | CreateCoffee Command | Crear el Command Handler para la lógica de registro de nuevos cafés. | Juan Pastor |
+| **TS07** | Backend (App) | CreateMysteryBox Command | Crear el Command Handler que orqueste la creación de cajas compuestas. | Juan Pastor |
+| **TS08** | Backend (API) | DTOs & Validation | Definir `CreateCoffeeDto` y `CreateBoxDto` usando librerías de validación (Joi/Zod). | Juan Pastor |
+| **TS09** | Backend (API) | Endpoint POST /coffees | Exponer endpoint para productores, incluyendo middleware de autorización (Role: Producer). | Daniel Aquino |
+| **TS10** | Backend (API) | Endpoint POST /mystery-boxes | Exponer endpoint para creación de cajas, validando existencia de cafés IDs. | Daniel Aquino |
+| **TS11** | Backend (Query) | Public Catalog Query Handler | Implementar query optimizada para listar cajas activas en el catálogo público. | Juan Pastor |
+| **TS12** | Backend (API) | Endpoint GET /catalog | Exponer endpoint público para listar Mystery Boxes con paginación. | Daniel Aquino |
+| **TS13** | Backend (API) | Endpoint GET /coffees/{id} | Exponer detalle de café para la vista dinámica de producto. | Juan Pastor |
+| **TS14** | Frontend (State) | Pinia Product Store | Configurar Store en Vue.js para manejar el estado global de `catalog` y `currentProduct`. | Juan Pastor |
+| **TS15** | Frontend (Service) | Axios Product Service | Crear capa de servicio HTTP para conectar con los nuevos endpoints de `/api/v1/product`. | Johnny Ojanama |
+| **TS16** | Frontend (UI) | Producer Layout | Maquetar la estructura del Dashboard del Productor (Sidebar, Header Admin). | Johnny Ojanama |
+| **TS17** | Frontend (UI) | Componente: CoffeeCard | Crear componente visual reutilizable para mostrar items de café en listas. | Johnny Ojanama |
+| **TS18** | Frontend (UI) | Componente: BoxCard | Crear componente visual para las tarjetas de Mystery Boxes en el catálogo público. | Johnny Ojanama |
+| **TS19** | Frontend (Form) | Create Coffee View | Desarrollar formulario de registro de café con validación reactiva (Vuelidate/VeeValidate). | Daniel Aquino |
+| **TS20** | Frontend (Form) | Coffee Selector Component | Crear componente "Multi-select" para elegir qué cafés van dentro de una Mystery Box. | Daniel Aquino |
+| **TS21** | Frontend (Form) | Create Box View | Integrar el selector en el formulario de creación de Mystery Box y conectar el envío con el Store. | Daniel Aquino |
+| **TS22** | Frontend (View) | Public Catalog View | Implementar la vista "Grid" del catálogo consumiendo datos reales del backend. | Johnny Ojanama |
+| **TS23** | Frontend (View) | Dynamic Product Detail | Configurar Vue Router para rutas dinámicas `/product/:id` y renderizar detalle. | Johnny Ojanama |
+| **TS24** | Frontend (UX) | Feedback & Loaders | Implementar Skeletons de carga y Toasts de éxito/error para acciones del productor. | Juan Pastor |
+| **TS25** | DevOps (DB) | Prod Database Seed | Crear script de "Seed" con datos maestros iniciales para el entorno de producción. | Daniel Aquino |
+| **TS26** | DevOps (Backend) | Render Pipeline Config | Configurar variables de entorno (`NODE_ENV`, `DB_HOST`) y build scripts en Render. | Daniel Aquino |
+| **TS27** | DevOps (Frontend) | Vercel Pipeline Config | Configurar rewrites y variables de entorno en Vercel para apuntar al API de producción. | Johnny Ojanama |
+| **TS28** | QA (Testing) | Unit Tests: Domain Logic | Crear pruebas unitarias para reglas de negocio (ej. cálculo de precios) en Backend. | Juan Pastor |
+| **TS29** | QA (Testing) | Integration Test: Product Flow | Verificar flujo completo: Login Productor -> Crear Café -> Crear Caja -> Ver en Catálogo. | Juan Pastor |
+| **TS30** | Documentation | Swagger Update | Actualizar documentación OpenAPI con los esquemas de respuesta de los nuevos endpoints. | Juan Pastor |
 
 
   
