@@ -536,9 +536,23 @@ Franco Matías Tasayko Flores, de 20 años, tiene una relación con el café mar
 
 ---
 
+__Entrevista 3 (Fabricio Quispe Barzola)__
+
++ Nombre: Fabricio Fabián Quispe Barzola
++ Edad: 20
++ Distrito de residencia: Ate
+
+**Resumen de Entrevista :**
+Entrevista a Fabricio Fabián Quispe Barzola (24, Diseñador Gráfico), consumidor del Segmento 1. Fabricio relata su frustración al sentir "parálisis por análisis" ante la excesiva terminología técnica en las tiendas de café, terminando por comprar siempre lo mismo por miedo a equivocarse. Como diseñador, valora profundamente la estética del empaque. Se muestra muy interesado en el concepto de "Mystery Box" como una forma lúdica de descubrir nuevos orígenes sin la presión de elegir, condicionado a que el producto garantice frescura y sostenibilidad.
+
+[![Franco](<img src="img/EntrevistaFabricioNeedFinding
+.png" alt="Commits Interviews" width="1000"/>)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321613_upc_edu_pe/cQqeSf8YjHZXSaPSRBdmVMrsEgUAfy23NveTOBi4SVu4uUoX_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=&)
+
+---
+
 ___-Segmento Objetivo 2___
 
-__Entrevista 3 (Jhonatan Murga Abad)__
+__Entrevista 4 (Jhonatan Murga Abad)__
 
 + Nombre: Jhonatan Murga Abad
 + Edad: 34
@@ -552,7 +566,7 @@ Jhonatan Murga Abad, ingeniero agroindustrial, comparte la experiencia de comerc
 
 ---
 
-__Entrevista 4 (Toby Dextre)__
+__Entrevista 5 (Toby Dextre)__
 
 + Nombre: Toby Dextre
 + Edad: 23
@@ -566,7 +580,7 @@ Dextre, un estudiante que vende café por Instagram; comenzó por necesidad econ
 
 ---
 
-__Entrevista 5 (Kory Milagros)__
+__Entrevista 6 (Kory Milagros)__
 
 + Nombre: Kory Milagros
 + Edad: 48
@@ -1804,7 +1818,7 @@ En este Sprint se priorizaron los aspectos: **Front-End DDD Migration, Back-end 
   [![Miniatura consumidores](https://img.youtube.com/vi/DQSg31vmxsY/0.jpg)](https://www.youtube.com/watch?v=DQSg31vmxsY)
 
 [Video Entrevista a Fabricio Quispe](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321613_upc_edu_pe/cQoVIR-uRpbFQ4dUT-UYUnUcEgUAoof3KdfHeFlqCH41fxradQ)  
-  [![Miniatura consumidores](<img src="img/EntrevistaFabiricioValidation" alt="Commits Interviews" width="1000"/>)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321613_upc_edu_pe/cQoVIR-uRpbFQ4dUT-UYUnUcEgUAoof3KdfHeFlqCH41fxradQ)
+  [![Miniatura consumidores](<img src="img/EntrevistaFabiricioValidation.png" alt="Commits Interviews" width="1000"/>)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321613_upc_edu_pe/cQoVIR-uRpbFQ4dUT-UYUnUcEgUAoof3KdfHeFlqCH41fxradQ)
 
 
 - **Segmento 2: Empresas cafeteras:** [Video](https://www.youtube.com/watch?v=DCQxbXIhFKg)  
