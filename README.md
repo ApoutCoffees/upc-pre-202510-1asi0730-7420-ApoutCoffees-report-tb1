@@ -1817,7 +1817,7 @@ En este Sprint se priorizaron los aspectos: **Front-End DDD Migration, Back-end 
 - **Segmento 1: Consumidores:** [Video](https://www.youtube.com/watch?v=DQSg31vmxsY)  
   [![Miniatura consumidores](https://img.youtube.com/vi/DQSg31vmxsY/0.jpg)](https://www.youtube.com/watch?v=DQSg31vmxsY)
 
-[![Video Entrevista a Fabricio Quispe](img/EntrevistaFabiricioValidatción.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321613_upc_edu_pe/cQoVIR-uRpbFQ4dUT-UYUnUcEgUAoof3KdfHeFlqCH41fxradQ)
+[![Video Entrevista a Fabricio Quispe](img/EntrevistaFabricioValidation.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202321613_upc_edu_pe/cQoVIR-uRpbFQ4dUT-UYUnUcEgUAoof3KdfHeFlqCH41fxradQ)
 
 
 
