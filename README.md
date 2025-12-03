@@ -2023,6 +2023,13 @@ La API fue desplegada en **Render** utilizando un servicio web conectado directa
 
 **2. Despliegue del Frontend (Single Page Application)**
 La aplicación Vue.js fue desplegada en **Vercel**. El proceso de construcción (`npm run build`) se ejecuta automáticamente ante cada *push* a la rama principal.
+![Evidencia FrontEnd 1](img/FrontEnd1.png)
+
+![Evidencia FrontEnd 2](img/FrontEnd2.png)
+
+![Evidencia FrontEnd 3](img/FrontEnd3.png)
+
+![Evidencia FrontEnd 4](img/FrontEnd4.png)
 
 **3. Base de Datos en la Nube**
 La base de datos MySQL se encuentra alojada  y es accesible por el backend desplegado.
